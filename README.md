@@ -1,2 +1,24 @@
 # Elin-Vietnamese
-Mình là người mới bắt đầu dịch thuật. Đây là dự án đầu tiên của mình, nếu đâu đó ngoài kia có bản dịch tốt hơn xin hãy cảm thấy thoải mái lãng quên dự án này.
+
+Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn, Vì: Bản dịch không hoàn toàn là AI cũng không hoàn toàn là tự dịch. Tùy bạn cảm thấy thế nào thôi!
+(Fun fact: Thông báo khi cập nhật của Noa cũng là (Translated by ChatGPT) hoàn toàn không phải là của mình thêm đâu NHAAAAAAAA)
+
+CHẮC CHẮN sẽ có sai sót, hãy thông báo với mình trong issues hoặc youtube (Nếu mình rảnh đăng lên đấy -.-) - Mình sẽ xem xét trước, nếu vấn đề quá nhỏ xin hãy cho qua.
+
+Tutorial/Hướng dẫn :
+Hãy copy File đã giải nén vào file cài đặt game.
+Vào Game - config - Tiếng Việt - Khởi động lại Game
+
+- changelog:
+  - 24/8/2025 Việt hóa Elin - Bắt đầu - Ver 0.1 ~23000 từ.
+  + Hoàn thành tất cả sách (book) tính tới phiên bản 23.173 Stable (Package\_Lang_Vietnamese\Lang\VN\Text\Book)
+  + Hoàn thành Hướng dẫn (Help)/(?); Credit/Chính sách (Package\_Lang_Vietnamese\Lang\VN\Text\Help)
+
+File vẫn sẽ luôn được cập nhật trên Github và Game cũng mới Early Access vì vậy sẽ cập nhật thường xuyên.
+
+Patch Việt hóa có thể được tự do chia sẻ (KHÔNG PHẢI DỊCH TIẾP) miến bạn giữ nguyên trạng thái của file. VD: mật khảu giải nén, Số lượng file,...
+Còn nếu bạn muốn tiếp tục dịch cần được ghi rõ cre đầy đủ và PHI THƯƠNG MẠI.
+
+Cho đến khi mình dịch ở mức hoàn toàn chơi được (Có thể ver lên 1.0) , file Việt Hóa này được sử dụng bản quyền CC BY-NC-SA 4.0:
+
+    Elin-Vietnamese  © 2025 by lequocdat8272 is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
