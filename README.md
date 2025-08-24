@@ -1,12 +1,14 @@
 # Elin-Vietnamese
 
+MỚI CHỈ THỬ NGHIỆM, HÃY THỬ NẾU BẠN MUỐN THÊM CHÚT HƯƠNG VỊ TIẾNG VIỆT. Hãy xem changelog để biết phần nào đã hoàn thành.
+
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn, Vì: Bản dịch không hoàn toàn là AI cũng không hoàn toàn là tự dịch. Tùy bạn cảm thấy thế nào thôi!
 (Fun fact: Thông báo khi cập nhật của Noa cũng là (Translated by ChatGPT) hoàn toàn không phải là của mình thêm đâu NHAAAAAAAA)
 
 CHẮC CHẮN sẽ có sai sót, hãy thông báo với mình trong issues hoặc youtube (Nếu mình rảnh đăng lên đấy -.-) - Mình sẽ xem xét trước, nếu vấn đề quá nhỏ xin hãy cho qua.
 
 Tutorial/Hướng dẫn :
-Hãy copy File đã giải nén vào file cài đặt game.
+Hãy copy File đã giải nén vào file cài đặt game. MK: lequocdat8272
 Vào Game - config - Tiếng Việt - Khởi động lại Game
 
 - changelog:
