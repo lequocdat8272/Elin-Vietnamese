@@ -17,6 +17,7 @@ Vào Game - config - Tiếng Việt - Khởi động lại Game.
 - 25/8/2025 - Ver 0.2 ~ 10000 từ.
   + Chỉnh sửa văn phong một số text Help, thiết lập lại phong cách text la-tin.
   + Cập nhật tiến độ dịch file game ~ 30% (UI)
+  + Sau khi xem xét, file đã dịch trong (Package\_Lang_Vietnamese\Lang\VN\Game) sẽ được cập nhật chỉ chừa lại (Package\_Lang_Vietnamese\Lang\VN\Game\General)
   
 - 25/8/2025 - 5h10' - Ver 0.1.1 - quick path
   + Cập nhật nhỏ thay vì mod xong chỉ vô ngắm thì giờ có thể tương đối chơi với English ( Nhiều chỗ vẫn chưa can thiệp được )
