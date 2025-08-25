@@ -1,6 +1,7 @@
 # Elin-Vietnamese
 
 MỚI CHỈ THỬ NGHIỆM, HÃY THỬ NẾU BẠN MUỐN THÊM CHÚT HƯƠNG VỊ TIẾNG VIỆT. Hãy xem changelog để biết phần nào đã hoàn thành.
+Game được Noe thiết kế text theo kiểu tách file riêng để mọi người có thể dễ dàng dịch, thế nhưng dẫn đến không liền mạch nếu dịch đến đâu cập nhật file đến đó. Một số changelog chỉ cập nhậtt tiến độ!
 
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn, Vì: Bản dịch không hoàn toàn là AI cũng không hoàn toàn là tự dịch. Tùy bạn cảm thấy thế nào thôi!
 (Fun fact: Thông báo khi cập nhật của Noa cũng là (Translated by ChatGPT) hoàn toàn không phải là của mình thêm đâu NHAAAAAAAA)
@@ -8,16 +9,21 @@ Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt 
 CHẮC CHẮN sẽ có sai sót, hãy thông báo với mình trong issues hoặc youtube (Nếu mình rảnh đăng lên đấy -.-) - Mình sẽ xem xét trước, nếu vấn đề quá nhỏ xin hãy cho qua.
 
 Tutorial/Hướng dẫn :
-Hãy copy File đã giải nén vào file cài đặt game. MK: lequocdat8272
-Vào Game - config - Tiếng Việt - Khởi động lại Game
+Hãy copy File đã giải nén vào file cài đặt game. MK: lequocdat8272.
+Bạn không cần Replace hay ghi đè gì cả vì là mod.
+Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 25/8/2025 - Ver 0.2 ~ 10000 từ.
+  + Chỉnh sửa văn phong một số text Help, thiết lập lại phong cách text la-tin.
+  + Cập nhật tiến độ dịch file game ~ 30% (UI)
+  
 - 25/8/2025 - 5h10' - Ver 0.1.1 - quick path
   + Cập nhật nhỏ thay vì mod xong chỉ vô ngắm thì giờ có thể tương đối chơi với English ( Nhiều chỗ vẫn chưa can thiệp được )
   + Hoàn thành tất cả dạng text (file txt dễ việt hóa nhất) (Package\_Lang_Vietnamese\Lang\VN\Text)
   + Hoàn thành file nhỏ Widget (Package\_Lang_Vietnamese\Lang\VN\Widget)
   + Cập nhật tiến độ dịch file game (Package\_Lang_Vietnamese\Lang\VN\Game) ~ 20% - Nếu xài luôn dễ lỗi rất khó đọc cả Anh với Việt nên chỉ tiến độ - Nếu xong thì UI sẽ đc dịch hết
-  + Cập nhật hơi vội có một phần là bảng hiển thị text không tự kéo dài ra như trước, dự định chỉnh sửa hoàn toàn vào buổi tối!!!
+  + Cập nhật hơi vội có một phần là bảng hiển thị text không tự kéo dài ra như trước ( Đã biết là do dùng phong cách text Nhật ), dự định chỉnh sửa hoàn toàn vào buổi tối!!!
     
 - 24/8/2025 Việt hóa Elin - Bắt đầu - Ver 0.1 ~23000 từ.
   + Hoàn thành tất cả sách (book) tính tới phiên bản 23.173 Stable (Package\_Lang_Vietnamese\Lang\VN\Text\Book)
