@@ -14,6 +14,11 @@ Bạn không cần Replace hay ghi đè gì cả vì là mod.
 Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 26/8/2025 - Ver 0.2.1 ~ Just test for fun
+  + Thử nghiệm file cho vui, đã upd toàn bộ file đã việt hóa xong.
+  + Cập nhật tiến độ dịch UI - 2000 dòng excel ~ 30000 từ. (Phải đi chạm cỏ thôi)
+  + Gặp vấn đề về việc đặt tên phép. Chắc phải đi học triết quá.
+  
 - 25/8/2025 - Ver 0.2 ~ 10000 từ.
   + Chỉnh sửa văn phong một số text Help, thiết lập lại phong cách text la-tin.
   + Cập nhật tiến độ dịch file game ~ 30% (UI)
