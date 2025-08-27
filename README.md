@@ -1,4 +1,5 @@
 # Elin-Vietnamese
+Thông báo quan trọng: Game của Noa cập nhật quá nhanh, dự định dịch hết file pb 23.173 Stable rồi mới update thêm!! Mấy bạn thử trên pb 23.173 để đúng nhất. Sơ bộ 23.187 cập nhật là quá nhiều!!
 
 MỚI CHỈ THỬ NGHIỆM, HÃY THỬ NẾU BẠN MUỐN THÊM CHÚT HƯƠNG VỊ TIẾNG VIỆT. Hãy xem changelog để biết phần nào đã hoàn thành.
 Game được Noe thiết kế text theo kiểu tách file riêng để mọi người có thể dễ dàng dịch, thế nhưng dẫn đến không liền mạch nếu dịch đến đâu cập nhật file đến đó. Một số changelog chỉ cập nhậtt tiến độ!
@@ -14,6 +15,11 @@ Bạn không cần Replace hay ghi đè gì cả vì là mod.
 Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 27/8/2025 - Ver 0.3 ~ 10000 từ
+  + Hoàn thành (Package\_Lang_Vietnamese\Lang\VN\Game\General) ~ Gần như UI đã dịch xong
+  + Hoàn thành dịch nghề, chủng tộc, chú thích vật phẩm.
+  + Hiện tại có thể chơi hơi ổn, phải đợi dịch hết file game (~70%) là chơi bình thường. 
+  
 - 26/8/2025 - Ver 0.2.1 ~ Just test for fun
   + Thử nghiệm file cho vui, đã upd toàn bộ file đã việt hóa xong.
   + Cập nhật tiến độ dịch UI - 2000 dòng excel ~ 30000 từ. (Phải đi chạm cỏ thôi)
