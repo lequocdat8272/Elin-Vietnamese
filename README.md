@@ -1,5 +1,6 @@
 # Elin-Vietnamese
 Thông báo quan trọng: Game của Noa cập nhật quá nhanh, dự định dịch hết file pb 23.173 Stable rồi mới update thêm!! Mấy bạn thử trên pb 23.173 để đúng nhất. Sơ bộ 23.187 cập nhật là quá nhiều!!
+Hmm!? Có vẻ bản tiếng Trung là phiên bản 22 lận. Mọi người có thể thử path vào ver 23.187 xem đc không nha!
 
 MỚI CHỈ THỬ NGHIỆM, HÃY THỬ NẾU BẠN MUỐN THÊM CHÚT HƯƠNG VỊ TIẾNG VIỆT. Hãy xem changelog để biết phần nào đã hoàn thành.
 Game được Noe thiết kế text theo kiểu tách file riêng để mọi người có thể dễ dàng dịch, thế nhưng dẫn đến không liền mạch nếu dịch đến đâu cập nhật file đến đó. Một số changelog chỉ cập nhậtt tiến độ!
