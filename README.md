@@ -18,7 +18,8 @@ Vào Game - config - Tiếng Việt - Khởi động lại Game.
 - 27/8/2025 - Ver 0.3 ~ 10000 từ
   + Hoàn thành (Package\_Lang_Vietnamese\Lang\VN\Game\General) ~ Gần như UI đã dịch xong
   + Hoàn thành dịch nghề, chủng tộc, chú thích vật phẩm.
-  + Hiện tại có thể chơi hơi ổn, phải đợi dịch hết file game (~70%) là chơi bình thường. 
+  + Hiện tại có thể chơi hơi ổn, phải đợi dịch hết file game (~70%) là chơi bình thường.
+  + Đã tìm được lỗi dẫn đến vẫn có text Trung -> Một cột trong file Quest quên copy :') - Đã fix
   
 - 26/8/2025 - Ver 0.2.1 ~ Just test for fun
   + Thử nghiệm file cho vui, đã upd toàn bộ file đã việt hóa xong.
