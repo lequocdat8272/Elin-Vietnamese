@@ -1,6 +1,5 @@
 # Elin-Vietnamese
-Thông báo quan trọng: Game của Noa cập nhật quá nhanh, dự định dịch hết file pb 23.173 Stable rồi mới update thêm!! Mấy bạn thử trên pb 23.173 để đúng nhất. Sơ bộ 23.187 cập nhật là quá nhiều!!
-Hmm!? Có vẻ bản tiếng Trung là phiên bản 22 lận. Mọi người có thể thử path vào ver 23.187 xem đc không nha!
+Đã update và test ở phiên bản mới nhất [23.188]
 
 MỚI CHỈ THỬ NGHIỆM, HÃY THỬ NẾU BẠN MUỐN THÊM CHÚT HƯƠNG VỊ TIẾNG VIỆT. Hãy xem changelog để biết phần nào đã hoàn thành.
 Game được Noe thiết kế text theo kiểu tách file riêng để mọi người có thể dễ dàng dịch, thế nhưng dẫn đến không liền mạch nếu dịch đến đâu cập nhật file đến đó. Một số changelog chỉ cập nhậtt tiến độ!
@@ -16,6 +15,10 @@ Bạn không cần Replace hay ghi đè gì cả vì là mod.
 Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 28/7/2025 - Ver 0.4
+  + Hoàn thành Tên vùng, Thần, Thông tin trạng thái, Nguyên liệu, Chú thích khi di chuột vào, ... ~ 90% Thông tin cơ bản, dự định ngày mai dịch nốt + đăng lên workshop, gametiengviet.
+  + Sau đó mới dịch tiếp dialog (Cốt truyện)!!!
+    
 - 27/8/2025 - Ver 0.3.1 - 8h15' - quick path
   + Đã tìm được lỗi dẫn đến vẫn có text Trung -> Một cột trong file Quest quên copy :') - Đã fix
     
