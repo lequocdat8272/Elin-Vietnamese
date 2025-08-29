@@ -15,7 +15,11 @@ Bạn không cần Replace hay ghi đè gì cả vì là mod.
 Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
-- 28/7/2025 - Ver 0.4
+- 29/8/2025 - Ver 0.4.1 - Medium path
+  + Hoàn thành bể random tên phụ huynh, vì là random nên hiệu chỉnh rất mất thời gian. Dời lịch Public 1-2 ngày nữa.
+  + Tiện thể hiệu chỉnh một số cách kết hợp từ.
+    
+- 28/8/2025 - Ver 0.4
   + Hoàn thành Tên vùng, Thần, Thông tin trạng thái, Nguyên liệu, Chú thích khi di chuột vào, ... ~ 90% Thông tin cơ bản, dự định ngày mai dịch nốt + đăng lên workshop, gametiengviet.
   + Sau đó mới dịch tiếp dialog (Cốt truyện)!!!
     
