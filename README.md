@@ -15,6 +15,9 @@ Bạn không cần Replace hay ghi đè gì cả vì là mod.
 Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 30/8/2025 - Ver 0.5.1 - quick path
+  + Mini change
+    
 - 30/8/2025 - Ver 0.5 - Pig update
   + Đã dịch xong tên người, loài vật, con vật, chủng tộc, biệt danh, nhật ký thời gian thực (Cái bảng to đùng dưới cùng) nhưng chưa hiệu chỉnh.
   + Còn 2 file dài nhất thôi... là xong ngoại trừ cốt truyện.
