@@ -15,6 +15,10 @@ Bạn không cần Replace hay ghi đè gì cả vì là mod.
 Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 30/8/2025 - Ver 0.5 - Pig update
+  + Đã dịch xong tên người, loài vật, con vật, chủng tộc, biệt danh, nhật ký thời gian thực (Cái bảng to đùng dưới cùng) nhưng chưa hiệu chỉnh.
+  + Còn 2 file dài nhất thôi... là xong ngoại trừ cốt truyện.
+    
 - 29/8/2025 - Ver 0.4.1 - Medium path
   + Hoàn thành bể random tên phụ huynh, vì là random nên hiệu chỉnh rất mất thời gian. Dời lịch Public 1-2 ngày nữa.
   + Tiện thể hiệu chỉnh một số cách kết hợp từ.
