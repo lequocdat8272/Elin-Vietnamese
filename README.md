@@ -15,6 +15,10 @@ Bạn không cần Replace hay ghi đè gì cả vì là mod.
 Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 31/8/2025 - Ver 0.6 - Pig update
+  + Đã xong tên vật phẩm và chú thích.
+  + Hiệu chỉnh logic từ.
+    
 - 30/8/2025 - Ver 0.5.1 - quick path
   + Mini change
     
