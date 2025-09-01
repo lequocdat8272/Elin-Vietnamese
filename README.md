@@ -15,6 +15,9 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
   + Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 1/9/2025 - Ver 0.8 - Medium Update
+  + Đã dịch cốt truyện cơ bản - còn thiếu Loytel.
+    
 - 1/9/2025 - Ver 0.7 - Big Update
   + Đã xong Thuộc tính, Kỹ năng, Chú thích,...
   + Game đã được Việt hóa 99% cho những bạn không chơi cốt truyện
