@@ -1,23 +1,27 @@
 # Elin-Vietnamese
-Đã update và test ở phiên bản mới nhất [23.188]
+Đã update và test ở phiên bản mới nhất [23.188] - Steam hay Cr*ck đều được.
 
-MỚI CHỈ THỬ NGHIỆM, HÃY THỬ NẾU BẠN MUỐN THÊM CHÚT HƯƠNG VỊ TIẾNG VIỆT. Hãy xem changelog để biết phần nào đã hoàn thành.
-Game được Noe thiết kế text theo kiểu tách file riêng để mọi người có thể dễ dàng dịch, thế nhưng dẫn đến không liền mạch nếu dịch đến đâu cập nhật file đến đó. Một số changelog chỉ cập nhậtt tiến độ!
+Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn.
 
-Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn, Vì: Bản dịch không hoàn toàn là AI cũng không hoàn toàn là tự dịch. Tùy bạn cảm thấy thế nào thôi!
-(Fun fact: Thông báo khi cập nhật của Noa cũng là (Translated by ChatGPT) hoàn toàn không phải là của mình thêm đâu NHAAAAAAAA)
+CHẮC CHẮN sẽ có sai sót, hãy thông báo với mình trong issues,gametiengviet và youtube.
 
-CHẮC CHẮN sẽ có sai sót, hãy thông báo với mình trong issues hoặc youtube (Nếu mình rảnh đăng lên đấy -.-) - Mình sẽ xem xét trước, nếu vấn đề quá nhỏ xin hãy cho qua.
+Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ sửa lại sẽ dẫn đến từ khác sai, nếu bạn đọc tên có thể hiểu đại khái hay di vào có hiện lên chú thích tương đối dễ hiểu thì hãy coi như đã việt hóa ổn. Hãy báo mình biết những từ cực kỳ khó hiểu, sai logic và sai nghĩa nặng. Mình sẽ cập nhật nhanh nhất "có thể". Đương nhiên nếu bạn có một từ hay hơn thì cứ báo mình nữa, vì mình không rành về fantasy nên có thể dịch tên riêng hoặc có từ mình lại để nguyên!
 
-Tutorial/Hướng dẫn :
-Hãy copy File đã giải nén vào file cài đặt game. MK: lequocdat8272.
-Bạn không cần Replace hay ghi đè gì cả vì là mod.
-Vào Game - config - Tiếng Việt - Khởi động lại Game.
+- Tutorial/Hướng dẫn :
+
+  + Hãy copy File đã giải nén vào file cài đặt game. MK: lequocdat8272.
+    + Goal: _Lang_Vietnamese nằm trong Package
+  + Bạn không cần Replace hay ghi đè gì cả vì là mod.
+  + Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 1/9/2025 - Ver 0.7 - Big Update
+  + Đã xong Thuộc tính, Kỹ năng, Chú thích,...
+  + Game đã được Việt hóa 99% cho những bạn không chơi cốt truyện
+    
 - 31/8/2025 - Ver 0.6 - Pig update
-  + Đã xong tên vật phẩm và chú thích.
-  + Hiệu chỉnh logic từ.
+  + Đã xong tên vật phẩm và chú thích
+  + Hiệu chỉnh logic từ
     
 - 30/8/2025 - Ver 0.5.1 - quick path
   + Mini change
@@ -27,42 +31,35 @@ Vào Game - config - Tiếng Việt - Khởi động lại Game.
   + Còn 2 file dài nhất thôi... là xong ngoại trừ cốt truyện.
     
 - 29/8/2025 - Ver 0.4.1 - Medium path
-  + Hoàn thành bể random tên phụ huynh, vì là random nên hiệu chỉnh rất mất thời gian. Dời lịch Public 1-2 ngày nữa.
-  + Tiện thể hiệu chỉnh một số cách kết hợp từ.
-  + Menu Cài Đặt, Tạo Game Mới, Menu Trong Game đã dịch hoàn toàn.
+  + Hoàn thành bể random tên phụ huynh
+  + Chỉnh một số cách kết hợp từ
+  + Menu Cài Đặt, Tạo Game Mới, Menu Trong Game đã dịch hoàn toàn
     
 - 28/8/2025 - Ver 0.4
-  + Hoàn thành Tên vùng, Thần, Thông tin trạng thái, Nguyên liệu, Chú thích khi di chuột vào, ... ~ 90% Thông tin cơ bản, dự định ngày mai dịch nốt + đăng lên workshop, gametiengviet.
-  + Sau đó mới dịch tiếp dialog (Cốt truyện)!!!
+  + Hoàn thành Tên vùng, Thần, Thông tin trạng thái, Nguyên liệu, Chú thích khi di chuột vào, ... ~ 90% Thông tin cơ bản
     
 - 27/8/2025 - Ver 0.3.1 - 8h15' - quick path
-  + Đã tìm được lỗi dẫn đến vẫn có text Trung -> Một cột trong file Quest quên copy :') - Đã fix
+  + Lỗi dẫn đến vẫn có text Trung -> Đã fix
     
 - 27/8/2025 - Ver 0.3 ~ 10000 từ
-  + Hoàn thành (Package\_Lang_Vietnamese\Lang\VN\Game\General) ~ Gần như UI đã dịch xong
-  + Hoàn thành dịch nghề, chủng tộc, chú thích vật phẩm.
-  + Hiện tại có thể chơi hơi ổn, phải đợi dịch hết file game (~70%) là chơi bình thường.
+  + Hoàn thành General
+  + Hoàn thành dịch nghề, chủng tộc, chú thích vật phẩm
 
 - 26/8/2025 - Ver 0.2.1 ~ Just test for fun
-  + Thử nghiệm file cho vui, đã upd toàn bộ file đã việt hóa xong.
-  + Cập nhật tiến độ dịch UI - 2000 dòng excel ~ 30000 từ. (Phải đi chạm cỏ thôi)
-  + Gặp vấn đề về việc đặt tên phép. Chắc phải đi học triết quá.
+  + Thử nghiệm file cho vui
   
-- 25/8/2025 - Ver 0.2 ~ 10000 từ.
-  + Chỉnh sửa văn phong một số text Help, thiết lập lại phong cách text la-tin.
-  + Cập nhật tiến độ dịch file game ~ 30% (UI)
-  + Sau khi xem xét, file đã dịch trong (Package\_Lang_Vietnamese\Lang\VN\Game) sẽ được cập nhật chỉ chừa lại (Package\_Lang_Vietnamese\Lang\VN\Game\General)
+- 25/8/2025 - Ver 0.2
+  + Chỉnh sửa văn phong một số text Help, thiết lập lại phong cách text la-tin
+  + ~ 30% (UI)
   
 - 25/8/2025 - 5h10' - Ver 0.1.1 - quick path
-  + Cập nhật nhỏ thay vì mod xong chỉ vô ngắm thì giờ có thể tương đối chơi với English ( Nhiều chỗ vẫn chưa can thiệp được )
-  + Hoàn thành tất cả dạng text (file txt dễ việt hóa nhất) (Package\_Lang_Vietnamese\Lang\VN\Text)
-  + Hoàn thành file nhỏ Widget (Package\_Lang_Vietnamese\Lang\VN\Widget)
-  + Cập nhật tiến độ dịch file game (Package\_Lang_Vietnamese\Lang\VN\Game) ~ 20% - Nếu xài luôn dễ lỗi rất khó đọc cả Anh với Việt nên chỉ tiến độ - Nếu xong thì UI sẽ đc dịch hết
-  + Cập nhật hơi vội có một phần là bảng hiển thị text không tự kéo dài ra như trước ( Đã biết là do dùng phong cách text Nhật ), dự định chỉnh sửa hoàn toàn vào buổi tối!!!
+  + Hoàn thành tất cả file txt
+  + Hoàn thành file nhỏ Widget
+  + (Package\_Lang_Vietnamese\Lang\VN\Game) ~ 20%
     
-- 24/8/2025 Việt hóa Elin - Bắt đầu - Ver 0.1 ~23000 từ.
-  + Hoàn thành tất cả sách (book) tính tới phiên bản 23.173 Stable (Package\_Lang_Vietnamese\Lang\VN\Text\Book)
-  + Hoàn thành Hướng dẫn (Help)/(?); Credit/Chính sách (Package\_Lang_Vietnamese\Lang\VN\Text\Help)
+- 24/8/2025 Việt hóa Elin - Bắt đầu - Ver 0.1
+  + Hoàn thành tất cả sách (book)
+  + Hoàn thành Hướng dẫn (Help)/(?)
 
 File vẫn sẽ luôn được cập nhật trên Github và Game cũng mới Early Access vì vậy sẽ cập nhật thường xuyên.
 
