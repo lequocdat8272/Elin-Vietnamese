@@ -1,5 +1,5 @@
 # Elin-Vietnamese
-Đã update và test ở phiên bản mới nhất [23.188] - Steam hay Cr*ck đều được.
+Đã update và test ở phiên bản mới nhất [23.188] - Steam hay Cr*ck đều được. Đổi pass thành: gametiengviet.com
 
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn.
 
@@ -9,7 +9,7 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
 
 - Tutorial/Hướng dẫn :
 
-  + Hãy copy File đã giải nén vào file cài đặt game. MK: lequocdat8272.
+  + Hãy copy File đã giải nén vào file cài đặt game. MK: gametiengviet.com.
     + Goal: _Lang_Vietnamese nằm trong Package
   + Bạn không cần Replace hay ghi đè gì cả vì là mod.
   + Vào Game - config - Tiếng Việt - Khởi động lại Game.
