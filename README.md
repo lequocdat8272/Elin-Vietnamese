@@ -15,6 +15,10 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
   + Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 2/9/2025 - Ver 0.9 - Big update
+  + Đã dịch xong cốt truyện.
+  + Chỉ còn fix logic ghép chữ.
+    
 - 1/9/2025 - Ver 0.8.1 - quick path
   + Đã sửa "Công thức công thức của ..."
     
