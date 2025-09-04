@@ -3,7 +3,7 @@
 
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn.
 
-CHẮC CHẮN sẽ có sai sót, hãy thông báo với mình trong issues,gametiengviet và youtube.
+CHẮC CHẮN sẽ có sai sót, hãy thông báo với mình trong issues.
 
 Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ sửa lại sẽ dẫn đến từ khác sai, nếu bạn đọc tên có thể hiểu đại khái hay di vào có hiện lên chú thích tương đối dễ hiểu thì hãy coi như đã việt hóa ổn. Hãy báo mình biết những từ cực kỳ khó hiểu, sai logic và sai nghĩa nặng. Mình sẽ cập nhật nhanh nhất "có thể". Đương nhiên nếu bạn có một từ hay hơn thì cứ báo mình nữa, vì mình không rành về fantasy nên có thể dịch tên riêng hoặc có từ mình lại để nguyên!
 
