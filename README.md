@@ -15,6 +15,9 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
   + Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 4/9/2025 - Ver 0.9.4 - 8h30' - fix
+  + Không cố gắng làm đa dạng nhật ký nữa, sửa combat về đơn giản, trải nghiệm xong đổi sau.
+    
 - 4/9/2025 - Ver 0.9.3 - fix
   + Đã rút ngắn nhặt ký một chút, loại bỏ "đã" , "bị" ở đa số vì tiếng Việt không quan trọng lắm.
   + Đã fix "Hư hỏng" , "Sắp hỏng". Cái này Noa làm chưa kỹ, cả tiếng Anh và Nhật đều đưa rotten lên trước nhưng Việt thì chịu. Cũng không đc làm thành cấu trúc #1 #2. -> Đổi thành [Hư hỏng] , [Sắp hỏng]
