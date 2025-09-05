@@ -1,4 +1,5 @@
 # Elin-Vietnamese
+Được làm solo từ lequocdat8272 và có hỗ trợ từ lader136.
 Đã update và test ở phiên bản mới nhất [23.188] - Steam hay Cr*ck đều được.
 
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn.
@@ -15,6 +16,11 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
   + Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 5/9/2025 - Ver 0.9.5 - lader136
+	+ Sửa 1 chút thoại cho linh hoạt hơn. (Dialog/dialog.xlsx)
+  + Sửa 1 chút thoại cho linh hoạt hơn. (Drama/all)
+	+ Sửa 1 số tên/tiêu đề/mô tả cho đỡ cứng nhắc. (Game/)
+
 - 4/9/2025 - Ver 0.9.4 - 8h30' - fix
   + Không cố gắng làm đa dạng nhật ký nữa, sửa combat về đơn giản, trải nghiệm xong đổi sau.
     
@@ -25,6 +31,7 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
   
 - 3/9/2025 - Ver 0.9.2 - fix
   + Đã việt hóa nốt cốt truyện.
+  + Chỉnh sửa tên/tiêu đề/mô tả các thành phần cho linh hoạt hơn (lader136).
     
 - 2/9/2025 - Ver 0.9.1 - quick path
   + Mini change
@@ -89,6 +96,8 @@ File vẫn sẽ luôn được cập nhật trên Github và Game cũng mới Ea
 
 Patch Việt hóa có thể được tự do chia sẻ (KHÔNG PHẢI DỊCH TIẾP) miến bạn giữ nguyên trạng thái của file. VD: mật khảu giải nén, Số lượng file,...
 Còn nếu bạn muốn tiếp tục dịch cần được ghi rõ cre đầy đủ và PHI THƯƠNG MẠI.
+
+lequocdat8272 xin cảm ơn đến tất cả mọi người hỗ trợ đã giúp hoàn thiện bản dịch hơn.
 
 Cho đến khi mình dịch ở mức hoàn toàn chơi được (Có thể ver lên 1.0) , file Việt Hóa này được sử dụng bản quyền CC BY-NC-SA 4.0:
 
