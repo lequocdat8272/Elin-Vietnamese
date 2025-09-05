@@ -18,8 +18,9 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
 - changelog:
 - 5/9/2025 - Ver 0.9.5 - lader136
 	+ Sửa 1 chút thoại cho linh hoạt hơn. (Dialog/dialog.xlsx)
-  + Sửa 1 chút thoại cho linh hoạt hơn. (Drama/all)
+    + Sửa 1 chút thoại cho linh hoạt hơn. (Drama/all)
 	+ Sửa 1 số tên/tiêu đề/mô tả cho đỡ cứng nhắc. (Game/)
+    + Lưu ý: crim = dâu dại , palulu = cây dong. Chưa thể đồng bộ hết đc.
 
 - 4/9/2025 - Ver 0.9.4 - 8h30' - fix
   + Không cố gắng làm đa dạng nhật ký nữa, sửa combat về đơn giản, trải nghiệm xong đổi sau.
