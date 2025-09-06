@@ -16,6 +16,9 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
   + Vào Game - config - Tiếng Việt - Khởi động lại Game.
 
 - changelog:
+- 6/9/2025 - Ver 0.9.6
+  + Sửa một số tên kỹ năng cho đồng bộ.
+    
 - 5/9/2025 - Ver 0.9.5 - lader136
 	+ Sửa 1 chút thoại cho linh hoạt hơn. (Dialog/dialog.xlsx)
     + Sửa 1 chút thoại cho linh hoạt hơn. (Drama/all)
