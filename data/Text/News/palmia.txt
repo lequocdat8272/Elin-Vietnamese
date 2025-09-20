@@ -1,0 +1,91 @@
+Con Tàu Bí Ẩn Cập Cảng Kapul
+Sáng nay, một con tàu chưa xác định xuất xứ và thủy thủ đoàn ghé cảng Kapul. Con tàu mang những chữ tượng hình lạ, gây tò mò, và các cuộc điều tra đang được tiến hành để giải mã bí ẩn này.
+@port,guard_m-1
+
+Khôi Phục Tường Thành Của Palmia
+Việc sửa chữa tường thành của Vương quốc Palmia, từng hư hại trong cuộc chiến gần đây, đã hoàn tất, nâng cao cảm giác an toàn cho cư dân thành phố.
+@gate,UN_nola
+
+Lo Ngại Thiếu Hụt Mùa Vụ
+Ngôi làng nông nghiệp yên bình Yowyn đang đối mặt với tình trạng mùa màng năm nay giảm đáng kể so với mọi năm, khiến nông dân bối rối trước hiện tượng chưa được giải thích này.
+@farm
+
+Tuyết Lở Tấn Công Noyel
+Noyel đã hứng chịu một trận tuyết lở nghiêm trọng, cắt đứt liên lạc với hàng chục cư dân. Hư hại trên các tuyến đường lân cận đã khiến thành phố phải gửi yêu cầu cứu trợ khẩn cấp đến Vương quốc Palmia.
+@snow,UN_zane
+
+Ban Nhạc Nổi Tiếng Biến Mất Ở Lumiest
+Một ban nhạc nổi tiếng, toàn bộ thành viên đều là elea, đã biến mất chỉ sau một đêm tại thành phố nghệ thuật. Nguyên nhân dẫn đến sự biến mất của ban nhạc vẫn chưa được biết.
+@city
+
+Hiện Tượng Kỳ Lạ: Mèo Tụ Tập
+Tại ngôi làng nông nghiệp yên bình Yowyn, xuất hiện hiện tượng kỳ lạ khi những chú mèo tụ tập thành nhóm vào ban đêm. Có tin đồn rằng đây có thể là tác phẩm của Hội Pháp Sư.
+@farm
+
+Chúng Ta Có Thể Hy Vọng?
+Vương quốc Palmia công bố kế hoạch cải tổ hệ thống thuế một cách nghiêm ngặt. Người dân bày tỏ sự pha trộn giữa hy vọng và lo ngại khi kỳ vọng đang rất cao.
+@royal,UN_zane
+
+Người Dân Có Mơ Về Cừu Giấy?
+Một kế hoạch in ấn Palmia Times có thể ăn được như giải pháp thực phẩm thời chiến đã được trình lên Nghị viện Palmia. “Một ý tưởng tuyệt vời!” – Hoàng tử Xabi đã thốt lên như vậy, theo lời một quý tộc có mặt tại phiên họp.
+@royal,UN_xabi
+
+Hương Vị Mới Cho Crim Ale!
+Crim Ale vừa ra mắt hương vị mới “Gia Vị Phương Đông”. Sự kết hợp hoàn hảo giữa các loại gia vị thơm nồng và trái cây sang trọng chắc chắn sẽ làm say lòng người trưởng thành. Hàng hóa đang nhanh chóng khan hiếm trên toàn quốc.
+@tavern
+
+Công Chúa Stasha Trình Diễn Thời Trang Mới Tại Cung Đình
+Công chúa Stasha, xuất thân từ Mayroon, đã giới thiệu bộ sưu tập thời trang mới nhất tại cung đình Palmia. Vẻ đẹp kiều diễm của nàng khiến toàn bộ triều đình kinh ngạc, khởi đầu một xu hướng thời trang mới.
+@royal,UN_stasha
+
+Cuộc Thi Nấu Ăn Thắng Lợi Của Công Chúa Stasha
+Công chúa Stasha đã trổ tài với những món ăn do chính tay nàng chế biến tại buổi tiệc chiêu đãi trong cung. Kỹ năng tuyệt vời và phong cách tinh tế của nàng khiến mọi người kinh ngạc, tạo nên cơn sốt Stasha-mania mới.
+@royal,UN_stasha
+
+Ngựa Yowyn Cứu Người Lữ Khách!
+Một lữ khách, bị quái vật bao vây, đã được cứu kịp thời nhờ sự xuất hiện đột ngột của một con ngựa Yowyn. Người đàn ông biết ơn đã bày tỏ lòng cảm kích và tặng con ngựa dũng cảm một xô đầy cỏ khô.
+@farm
+
+Sự Nổi Tiếng Của Putit Tuyết Tăng Vọt!
+Putit Tuyết, loài thú cưng phổ biến tại Noyel, đang ngày càng được ưa chuộng nhờ vẻ đáng yêu khó cưỡng và khả năng mang lại cảm giác thư giãn. Bí ẩn về việc nó rụng lông thỏ có lẽ càng làm tăng sức hấp dẫn của nó.
+@snow
+
+Công Chúa Stasha: Sự Trỗi Dậy Nhanh Chóng Trong Lòng Người Yêu Mến
+Tính cách chân thành và dễ mến của công chúa xuất thân từ Mayroon đã chinh phục trái tim triều đình, truyền cảm hứng cho các câu lạc bộ người hâm mộ. Phong thái tươi mới của nàng khiến công chúa trở thành nhân vật được yêu mến trên toàn quốc.
+@royal,UN_stasha
+
+Hỗn Loạn Tại Cung Đình: Bê Bối Của Hoàng Tử Bùng Lại
+Hoàng tử Xabi, trong tình trạng say rượu tại một bữa tiệc ở Kapul, đã tiết lộ bức thư tình không dành cho vị hôn thê của mình, Công chúa Stasha. Toàn triều đang chờ đợi phản hồi chính thức từ hoàng tử.
+@royal,UN_xabi
+
+Hoàng Tử Gây Sóng Gió Lại Tại Cung Đình
+Hoàng tử Xabi hiện bị nghi ngờ tổ chức các cuộc gặp bí mật với Công chúa Stasha, người sắp kết hôn. Tuy nhiên, sự thật là anh chỉ đang an ủi nàng vì nỗi nhớ nhà.
+@royal,UN_xabi
+
+Nữ Anh Hùng Lễ Hội Tuyết
+Tại lễ hội tuyết ở Noyel, một nhà thám hiểm tình cờ đi qua đã tạo ra một bức tượng tuyết tuyệt đẹp, mang niềm vui đến cho các em nhỏ. Dân làng đã tôn vinh cô là anh hùng của lễ hội.
+@snow
+
+Hải Cẩu Đói Khát Hoành Hành: Thực Phẩm Biến Mất Qua Đêm
+Cảng Kapul đang đối mặt với tình trạng bất thường khi kho thực phẩm bị cạn kiệt chỉ sau một đêm. Cuộc điều tra cho thấy những con hải cẩu đói khát là thủ phạm. Các nhà thám hiểm đang được huy động khẩn cấp.
+@port
+
+Lumiest Mời Các Nhà Thám Hiểm Tham Gia Lễ Hội Âm Nhạc
+Lumiest, thành phố của âm nhạc và nghệ thuật, đã kêu gọi các nhà thám hiểm tham dự lễ hội âm nhạc sắp tới. Những câu chuyện phiêu lưu hùng tráng của họ sẽ được ngân vang qua lời ca.
+@tavern
+
+Những Cuộc Phiêu Lưu Mới Bắt Đầu!
+Nhà thổ tại Derphy đang chứng kiến sự gia tăng đột biến về lượng khách. Thị trấn ngoài vòng pháp luật, nơi nguy hiểm và cám dỗ lẫn lộn, đã trở thành bối cảnh mới cho các nhà thám hiểm.
+@tavern
+
+“Fortune” Mới Bay Lơ Lửng Trên Palmia
+Fortune Bell, chiếc phi thuyền casino đầu tiên tại Palmia, được Vương quốc Mới xây dựng nhằm khoe công nghệ tiên tiến. Hợp tác với sòng bạc lâu đời của Palmia, Fortune Cookie, con tàu giải trí trong mơ này hứa hẹn mang đến những trải nghiệm mới đầy hứng khởi cho các tín đồ cờ bạc.
+@casino
+
+Người Dân Lo Ngại Về Sòng Bạc Bay
+Chiếc phi thuyền sòng bạc Fortune Bell đã gây hoang mang cho cư dân Palmia. Nỗi sợ rằng nó có thể rơi bất ngờ khiến con tàu này được mệnh danh là “quả bom trên bầu trời.”
+@casino
+
+Fortune Gọi Cựu Vệ Binh Lên Trời
+Các cựu vệ binh đang được Fortune Cookie, đơn vị vận hành phi thuyền sòng bạc do Vương quốc Mới xây dựng, tuyển dụng ồ ạt. Vua Zane hoan nghênh sự bùng nổ việc làm này.
+@casino,UN_zane,guard_m-1

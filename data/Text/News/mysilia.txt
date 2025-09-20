@@ -1,0 +1,47 @@
+【Bi Kịch】Đứa Trẻ Trong Mơ Lại Tái Diễn
+Một thị trấn nhỏ ở Mysilia đã bị xóa sổ không còn dấu vết do cơn thịnh nộ của một Đứa Trẻ Trong Mơ bị đánh thức bởi tiếng đồng hồ báo thức. Hoàng tử Efrond của Mysilia vẫn giữ im lặng trước sự việc này.
+@ruin,UN_ephrond
+
+Giống Nho Mới Làm Thay Đổi Ngành Rượu Vang
+Các nhà sản xuất rượu ở Olvina đã thành công trồng ra một giống nho mới nhờ sử dụng nguồn nước suối. Loại rượu vang được chế biến từ giống nho với hương vị độc đáo này hứa hẹn sẽ chinh phục khẩu vị của đông đảo du khách.
+@farm,UN_sio
+
+Lễ Tưởng Niệm Người Đã Khuất
+Tại Mysilia, vùng đất vẫn còn mang vết thương của Cuộc Chiến Mười Năm, một buổi lễ trang nghiêm đã được tổ chức. Người dân tụ họp tại nghĩa trang cộng đồng, dâng lời cầu nguyện lặng lẽ cho những người đã ngã xuống và khát khao hòa bình.
+@city
+
+Phát Ngôn “Pin Thuế” Gây Tranh Cãi
+“Xin chào, những cục pin thuế yêu nước của Palmia thân mến,” Hoàng tử Efrond của Mysilia đã mỉa mai chào người dân Palmia trong ngày Quốc Khánh, châm ngòi cho một làn sóng tranh cãi dữ dội. Họ cho rằng Hoàng tử coi họ là kho dự trữ thuế.
+@city,UN_ephrond
+
+Quan Hệ Giữa Người Và Elea: Mâu Thuẫn Ngày Càng Gia Tăng
+Mối gắn kết giữa loài người và tộc elea đang dần trở nên lạnh nhạt. Lễ hội ngắm hoa chung vốn được trân trọng tại Mysilia đã bị hủy bỏ do một nhóm người tẩy chay.
+@city,UN_jonan
+
+Phép Màu Ấm Lòng Tại Trại Trẻ Mồ Côi Mysilia
+Một thùng đầy đồ chơi và kẹo ngọt đã được gửi đến Trại Trẻ Mồ Côi Mysilia mà không có dấu tên người gửi. Đây là nơi nương náu của những đứa trẻ mất cha mẹ vì chiến tranh. Nhiều người tin rằng lòng nhân ái của Trưởng viện Lowell đã lay động các linh hồn rừng.
+@farm,UN_lowell
+
+Trại Trẻ Mồ Côi Mysilia Gieo Hạt Cho Tương Lai
+Cưu mang những đứa trẻ chịu cảnh chiến tranh, Trại Trẻ Mồ Côi Mysilia đã khởi động một chương trình canh tác nhằm nuôi dưỡng tinh thần tự lập. Tiếng nói ủng hộ vang lên không chỉ trong Mysilia mà còn từ khắp nơi trên thế giới.
+@farm,UN_lowell
+
+Quý Tộc Elea Trong Nỗi Đau
+Lãnh chúa Cetrus, biểu tượng của sự đoàn kết giữa loài người và elea, cũng là anh hùng của Cuộc Chiến Mười Năm, đã lui khỏi chốn công chúng sau khi mất đi người mình yêu thương. Khi quan hệ giữa các chủng tộc đang trở nên mong manh, liệu ông có tiếp tục giữ im lặng?
+@ruin,UN_ineien
+
+Zanan Biểu Tình Chống Lại Mysilia
+Vương quốc Zanan đã chỉ trích Mysilia vì dung nạp hiệp sĩ bị lưu đày Barrich. Hành động này có thể châm ngòi thù địch, cho thấy ý đồ của Zanan muốn cô lập tộc elea.
+@royal,UN_barrich
+
+“Griffin” Giải Cứu Trong Đêm
+Griffin, chú cú mèo đồng hành của Lãnh chúa Melvin, đã xua đuổi một tên trộm đang tìm cách đột nhập vào nhà trong đêm. Dù mang vẻ ngoài đáng yêu và chỉ là… một con cú, nó vẫn thể hiện sự dũng cảm như chính tên gọi thần thoại của mình.
+@city,UN_melvin
+
+Ưu Đãi Đặc Biệt Suối Nước Nóng Dành Cho Nhà Thám Hiểm
+Olvina đã triển khai chương trình giảm giá độc quyền cho các nhà thám hiểm. Nhiều người đang đến những suối nước nóng này để thư giãn và phục hồi sức khỏe sau những chuyến phiêu lưu.
+@farm
+
+Putit Lang Thang Tìm Gia Đình Nhà Thám Hiểm
+Một chú putit lang thang đã nhiều lần được nhìn thấy quanh các ngôi nhà ở ngoại ô Mysilia. Nhân chứng cho rằng chú putit này có thể đang tìm kiếm gia đình của một nhà thám hiểm nào đó.
+@farm

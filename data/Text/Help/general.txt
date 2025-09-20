@@ -1,0 +1,133 @@
+$1
+{layout,NoteHelp1}
+Hôm nay, chúng ta sẽ dạy cho nhà thám hiểm mới
+một bài học nhanh về cách sinh tồn ở North Tyris.
+{layout}
+
+{layout,NoteHelp2}
+Đầu tiên, nhấp vào mặt đất để di chuyển xung quanh.
+Bạn cũng có thể nhấp vào người khác để bắt đầu trò chuyện.
+Nói chuyện với tôi khi bạn đã sẵn sàng.
+{layout,NoteHelp1}
+Bạn có nhận được giấy đất từ Ash không? (Có thể rơi dưới đất)
+Với giấy chứng nhận đấy, bạn có thể thiết lập đất của mình tại đây.
+Nhấp vào balo, nhấp chuột phải vào giấy chứng nhận.
+{layout,NoteHelp2}
+Bạn cũng có thể nhấp chuột giữa (hoặc phím R)
+vào giấy chứng nhận để hiển thị danh sách các tương tác.
+Nhấp chuột giữa cũng có thể dùng trên người hoặc vật phẩm.
+Đây là một hành động <color=red>quan trọng</color>, vì vậy hãy học cách sử dụng nó.
+{layout}
+
+{layout,NoteHelp1}
+Khi bạn đã thiết lập đất bằng giấy chứng nhận
+hãy thử thực hiện các yêu cầu được dán trên bảng thông báo.
+{layout,NoteHelp2}
+Bạn có thể thu thập đồ trên mặt đất bằng cách nhấp chuột phải vào chúng.
+Hãy chú ý đến lượng thể lực còn lại trên thanh màu xanh lá.
+Nếu hết thể lực, mỗi lần thực hiện hành động bạn sẽ nhận sát thương.
+{layout,NoteHelp1}
+Thể lực có thể được hồi phục bằng cách ngủ.
+Nhấp vào biểu tượng cây gậy phép để hiển thị các kỹ năng của mình.
+Khi thấy mệt, hãy nhấp chuột phải vào kỹ năng 'Nghỉ ngơi' và
+bạn sẽ tự động chìm vào giấc ngủ.
+{layout,NoteHelp2}
+Ngủ trên một chiếc giường thoải mái sẽ hồi phục nhiều thể lực hơn.
+Sao bạn không thử làm một chiếc giường bằng cỏ trước nhỉ?
+{layout,NoteHelp1}
+Bạn có thể chế tạo vật phẩm tại chỗ bằng cách dùng 'Chế tạo nhanh'.
+Hãy thu thập một ít nguyên liệu ở đây và thử chế tạo vài món đi.
+{layout}
+
+{layout,NoteHelp2}
+Hãy nhìn vào thanh có biểu tượng cánh ở góc dưới bên phải.
+Khi thanh này đầy, bạn sẽ được thưởng một khả năng mới.
+Hãy nhấp vào để xem những khả năng nào đang có sẵn cho bạn.
+{layout,NoteHelp1}
+Khi bạn đã quen, bạn có thể lên đường khám phá thế giới.
+Bạn có thể mua gia súc và chiêu mộ cư dân mới tại các thị trấn.
+{layout,NoteHelp2}
+Phần còn lại là tùy bạn quyết định.
+Nếu muốn, bạn có thể tiếp tục làm nhiệm vụ và theo dõi cốt truyện chính.
+Nhiều sự kiện khác nhau cũng sẽ xảy ra khi ngôi nhà của bạn phát triển.
+{layout,NoteHelp1}
+Bạn làm được mà ♥ Bạn làm được mà ♥
+{layout}
+
+
+
+
+
+$2
+{topic,Điều Khiển Cơ Bản}
+Nhấp chuột trái xuống mặt đất để di chuyển, và nhấp chuột phải vào một vật thể để tương tác.
+Nếu tò mò muốn xem tất cả những gì bạn có thể làm, hãy nhấp chuột giữa hoặc nhấn phím R. Bạn sẽ ngạc nhiên đấy
+{pair|Space|Chờ một lượt và dò tìm những vật thể ẩn quanh bạn. Biết đâu lại mò ra thứ mà bạn không nên thấy.}
+{pair|1-9|Chuyển đổi giữa các vật phẩm trên thanh phím tắt. Hy vọng bạn không bấm nhầm lúc nguy cấp.}
+{pair|CTRL|Đổi sang trang khác của thanh phím tắt. Có thể bạn sẽ quên mình đã giấu đồ ở trang nào.}
+{pair|F|Ngắm kẻ địch gần nhất hoặc bắn vào mục tiêu. Và đừng bắn nhầm đồng đội nhé.}
+{pair|Shift+F|Chuyển sang mục tiêu khác. Bởi vì kẻ bạn không định đánh lại là kẻ đáng ăn đòn nhất.}
+{pair|ESC|Hiện Menu Hệ Thống. Nơi trú ẩn cuối cùng khi bạn không biết mình đang làm gì.}
+{pair|?|Hiện Trợ Giúp. Là cái thứ bạn đang đọc luôn nè.}
+{pair|/|Bật/tắt Cửa sổ Nhật ký. Bạn có thể giả vờ hiểu hết những gì vừa xảy ra.}
+
+{topic,Điều khiển Hành trang}
+{pair|Shift + Click|Di chuyển vật phẩm dưới con trỏ sang thùng chứa khác. Đừng lỡ tay bỏ nhầm đồ quý vào thùng rác nhé.}
+{pair|CTRL + Click|Tách vật phẩm dưới con trỏ. Đừng tách bánh mì làm đôi rồi quên mất để đâu.}
+{pair|ALT + Click|Vứt vật phẩm dưới con trỏ. Cầu mong bạn không lỡ tay thả nhẫn thần xuống đất.}
+
+{topic,Những Cách Điều Khiển Khác}
+Lăn con lăn chuột trên hộp thả xuống hoặc nút nguyên liệu để chọn và đổi vật phẩm mà chẳng cần nhấp. Rất tiện khi xây dựng, khỏi phải bấm mỏi tay.
+
+・ Giữ CTRL để bỏ qua cảnh sự kiện. Nếu bạn thấy cốt truyện dài hơn cả đời mình, thì đây là cứu tinh.
+
+・ Khi vật thể dưới con trỏ có nhiều cách tương tác, giữ Shift và nhấp sẽ hiện ra hết. Một danh sách dài đủ để bạn quên mất mình định làm gì ban đầu.
+
+・ Giữ ALT để con trỏ phớt lờ các bệ đỡ. Giữ thêm Shift nữa thì cả địa hình sẽ phẳng lì. Làm thử là bạn hiểu thôi.
+
+・ Di chuột lên chính bản thân và nhấn Shift để kiểm tra trạng thái của thú cưỡi hoặc… thú ký sinh. Nếu thấy chúng khỏe hơn bạn, cũng đừng ngạc nhiên.
+
+{topic,Điều khiển Chế độ Xây dựng}
+・ Trong chế độ xây dựng, nhấn ALT để đặt đồ lên mái nhà.
+
+・ Trong chế độ xây dựng, nhấn CTRL để bỏ qua chiều cao bên dưới. Rất tiện khi bạn muốn treo chảo bay lơ lửng như phép màu.
+
+
+$3
+{topic,Mẹo Phiêu Lưu}
+・ Thể lực tối đa của bạn sẽ tăng dần khi kỹ năng phát triển. Kỹ năng thậm chí còn tăng chỉ bằng cách đi bộ, nên cứ lang thang khắp Tyris như một kẻ vô công rỗi nghề cũng có ích.
+
+・ Bạn có thể chiêu mộ người dân trong thị trấn về nhà bằng cách tăng độ thiện cảm với họ. Cứ thử tặng quà xem, biết đâu một ngày nào đó bạn có thêm bạn cùng phòng bất đắc dĩ.
+
+・ Khi bạn chết, bạn sẽ mất một phần tiền và vài khả năng cũng teo lại theo. Nhưng trong 90 ngày đầu thì hình phạt này không áp dụng, cứ thoải mái ngửi mùi đất cho quen.
+
+・ Nguy cơ bị phục kích sẽ giảm khi bạn đi trên đường chính ở bản đồ thế giới. Càng xa khỏi đường, quái vật càng mạnh và nội dung càng… “chất lượng”.
+
+・ Nếu bạn bỏ đồ vào thùng giao hàng quanh thị trấn, chúng sẽ được chuyển thẳng về nhà. Tiện lợi như dịch vụ ship nhanh, chỉ thiếu phí vận chuyển thôi.
+
+・ Nếu thú cưng khởi đầu của bạn chết, hãy đến gặp Fiama, cô ấy sẽ hồi sinh nó miễn phí. Yên tâm, thú cưng trung thành hơn bạn tưởng, còn bạn thì… chưa chắc.
+
+・ Động vật hoang dã thường rơi ra thịt và nguyên liệu. Hôm nay là quái, ngày mai là bữa tối.
+
+$FAQ
+{Q|Tôi không nhặt được đồ!}
+{A|Nếu bạn đang cầm một vật phẩm, ví dụ như rìu, thì sẽ không thể nhặt đồ trên mặt đất. Hãy nhấn phím Q hoặc lăn con lăn chuột để đảm bảo tay bạn trống không.}
+{Q|Đồ của tôi biến mất rồi!}
+{A|Rất thường xuyên đồ sẽ “đi lạc” sang trang thứ hai của thanh phím tắt. Hãy thử nhấn CTRL để đổi trang và kiểm tra lại. Bạn cũng có thể nhấn CTRL+F để tìm đồ trong hành trang hoặc trên bản đồ.}
+{A|Khi đặt nội thất hoặc những thứ tương tự, nếu bạn vô tình lăn con lăn chuột thì món đồ có thể bay lên không trung mà bạn không để ý. Ngoài ra, nếu chúng bị che khuất sau chướng ngại vật, hãy nhấn SHIFT+ALT để làm phẳng địa hình, sẽ dễ thấy hơn nhiều.}
+{Q|Đồng hành của tôi biến mất rồi!}
+{A|Khi đồng hành hoặc cư dân chết, họ sẽ ở không gian phụ. Bạn có thể nói chuyện với chủ quán rượu để gọi họ trở lại, hoặc nếu đó là thú cưng được Fiama tặng thì hãy tìm Fiama. Đồng hành cũng sẽ tự động hồi sinh tại nhà riêng của họ sau một thời gian, nhớ kiểm tra bảng cư dân ở căn cứ.}
+{A|Đá Lửa Trại (Hearth Stone) còn có chức năng giữ đồng hành trong trạng thái chờ. Có thể bạn đã lỡ tay cho đồng hành vào đó. Hãy chọn “Triệu hồi” ở Đá Lửa Trại để xem ai đang chờ bạn gọi ra.}
+{Q|Trang bị của bạn đồng hành biến đâu mất rồi!}
+{A|Lý do phổ biến nhất: bạn đồng hành tự quyết định là mình không cần nữa và nhét đồ vào một cái rương chung trong căn cứ. Thỉnh thoảng cư dân khác cũng có thể “mượn” mất.}
+{A|Bình tĩnh nào, hãy dùng tính năng tìm kiếm CTRL+F. Bạn có thể dò cả hành trang của cư dân lẫn thùng chứa luôn.}
+{Q|Hóa đơn giao hàng/thuế của tôi chưa tới!}
+{A|Khi dùng thùng giao hàng trong thị trấn, đồ sẽ được chuyển đến căn cứ kế tiếp mà bạn ghé. Nếu bạn có nhiều căn cứ, gói hàng có thể đã đến nơi khác. Giao hàng sẽ đến lúc 6 giờ sáng.}
+{Q|Tôi không đặt được nội thất!}
+{A|Một số nội thất, như nhạc cụ, khi cầm trên tay thì được coi như công cụ và không thể đặt trực tiếp xuống đất. Để đặt chúng, hãy nhấp chuột giữa vào món đồ trong hành trang để mở menu hành động, rồi chọn “Đặt như Nội thất”.}
+{Q|Tôi chết nhanh quá!}
+{A|Nếu bạn mới bước vào thế giới này, một tổ hợp như tộc Hillfolk và nghề Chiến binh sẽ cho bạn nhiều máu hơn và ổn định hơn. Tăng chỉ số PV (Giá trị bảo vệ) cũng giúp giảm sát thương nhận vào và sống sót lâu hơn. Hãy chế tạo đồ để lấp đầy tất cả ô trang bị càng sớm càng tốt. Ném đá hoặc đánh từ xa cũng là chiến lược đáng cân nhắc.}
+{Q|Có quá nhiều thứ tôi không hiểu!}
+{A|Theo truyền thống roguelike cổ điển, trò chơi này được thiết kế để cố tình… khó chịu. Thật ra việc bạn thấy quá nhiều thứ khó hiểu hoàn toàn là điều bình thường!}
+
+{}

@@ -1,0 +1,22 @@
+$fanwork
+{topic, Mở Đầu}
+Tụi mình không đặt ra giới hạn nào cho việc làm các tác phẩm phái sinh hay chia sẻ/stream video cả, nhưng mong mọi người hiểu rằng “con đẻ tinh thần” ấy thì tự chịu trách nhiệm lấy nhé. Ngoài ra, vì Elin dùng kha khá tài nguyên miễn phí, nên nhớ ghé qua đọc cái file credit.txt trong thư mục game chính để biết ai đã góp công nha!
+
+{topic, Fan Fictions}
+Không có bất kỳ giới hạn nào đối với fanfiction, dù là thương mại hay phi thương mại. Mọi người cũng không cần liên hệ với bọn mình làm gì nhé.
+
+{topic, Video Streaming}
+Tương tự, không có bất kỳ hạn chế nào đối với việc chia sẻ hoặc stream video, dù là thương mại hay phi thương mại. Bạn cũng không cần liên hệ với bọn mình. Tuy nhiên, đối với những nội dung tiết lộ cốt truyện quan trọng có thể làm giảm trải nghiệm của người xem, bọn mình mong bạn hãy hiển thị cảnh báo trước khi tiết lộ.
+
+{topic, Walkthrough and Game Guides}
+Cái này cũng không có hạn chế gì luôn. Giống như với việc stream video, bọn mình chỉ mong bạn xử lý mấy spoiler quan trọng cho cẩn thận thôi. Tuy nhiên, với mấy trang web hướng dẫn chơi thì không cần phải gắn cảnh báo spoiler quá lố đâu.
+
+{topic, Prohibitions, etc.}
+Việc phát tán trái phép hình ảnh trong game, cũng như dùng chúng để huấn luyện AI hay cho AI chỉnh sửa là cấm tiệt. Tuy nhiên, bạn có thể chỉnh sửa (không dùng AI) hoặc tận dụng hình ảnh trong game cho việc sử dụng trong Elin, cho video stream, hoặc nhét vào mod của Elin thì hoàn toàn okela.
+
+$gallery
+{topic, Numbering and the artists}
+Các bức tranh trong bộ sưu tập nghệ thuật được đánh số theo từng nhóm thể loại. Sẽ khá thú vị nếu bạn thử đoán cách sắp xếp số từ những bức tranh đã thu thập được. Những tác phẩm có số từ 0 đến 899 là của một nghệ sĩ có tên NZ, còn các tác phẩm mang số từ 900 đến 999 thuộc về nghệ sĩ MT.
+
+{topic, Prohibitions, etc.}
+Việc phân phối trái phép hình ảnh từ artbook, cũng như việc sử dụng chúng cho mục đích huấn luyện AI hoặc chỉnh sửa bằng AI, đều bị nghiêm cấm!

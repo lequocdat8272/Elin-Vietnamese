@@ -1,0 +1,139 @@
+{topic, Welcome to Elin's Beta Test!}
+Welcome to Elin, and thank you for participating in this closed Beta test!
+
+In this Beta test, we plan to gather as many player feedback as possible and reflect it in the game. Please use the in-game bug reporting form accessible at any time with the <B>F11</B> key to send your feedback and bug reports.
+
+<i>※ Please note that Elin is in Early Access and still under heavy development.</i>
+
+{topic, Elin Update Information}
+{link,Answers(Ylvania),http://ylvania.org/elin_dev_e.html}
+{link,Change Log(Ylvapedia),https://ylvapedia.wiki/wiki/Elin:Changelog}
+
+■ 9/30 2024 β 22.79
+(Translated by GPT)
+
+[Additions and Changes]
+* Updated/Added LastWish, credits, ingame memorials.
+* Improved the natural feel of the fog of war rendering.
+* Added and revised the crafting-related sections in the help menu.
+* Items marked as important will no longer be taken by companions, even if placed in the shared backpack container.
+* Residents with the hunter job will now only gather animal meat.
+* Grimoires used for learning no longer function during sleep on the global map (this prevents unexpected issues when reading fails).
+* Ether disease that angers neutral creatures in the vicinity will no longer affect the player’s companions or minions.
+* Tutorials that start upon picking up a specific item will now also trigger when the item is held in hand.
+* Trait level display now shows +1 compared to previous versions (to avoid the awkwardness of showing Lv.0 when the internal value is 0-9).
+* Set the maximum weight limit of container contents to 999,999s (experimental; even if exceeded, items can still be added or removed as before).
+* Items sold by notaries can no longer be rerolled (restocked).
+
+[Fixes]
+* Fixed an issue where land deeds couldn’t be wished for.
+* Fixed the problem where quality traits weren’t being inherited when using processing equipment (there’s no maximum limit on quality traits when using processing equipment).
+* Fixed tooltip display issues in build mode (English version).
+* Fixed the issue where food sold in shops no longer had quality traits.
+* Fixed a bug where the input dialog remained open after entering a special code.
+* Various other small fixes and adjustments.
+
+[Notes]
+* If Meriris doesn’t start a quest, try entering a special code.
+* Receiving damage from Meteor is an intended feature.
+* Excess experience points are reset when leveling up the Covenant Stone, and this is by design.
+* Hand-type magic has the highest elemental multiplier (0.2x for miasma, 0.5x for arrows, 0.9x for beams, and 1.2x for hands), making it the most likely to inflict status effects. We’ll confirm if this is functioning as intended in the next update.
+
+
+■ 9/27 2024 β 22.78
+(Translated by GPT)
+
+[Additions and Changes]
+* Added a new rare speech style, "peko" (Japanese version only).
+* Quality traits of crafting materials will now be inherited in the same way as other traits. The direct bonus to quality from crafting skills has been removed, and instead, the maximum value of the inherited quality traits will now be determined by the level of the crafting skill. Additionally, the maximum inheritable quality will be displayed during crafting.
+* Storage box weight set to 20s.
+* Land rights cannot be relinquished for a month (to prevent players from taking items like statues out with the storage box).
+* Only one land deed will be granted for each requested piece of land.
+* Land deeds will no longer stack. Furthermore, the price of store-bought land deeds will double with each purchase.
+* Kicking minions will no longer reduce karma.
+* The amount and quality of wool obtained from minions will decrease (equivalent to shearing a creature during battle). If shearing is unsuccessful, a message will now be displayed.
+* A heart icon will be shown when controlling others through blessings like Mani's favor.
+* Cursed ether antibodies will no longer be sent upon contracting ether sickness for the first time.
+* Added container backgrounds to bookshelves.
+* Improved tooltip display in build mode.
+* When mining or gathering, if the recipe is already known, there's now a low chance of drawing an unknown recipe within the same category (e.g., walls for walls, floors for floors).
+* Tooltips for technical manuals will now show whether party members have already learned the skill.
+* When rapidly clicking to confiscate items from allies, they will now go directly into the player's inventory rather than being picked up.
+* Pulling actions like tentacle grabs will no longer affect areas out of the actor's line of sight.
+
+[Fixes]
+* Fixed an issue where crafting would always fail if the crafting skill was lower than the recipe level.
+* Fixed an issue where the increase in potential abilities from eating did not decrease as potential increased (this was due to referencing base potential instead of temporary potential).
+* Fixed a bug where teleportation could sometimes occur outside the map boundaries.
+* Fixed a bug where, under certain auto-arrange settings, items set to rot were not sorted correctly.
+* Fixed an issue where items in storage boxes that weren’t placed in bases could be used for crafting, or newly picked-up items could stack with them.
+* Other minor fixes and adjustments.
+
+[Notes]
+* Due to the changes in the potential ability increase, balance may shift significantly. Feedback from experienced players would be greatly appreciated. Additionally, input on the crafting quality traits would be very helpful, as this is still under consideration.
+
+
+■ 9/21 2024 β 22.77
+(Translated by GPT)
+
+[Additions and Changes]
+* The store scale numbers no longer include the city's development level.
+* Added more variation to forest blocks, increasing the density of plants in Forest Nefia.
+* Added new illustrations to the shipping screen.
+* NPCs will no longer pick up materials used in PC crafting from the ground while fishing or performing.
+* Slightly adjusted the balance of items generated in Nefia (more scrolls, spices, and potions).
+* Grimoires used for learning can now also read ancient books.
+* Updated the description of learning grimoires to clarify that they cannot be used simultaneously. Also, slightly increased their capacity.
+* Increased the price of the Love Whip.
+* Added new skin variations and snow graphics to ★storage boxes.
+* Removed the option to fill in the boundaries of maps from settings (can still be changed by directly editing config.txt).
+* When there are multiple animals on the same tile that can be sheared, you can now select the target to shear.
+* Characters that are suspended will no longer be affected by knockback effects.
+* Material quality characteristics will no longer affect the quality characteristics of items crafted through crafting.
+* Increased the boost to quality characteristics based on recipe level.
+* Unified recipe acquisition conditions to be based on the related skill level for each recipe. If there is no related skill, PC level (total feats gained) will be referenced instead.
+* When mining, digging, or gathering, if there is an available recipe that has not been learned yet and the skill level meets the requirement (recipe level - 5 or higher), there is now a high probability of acquiring the recipe.
+* When discovering a floor recipe, if the corresponding platform (foundation) recipe is also available and has not been learned, it will automatically be acquired.
+* When dismantling items with a hammer, if there is an unacquired recipe available and the skill level is met, there is a chance to acquire the recipe.
+* When randomly learning recipes during sleep, the system will now randomly select from unacquired recipes (if the skill level requirement is met). If there are no unacquired recipes, it will randomly choose from the already acquired recipes. Additionally, for recipes like blocks or platforms where leveling up the recipe has no effect, it will no longer reselect if they have already been acquired.
+* Changed the effects of the Ehekatl Body Pillow and the Altar of Invention to modify the required skill level for recipes. For example, if your cooking skill is at level 10, normally recipes up to level 15 (plus a random value) will be available. With the modification, recipes up to (15 + random value + x) will be included in the draw.
+* Slightly decreased the probability of learning recipes during sleep.
+* When reading recipe items, if there are no unlearned recipes available, it will now always draw from the learned recipes in that category. For construction recipes, if there are no unlearned recipes, nothing will happen, and the recipe will not be consumed.
+* Added a section in the help menu to explain recipes.
+
+[Fixes]
+* Fixed an issue where ground items were no longer being destroyed by fire or ice attacks after the last update.
+* Fixed an issue where sellers stopped offering acid-resistant coating liquid due to a category change in potions.
+* Fixed an issue where tooltips disappeared when right-clicking during appraisals.
+* Fixed an issue where certain actions like reading with a grimoire were not performed when loading from an autosave during sleep.
+* Other minor fixes and adjustments.
+
+[Notes]
+* With the changes to the recipe selection method in this update, if there is an acquirable recipe, it can now be obtained before duplicating learned recipes.
+* To check the exact values of skill enchantments, you need to open the enchantment list on the character sheet.
+* In the future, we might impose a maximum limit on the number of bases you can own (around 4 to 5). Feedback on this is welcome.
+* We are still in the process of fine-tuning crafting, and the specifications are subject to frequent changes. We aim to finalize a system that will be easier to develop and control in preparation for adding new recipes and expanding crafting in the future.
+
+
+■ 9/17 2024 β 22.76
+(Translated by GPT)
+
+[Additions and Changes]
+* Improved the graphic for ★storage chest. Added one skin variation and a snow-covered version.
+* Improved the behavior of auto-sorting. If an unreachable container is encountered, a message will be displayed, and the sorting will proceed to the next container.
+* When possessing a Mana body, heartbeats during HP decrease will now be determined by the MP value.
+* Harvesting actions will no longer be displayed while holding a broom.
+* The name of "The Last Remaining Shimmering Nobility in this Chaotic World" has been changed to "Noble Bear."
+* Added "Grimoire of Learning," which, when placed inside, will read magic books together while sleeping (background image is provisional).
+* Added "Ceasefire Whistle" to make companions stop fighting.
+* Conquered Nefia will now display *Conquered* in their names.
+* The maximum Piety gained when using a Scroll of Faith is now based on the current value of the Faith skill (previously it was limited to the base value of the skill).
+
+[Fixes]
+* Fixed an issue where the recipe search screen would reappear if ESC or a shortcut key was pressed when nothing was entered.
+* Fixed a bug where the Luck Multiplier feat of ★Lucky Dagger was not applying to residents other than party members.
+* Fixed an issue where recipes of different levels could stack together.
+* Other minor fixes and adjustments.
+
+[Notes]
+* When using dye as a crafting material, the properties of the dye will be inherited by the crafted item. This is currently by design.

@@ -1,0 +1,19 @@
+{topic, Welcome to Elin's Demo!}
+Chào mừng đến với bản Demo của Elin!
+
+Nội dung trong demo này phản ánh tình trạng của game vào ngày 2 tháng 12 năm 2024, và chắc chắn sẽ bị xới tung bởi những bản cập nhật tương lai.
+
+Bản demo có vài giới hạn khó tránh:
+
+* Người chơi chỉ kiếm được tối đa 10 điểm feat (tương ứng 10 cấp).
+* Cấp độ căn cứ bị khóa ở Level 3 (mơ ước vươn cao tạm gác lại).
+* Tính năng mạng bị tắt ngúm.
+
+Cứ thong thả mà tận hưởng chuyến lang thang trong thế giới Ylva nhé — nơi chẳng ai biết điều gì đang chờ bạn ở góc đường tiếp theo.
+
+<i>※ Xin lưu ý Elin vẫn đang trong giai đoạn Early Access và còn bị mổ xẻ, vá víu, thêm thắt không ngừng.</i>
+
+{topic, Elin Information}
+{link,Discord - Elin Community、Questions、General Discussion,https://discord.gg/elona}
+{link,Ylvapedia - Elin Wiki、Walkthrough、Update Log,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}

@@ -1,0 +1,59 @@
+Nhập Môn Ma Pháp
+
+(Nhật ký học trò – Hội Pháp Sư)
+
+Được rồi, hội trưởng báo tôi rằng các em là học sinh thích thực hành, nên tôi đã chuẩn bị bài học nhập môn này. Không có những bài giảng nhàm chán đâu — tôi biết các em thích thử ma pháp thật hơn. Không cần ngại, hội cần những thành viên làm việc hiện trường, và các em sẽ được huấn luyện cho công việc đó.
+
+Vì vậy hôm nay, tôi sẽ hướng dẫn các em từng bước học cách thi triển phép thuật.
+{p}
+<b>Học Phép</b>
+
+Ma pháp bắt đầu từ việc học phép. Đọc sách phép không giống như lướt báo Palmia Times đâu nhé: kỹ năng đọc viết của các em sẽ được kiểm tra, và hậu quả nếu đọc nhầm ký tự ma thuật nghiêm trọng hơn cả scandal báo lá cải. Tôi đã mang đến một cuốn sách phép đơn giản nhất: Magic Arrow. Hãy chuyền tay nhau, tôi muốn mọi người thử đọc. Khi kỹ năng đọc viết tăng, các em có thể thử đọc những phép phức tạp hơn.
+
+Đọc xong chưa? Khi đã ghi nhớ ký tự, các em sẵn sàng cho phép đầu tiên. Việc thi triển sẽ tiêu hao ký tự đã học trong trí nhớ — không hết ngay lập tức, nhưng nếu không ôn lại, các em sẽ quên hoàn toàn.
+{p}
+Chúng tôi gọi đây là “stock” — số lần có thể thi triển phép trước khi ký tự trôi khỏi trí nhớ. Ghi nhớ là một kỹ năng: đọc nhiều sách phép sẽ tăng khả năng giữ phép, tức là nhiều stock hơn cho mỗi lần đọc.
+
+Chu trình đơn giản: đọc sách phép → tích stock; thi triển → dùng stock. Ngay cả trẻ con cũng hiểu được!
+
+À, đúng rồi, sách phép rất đắt đỏ. Nếu stock cạn, có thể tiếp cận nguồn ma pháp trong mơ để lấy một ít stock của phép đơn giản. Pháp sư đã luyện sẽ làm được ngay cả khi còn stock và lấy được phép phức tạp; kỹ năng này rất quan trọng, giúp tiết kiệm nhiều orens cho người mới.
+
+Ờm, nguồn gốc ma pháp… là của một quý ông tóc đỏ cao quý. Không hỏi gì thêm nhé!
+{p}
+<b>Thi Triển Phép</b>
+
+Khi đã học và ghi nhớ phép, giờ là lúc thi triển. Cậu kia, phía sau! Lên và thử bắn Magic Arrow vào bia tập.
+
+…Ồ, phép thất bại rồi. Đừng nản lòng, càng luyện tập, càng giỏi. Ngoài kỹ năng thi triển, mỗi lần sử dụng còn gắn phép với cấp độ phép - hay chúng tôi còn gọi là "spell level", tăng tỷ lệ thành công và sức mạnh. Mỗi phép liên kết với thuộc tính; thuộc tính càng cao so với cấp phép, cấp phép tăng nhanh hơn. Ngay cả khi thi triển thất bại, phép vẫn thăng cấp, nên luyện tập sẽ hoàn hảo.
+{p}
+Thi triển tốt nhất khi không vướng vật nặng, và các yếu tố sau sẽ hạn chế:
+
+* Áo giáp nặng
+* Khiên
+* Cầm hai vũ khí
+* Cưỡi ngựa
+* Hành động khác
+
+Áo giáp nặng và khiên giới hạn tỷ lệ thi triển tối đa, nhưng có thể dùng feats để khắc phục. Ngoài ra, trạng thái mờ mắt, lẫn lộn sẽ ảnh hưởng đến phép.
+
+Nhớ rằng, đủ kỹ năng và feats, các em có thể vượt mọi hạn chế. Hiểu chưa? Giờ cả lớp xếp hàng bên bia tập, lần lượt thi triển Magic Arrow cho đến cạn stock.
+{p}
+<b>MP</b>
+
+Cậu kia! Nhìn xanh xao quá, ngồi xuống uống cái này! Cảm thấy khá hơn chưa?
+
+…À, thấy rồi, các em quá sức. Ngoài stock, phép còn dùng MP — thi triển không đủ MP sẽ gây phản ứng ma pháp. Ngay cả người mới cũng sống sót qua lần quá sức đầu tiên, nhưng MP càng âm, càng đau.
+
+Đừng ngại quá sức nếu tính mạng nguy cấp, nhưng bất cẩn cũng có thể giết chết các em ngay lập tức.
+
+{p}
+
+Tóm tắt bài học hôm nay:
+
+* Đọc sách hoặc mơ để tích stock.
+* Thi triển phép, dùng stock và MP.
+* Trang bị, hoàn cảnh và trạng thái ảnh hưởng tới phép.
+* Phép tăng cấp khi thi triển, tăng sức mạnh và tỷ lệ thành công.
+* Có thể thi triển khi MP = 0, nhưng sẽ đau.
+
+Hy vọng các em thích bài nhập môn ma pháp hôm nay. Lớp các em sẽ có nhiều bài thực hành như thế này, hãy chờ đón nhé!

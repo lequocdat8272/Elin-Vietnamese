@@ -1,0 +1,13 @@
+$topic_credit
+{topic,Lafrontier Developers}
+$topic_credit_resource
+{topic,Copyright and Creator Information}
+Game này xài đủ thứ tài nguyên miễn phí luôn, thế nên bọn mình xin gửi một cái cúi đầu cảm ơn chân thành tới tất cả các "đại hiệp" đã tạo ra mấy món xịn sò đó. Hình ảnh thì đã được mông má lại cho vừa khớp với game, kiểu như resize cho khỏi vỡ hình. Âm thanh thì cũng bị kéo lên kéo xuống tí, lúc thì hạ volume cho đỡ nhức tai, lúc thì vặn pitch cho nghe lạ lạ. Tóm lại là có chỉnh sửa nhưng vẫn giữ trọn cái hồn của mấy tác phẩm gốc.
+
+{topic,Elona Resources}
+$topic_credit_backer
+{topic,Wish Credits}
+Đây là mấy tính năng được đưa vào game nhờ mong muốn của các mạnh thường quân đã chống lưng cho Elin, kèm theo cả danh sách tên tuổi của họ. Bọn mình xin gửi một lời cảm ơn siêu to khổng lồ tới tất cả, vì chính những “ước mơ” ấy đã làm game thêm phần bá cháy bọ chét.
+$topic_credit_news
+{topic,Palmia Times Credits}
+Đây là danh sách những mạnh thường quân đã góp công làm cho Palmia Times thêm phần phong phú. Xin cúi đầu cảm tạ toàn thể quý vị, nhờ mọi người mà báo chí nơi đây mới có “muối” để rắc cho đời!

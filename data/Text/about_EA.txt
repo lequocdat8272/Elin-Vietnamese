@@ -1,0 +1,27 @@
+{topic,Planned Content During Early Access(EA)}
+Nội dung chính dự kiến sẽ được đưa vào trong giai đoạn Early Access như sau:
+
+* Hoàn thiện chuỗi Nhiệm vụ Nhà và Nhiệm vụ Chính
+* Thêm một đống nhiệm vụ phụ (đủ để bạn ngập mặt)
+* Thực hiện tất cả những điều ước của Backer (nếu không quá điên rồ)
+* Cải thiện các tính năng liên quan đến việc chế tác Mod
+
+Song song với đó, chúng tôi sẽ tiếp tục bổ sung tính năng mới, chỉnh lại cân bằng (theo nghĩa “đập chỗ này, lệch chỗ kia”), và mở rộng thêm nội dung game — từ quái vật cho đến vật phẩm — như vốn dĩ vẫn đang làm.
+
+{topic,EA Timeframe}
+Chúng tôi nhắm tới thời gian hoàn thành vào khoảng 1 đến 2 năm. Tất nhiên, ngay cả sau khi “xong xuôi”, thế giới này vẫn sẽ tiếp tục được vá víu và nới rộng. Thời điểm hoàn tất (đặc biệt là phần cốt truyện) có thể sẽ bị kéo dài đôi chút, tùy theo tiến độ phát triển và mức độ rối loạn của đội ngũ.
+
+{topic,Expected Changes During EA}
+Một vài vật phẩm và công thức “hàng hiếm” tạm thời được bày bán ở cửa hàng NPC để cuộc chơi đỡ khổ. Về sau, chúng sẽ được chuyển thành phần thưởng nhiệm vụ phụ — tức là bạn phải đổ mồ hôi mới có.
+
+Ngoài ra, hệ thống quản lý căn cứ có thể sẽ bị “đập đi xây lại” kha khá. Chúng tôi sẽ cố gắng giữ cho dữ liệu save vẫn tương thích xuyên suốt giai đoạn Early Access lẫn sau khi game ra mắt chính thức — ít nhất là trong chừng mực còn chịu nổi.
+
+{topic, Regarding User and Community Support}
+Toàn bộ dự án này — từ phát triển, hỗ trợ người chơi cho tới phát hành — đều do một cá nhân tự xoay xở. Chúng tôi sẽ cố gắng đáp lại một cách chân thành nhất, nhưng mong bạn thông cảm vì so với hầu hết game khác, nguồn lực hỗ trợ ở đây khá hạn chế. Ngoài ra, cũng khó để nhà phát triển có thể thường xuyên rình mò và góp mặt trên các cộng đồng như diễn đàn Steam.
+
+Chúng tôi cũng xin được bạn rộng lượng kiên nhẫn nếu bản cập nhật có lúc bị trì hoãn vì sức khỏe của nhà phát triển… hay những biến cố trời ơi đất hỡi khác.
+
+{topic,Fan Creations and Streaming}
+Bạn hoàn toàn tự do sáng tạo fanwork hay stream về Elin cũng như game tiền nhiệm Elona, dù là trong giai đoạn Early Access hay sau khi game đã hoàn tất. Không có bất kỳ giới hạn nào, và càng chẳng cần xin phép hay báo cáo.
+
+Đối với các nội dung liên quan đến Elin, như fanwork, stream hay hướng dẫn chiến lược, bạn cũng có thể thoải mái dùng hình ảnh trong game. Tuy nhiên, xin lưu ý rằng Elin có sử dụng một số tài nguyên miễn phí. Chi tiết vui lòng xem phần credits trong mục Trợ giúp.

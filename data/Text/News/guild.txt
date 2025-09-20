@@ -1,0 +1,35 @@
+“Chúng Tôi Không Phải Người Giữ Trẻ Cho Lũ Yeek.”
+Các nhà thám hiểm từ Kapul, chán ngán với những công việc diệt quái, đã bắt đầu đình công công khai hôm nay. Nguyên nhân bắt nguồn từ việc Hội Chiến Binh liên tục giao cho họ nhiệm vụ tiêu diệt lũ Yeek.
+@city,UN_guild_doorman_fighter,UN_guild_master_fighter
+
+Vụ Trộm Nghệ Thuật Ở Lumiest Bị Quy Cho Hội Trộm Cắp
+Những tác phẩm nghệ thuật quý giá đã biến mất khỏi một bảo tàng địa phương ở Lumiest, khiến cư dân trong thành phố rơi vào tuyệt vọng. Vụ trộm, bị nghi là do Hội Trộm Cắp gây ra, đã thúc đẩy Cục An Ninh Công Cộng Palmia mở cuộc điều tra quy mô lớn.
+@room,UN_guild_doorman_thief,UN_conery
+
+Hội Pháp Sư Công Bố Phép Nguyền Rủa Mới
+Hội Pháp Sư đã công bố một loại “phép nguyền rủa cực mạnh” mới. Tuy nhiên, trong buổi họp báo, không hề xuất hiện bất kỳ hiệu ứng nào. Lời khẳng định của pháp sư rằng “lời nguyền chắc chắn sẽ giáng xuống sau này” đã khiến các phóng viên tham dự vô cùng phẫn nộ.
+@labo,UN_renton
+
+Chiến Dịch Hiến Máu Ấm Lòng Của Các Nhà Thám Hiểm
+Hội Thám Hiểm đã tổ chức một chiến dịch hiến máu dưới bầu trời lạnh giá của Noyel. Những người tham gia đã nhân ái hiến máu cho các bệnh nhân đang cần. Những chú putit tuyết quấn khăn choàng cổ đã reo hò cổ vũ cho họ.
+@snow
+
+Tàn Tích Huyền Bí: Dấu Vết Của Phù Thủy Vĩnh Hằng?
+Hội Pháp Sư đã phát hiện dấu vết của “Phù Thủy Vĩnh Hằng” trong một tàn tích cổ xưa, được cho là nơi dùng để thi triển các phép ma pháp vũ trụ, đặc biệt là “Thiên Thạch”. Những mảnh vụn của trang bị in hoa văn tinh tú được tìm thấy tại hiện trường đã khiến giới học giả vô cùng phấn khích, coi đó như bằng chứng về sự tồn tại của bà.
+@ruin
+
+Cổ Thư Hé Lộ Bí Mật Về Phù Thủy Vĩnh Hằng
+Những văn bản cổ vừa được giải mã đã làm sáng tỏ về Phù Thủy Vĩnh Hằng, được miêu tả với mái tóc trắng tinh khôi và đôi mắt đỏ ruby, mãi mãi tiếp tục hành trình của mình mà không hề già đi theo năm tháng, trở thành nguồn cảm hứng cho các nhà thám hiểm hiện đại.
+@labo,UN_renton
+
+Trí Tuệ Thần Thánh: Đọc Nhanh, Mất Ngủ Triền Miên
+Một pháp chiến sĩ đã có được khả năng đọc 100 quyển sách chỉ trong một đêm nhờ phép Trí Tuệ Thần Thánh. Thế nhưng, tác dụng phụ là anh ta không thể ngủ vào ban đêm nữa, buộc phải tìm thú vui mới bằng cách đếm cừu.
+@city
+
+Phép Tàng Hình Của Pháp Sư Gặp Sự Cố
+Một pháp sư được mời đến cung đình Palmia để biểu diễn đã gây náo loạn khi thi triển phép tàng hình lên thú cưng của Quốc Vương Zane, khiến nó biến mất. Giờ đây, pháp sư cho rằng lẽ ra chỉ nên làm chiếc vòng cổ biến mất thì khôn ngoan hơn.
+@royal,UN_zane
+
+Chú Mèo Thông Thái: Hành Trình Tìm Kiếm Tri Thức
+Sau khi bị chủ nhân vô tình yểm phép “Trí Tuệ Thần Thánh”, một con mèo trở nên thông minh bất thường và bỏ nhà ra đi. Người ta đã trông thấy nó say mê đọc những cuốn sách triết học tại thư viện địa phương.
+@room
