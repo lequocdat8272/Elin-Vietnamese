@@ -22,8 +22,8 @@ Còn nếu bạn muốn tiếp tục dịch cần được ghi rõ cre đầy đ
 
 lequocdat8272 xin cảm ơn đến tất cả mọi người hỗ trợ đã giúp hoàn thiện bản dịch hơn.
 
-Cho đến khi mình dịch ở mức hoàn toàn chơi được (Có thể ver lên 1.0) , file Việt Hóa này được sử dụng bản quyền CC BY-NC-SA 4.0:
-
 [Changelog](./CHANGELOG.md)
+
+Cho đến khi mình dịch ở mức hoàn toàn chơi được (Có thể ver lên 1.0) , file Việt Hóa này được sử dụng bản quyền CC BY-NC-SA 4.0:
 
     Elin-Vietnamese  © 2025 by lequocdat8272 is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
