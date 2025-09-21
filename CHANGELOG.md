@@ -1,5 +1,8 @@
 # CHANGELOG
 
+21/9/2025 - Ver 0.9.7
+- Update 200 ( Chưa soát dialog )
+  
 6/9/2025 - Ver 0.9.6
 - Sửa một số tên kỹ năng cho đồng bộ.
 
