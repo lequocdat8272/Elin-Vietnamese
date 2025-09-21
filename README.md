@@ -1,6 +1,6 @@
 # Elin-Vietnamese
 Được làm solo từ lequocdat8272 và có hỗ trợ từ lader136.
-Đã update và test ở phiên bản mới nhất [23.188] - Steam hay Cr*ck đều được.
+Đã update và test ở phiên bản mới nhất [23.200] - Steam hay Cr*ck đều được.
 
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn.
 
