@@ -1,0 +1,230 @@
+Updated Language Files:
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/General.xlsx
+version:2603  text:2601  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/List.xlsx
+version:110  text:109  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Game.xlsx
+version:952  text:951  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Word.xlsx
+version:484  name:482  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Note.xlsx
+version:11  text:11  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Chara.xlsx
+version:496  name:496  detail:0  aka:202  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/CharaText.xlsx
+version:115  calm:85  fov:14  aggro:75  dead:87  kill:76  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Tactics.xlsx
+version:13  name:13  detail:0  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Person.xlsx
+version:33  name:30  detail:0  aka:4  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Thing.xlsx
+version:2257  name:2256  detail:419  unit:347  unknown:60  roomName:105  name2:79  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Element.xlsx
+version:940  name:940  detail:631  altname:18  textPhase:300  textExtra:325  textInc:61  textDec:59  textAlt:45  adjective:0  levelBonus:2  
+
+(No Changes) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Calc.xlsx
+
+(No Changes) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Check.xlsx
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Race.xlsx
+version:88  name:88  detail:17  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Category.xlsx
+version:137  name:137  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Material.xlsx
+version:104  name:104  altName:46  
+
+(No Changes) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/SpawnList.xlsx
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Block.xlsx
+version:201  name:200  detail:3  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Floor.xlsx
+version:127  name:126  detail:0  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/CellEffect.xlsx
+version:8  name:7  detail:0  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Obj.xlsx
+version:139  name:139  detail:0  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Faction.xlsx
+version:12  name:12  detail:0  textType:0  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Religion.xlsx
+version:13  name:13  detail:13  textBenefit:13  textType:13  name2:13  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Job.xlsx
+version:20  name:20  detail:15  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Hobby.xlsx
+version:53  name:53  detail:7  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Quest.xlsx
+version:133  name:88  detail:121  talkProgress:0  talkComplete:2  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Stat.xlsx
+version:86  name:86  detail:80  strPhase:80  textPhase:71  textPhase2:4  textEnd:59  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Area.xlsx
+version:12  name:12  detail:4  textAssign:5  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Zone.xlsx
+version:98  name:98  detail:8  textFlavor:29  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/ZoneAffix.xlsx
+version:30  name:30  detail:0  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Research.xlsx
+version:9  name:9  detail:0  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/HomeResource.xlsx
+version:16  name:16  detail:7  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Collectible.xlsx
+version:104  name:104  detail:0  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/GlobalTile.xlsx
+version:16  name:16  detail:0  
+
+(No Changes) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/ThingV.xlsx
+
+(No Changes) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Food.xlsx
+
+(No Changes) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Recipe.xlsx
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/Backer.xlsx
+version:647  name:568  text:244  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN/Game/KeyItem.xlsx
+version:12  name:12  detail:12  
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\ashland.xlsx(ash)
+122
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\big_sister.xlsx(big_sister)
+10
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\casino_clerk.xlsx(1)
+2
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\corgon.xlsx(quru)
+12
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\demitas.xlsx(demitas)
+8
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\elder_exile.xlsx(raphael)
+1
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\fairy_nanasu.xlsx(fairy_nanasu)
+22
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\farris.xlsx(farris)
+77
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\felmera.xlsx(melilith)
+11
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\fiama.xlsx(fiama)
+49
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\guild_clerk.xlsx(1)
+14
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\guild_doorman.xlsx(1)
+29
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\guild_master_fighter.xlsx(1)
+1
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\guild_master_mage.xlsx(1)
+1
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\guild_master_merchant.xlsx(1)
+10
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\guild_master_thief.xlsx(1)
+1
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\ineien.xlsx(fiama)
+7
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\kettle.xlsx(kettle)
+79
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\loytel.xlsx(loytel)
+407
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\melilith.xlsx(melilith)
+31
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\olderyoungersister.xlsx(olderyoungersister)
+57
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\parttimer_jure.xlsx(fiama)
+8
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\poppy.xlsx(loytel)
+4
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\quru.xlsx(quru)
+82
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\raphael.xlsx(raphael)
+1
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\_adv.xlsx(god)
+4
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\_chara.xlsx(chara)
+21
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\_event.xlsx(event)
+7
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\_main.xlsx(index)
+11
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\_main.xlsx(mono)
+177
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\_main.xlsx(fiama)
+32
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\_tutorial.xlsx(index)
+34
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\Drama\_tutorial.xlsx(nerun)
+214
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\dialog.xlsx(general)
+74
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\dialog.xlsx(rumor)
+19
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\dialog.xlsx(zone)
+13
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Dialog\dialog.xlsx(unique)
+35
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Data\chara_talk.xlsx(1)
+5734
+
+(Updated) C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Vietnamese\Lang\VN\Data\god_talk.xlsx(1)
+266
+

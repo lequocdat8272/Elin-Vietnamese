@@ -11,246 +11,128 @@ Chào mừng bạn đến với Elin, và cảm ơn vì đã đồng hành trong
 {link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
 
 {topic, Elin Update Information}
-■ 26/8/2025 EA 23.188 Stable Patch 2
+■ 18/09/2025 – EA 23.200 Bản vá ổn định 2
 
-[Bổ sung và thay đổi]
-
-Trong chế độ One Block, các bàn thờ và các vật thể tương tự nằm trong phạm vi của bảng trồng rừng chỉ bị tự động xóa nếu chúng được tạo ra bởi tính năng trồng rừng.
-
-Nhân vật Loytel giờ sẽ được sinh ra với khoản nợ.
-
-[Ghi chú]
-
-Nếu không phát hiện lỗi nghiêm trọng, phát triển sẽ quay lại nhánh Nightly.
-
-■ 26/8/2025 EA 23.188 Stable Patch 1
-
-[Bổ sung và thay đổi]
-
-Cáo hoang dã giờ sẽ rơi ra đuôi cáo khi bị hạ gục.
-
-Bảng trồng rừng chỉ hoạt động trong căn cứ hoặc lều.
-
-Cập nhật chế độ One Block (sửa lỗi và điều chỉnh, thêm các vật phẩm như gối ôm, bàn thờ có thể sinh ra trong phạm vi bảng trồng rừng, bàn thờ đã dùng sẽ biến mất, và nhiều thay đổi khác. Vẫn tương thích với phiên bản trước).
-
-[Liên quan đến Mod]
-
-Khi khởi động game, tập tin type_resolver.txt trong thư mục dữ liệu người chơi sẽ được tải. Nếu chưa có, nó sẽ được tự động tạo.
-
-Khi tải dữ liệu lưu, nếu xảy ra lỗi tra cứu Type liên quan đến Mod, có thể chỉ định một Type thay thế trong type_resolver.txt. (Nghĩa là nếu Mod gây ra lỗi tải dữ liệu lưu, người chơi có thể tự chỉnh file này để sửa mà không cần chờ Mod cập nhật).
+(Dịch bởi ChatGPT)
 
 [Sửa lỗi]
 
-Sửa một số lỗi tải dữ liệu lưu do Mod gây ra.
-
-Sửa lỗi Isygarad không tăng cấp độ khi bật lời thề “Tỷ lệ độ khó nội dung tĩnh theo danh tiếng”.
-
-Sửa lỗi khi sử dụng ảnh nhân vật thay thế: vị trí bóng trong file .pref không hiển thị đúng khi nhân vật quay ngược chiều.
+Đã sửa lỗi trong đó việc hiệu chỉnh bonus phù phép vũ khí hai tay không áp dụng cho phù phép dạng kích hoạt vốn chưa được sửa hoàn toàn.
 
 Một số sửa lỗi và điều chỉnh nhỏ khác.
 
 [Ghi chú]
 
-Nếu không phát hiện lỗi nghiêm trọng, phát triển sẽ quay lại nhánh Nightly builds.
+Phát triển sẽ quay lại nhánh Nightly nếu không có vấn đề nghiêm trọng.
 
-■ 25/8/2025 EA 23.188 Stable
+■ 18/09/2025 – EA 23.200 Bản vá ổn định 1
 
-[Bổ sung và thay đổi]
+(Dịch bởi ChatGPT)
 
-Thêm bảng trồng rừng.
+[Bổ sung và Thay đổi]
 
-NPC có kỹ năng Loyalty giờ sẽ dịch chuyển đến mục tiêu bảo vệ nếu cách hơn 4 ô (trước đây là 5 ô).
+Thêm hiệu ứng chữ khi trùm Minotaur Nest xuất hiện.
 
-Cập nhật chế độ One Block (sửa lỗi, thêm hộp thuế rơi, thêm vật phẩm khởi đầu, tùy chọn đột kích, phần thưởng đột kích mạnh hơn, xuất hiện bàn thờ, v.v.).
+Điều chỉnh mức ưu tiên AI cho các phép kiếm ma thuật (trước đây bị hạ thấp khi mục tiêu có kháng, mặc dù phép có hiệu ứng xuyên kháng).
+
+Năng lực [Mana Burn] giờ sẽ tiêu hao ít nhất 1 MP.
 
 [Sửa lỗi]
 
-Sửa lỗi cư dân có sở thích/công việc Mofumofu hoặc Pet và có đuôi đôi khi sẽ cuồng loạn tự xù lông.
+Sửa lỗi đẩy lùi kích hoạt hai lần nếu vũ khí cận chiến có hiệu ứng knockback thông qua chỉnh sửa ở ô tầm xa (ví dụ: gunlance).
 
-Sửa lỗi cư dân có sở thích/công việc Mofumofu hoặc Pet đôi khi bỏ đi xù lông dù đã được lệnh chờ.
+Sửa lỗi bonus phù phép vũ khí hai tay không áp dụng đúng cho loại phù phép kích hoạt.
 
 Một số sửa lỗi và điều chỉnh nhỏ khác.
 
-[Về One Block]
-
-“Chế độ One Block (tạm thời)” có thể chọn từ phần “Prologue” khi bắt đầu game, nhưng vẫn đang trong giai đoạn phát triển rất sớm và có thể thay đổi nhiều.
-
-Đây là dự án phụ, chỉ nên coi là phần bổ sung nhỏ cho game chính.
-
-Việc phát triển và cập nhật One Block sẽ được thực hiện khi công việc chính không tiến triển (như trong giai đoạn chuẩn bị bản stable hoặc chờ sau phát hành).
-
-Một số NPC hoặc vật phẩm chưa xuất hiện trong game chính có thể xuất hiện trong One Block.
-
-Chi tiết cập nhật và sửa lỗi của One Block sẽ được lược bỏ khỏi ghi chú bản vá trong tương lai để tránh quá dài.
-
-■ 24/8/2025 EA 23.187 Stable
-
-Sau bản cập nhật Stable, một số Mod có thể ngừng hoạt động hoặc hoạt động bất thường. Nếu thấy hiện tượng lạ, hãy thử tắt Mod và kiểm tra lại.
-
-[Thay đổi Luật Thế Giới]
-
-Thêm tùy chọn “Tỷ lệ độ khó nội dung tĩnh theo danh tiếng”. Khi bật, độ khó của dungeon chính/phụ và boss sẽ tỉ lệ với danh tiếng của nhân vật.
-
-Vì có tùy chọn mới, cửa sổ Luật Thế Giới sẽ hiện khi tải game. Sau khi lưu lại một lần, nó sẽ không xuất hiện nữa.
-
-[Điểm nhấn]
-
-Thêm nhiệm vụ (Backer Wish): “Truy tìm bí ẩn của chiếc túi huyền thoại!” (bắt đầu từ tiểu thám hiểm gia Nanasu).
-
-Thêm NPC “Kẻ truy đuổi” (Backer Wish).
-
-Thêm Adventurers Weekly số 1–12: sách hướng dẫn cơ bản, bán rẻ bởi Moyer ở trại thợ máy. (Cảm ơn cộng đồng Discord Elin!)
-
-Thêm loại thực phẩm mới “Lunch”. NPC thân thiện có thể tặng nếu độ thiện cảm đủ cao. (Có thể thay đổi sau này khi thêm tính năng hôn nhân/đính hôn).
-
-Mở khóa tầng thiện cảm LoveLoveLove.
-
-Thêm Mũ Đầu Bếp (Chef’s Hat) ở thương nhân Ecopo → cho phép nấu món độc quyền từ hầu hết nguyên liệu dinh dưỡng.
-
-Tăng giới hạn cấp độ Mod Từ xa (Remote Mod) lên 999.
-
-Thêm kỹ năng “Beast of Possibility” (Mãnh thú Khả năng) cho phép mở rộng/thu hẹp số slot gene. Một số NPC có thể sở hữu.
-
-[Nội dung mới]
-
-Thêm tin đồn cho chủ tiệm tạp hóa Aoi.
-
-Thêm tùy chọn hiển thị điện năng trên thanh thông tin.
-
-Thêm khả năng chỉnh/lưu vị trí và kích thước skin thay thế, chân dung, bóng, mực nước, vị trí mũ, v.v.
-
-Thêm công tắc trên Bảng Bản đồ để bật tắt tạo mái nhà trong căn cứ (cho phép xây nhà có mái trong hang hoặc dưới biển).
-
-Thêm nhiều câu thoại khi điên loạn.
-
-Thêm phù phép ngẫu nhiên “Sustain Body Figure” (giữ nguyên vóc dáng, chiều cao/cân nặng).
-
-Thêm vật phẩm đặc biệt “Rogue Rune” có thể khắc rune mà không tốn slot. (Ecopo bán “Maintain Figure Rogue Rune”).
-
-Thêm ★ Búa Tuột Giáp (Hammer of Plate Stripping) ở Ecopo.
-
-Thêm Dụng cụ “Tent Wrench [Aquarium]” trong cửa hàng Miralgalok.
-
-Thêm công thức Thuốc Trẻ Lại và Thuốc Bất Tử (nguyên liệu tạm thời, có thể đổi khi thêm item hiếm mới).
-
-Thêm vũ khí mới Song Kiếm Năng Lượng (Dual Saber - tạm thời). Cho phép đổi màu Lightsaber và Dual Saber.
-
-Thêm phù phép độc nhất “Death Cry” trên khiên Mandrake.
-
-Thêm Đuôi Cá Mập (hiếm) rơi từ cá mập.
-
-Thêm Đuôi Chó và Đuôi Shiva (hiếm) từ chó và Shiva. (Sau này đuôi mèo/cáo/chó có thể có phù phép riêng).
-
-Thêm trang bị eo corset.
-
-Thêm bàn phụ (furniture).
-
-Thêm bồn rửa (furniture).
-
-Thêm 2 loại kệ (furniture).
-
-Thêm cái chĩa (pitchfork), đặt tại Yowyn và Mysilia.
-
-Thêm thanh kiếm gãy (rác).
-
-Thêm 2 ngựa linh hồn (souvenir).
-
-Thêm công thức bàn nấm, kệ treo nấm, trụ nấm, bệ nấm.
-
-Thêm 7 quái mới.
-
-[Bổ sung & thay đổi khác]
-
-(Danh sách rất nhiều, mình liệt kê chính)
-
-Cư dân có sở thích/công việc Furry/Pet có thể cuồng xù lông.
-
-Sâu bướm thêm vào chế độ Arachnophobia Countermeasure Mode (hình tạm).
-
-Thêm tùy chọn nén dữ liệu lưu trong Config → Tab Thử nghiệm.
-
-Thêm cửa sổ gợi ý khi cài đặt Luật Thế Giới lúc bắt đầu game.
-
-Hiện cấp độ nguy hiểm của tầng dungeon trên thanh ngày tháng.
-
-Tuổi giờ có thể giảm xuống 0 (vì mèo con dễ thương).
-
-Khách vãng lai không xuất hiện trong phòng đặt quyền riêng tư.
-
-Vật phẩm ném nay cộng thêm cấp độ cường hóa vào sát thương (thử nghiệm).
-
-Tăng giới hạn sát thương phép lên 9,999,999 (thử nghiệm).
-
-Thêm mô tả cho các công trình cơ sở ban đầu.
-
-Thay đổi nội bộ về xử lý tuổi: NPC độc nhất giờ bị ảnh hưởng bởi item thay đổi tuổi.
-
-Không thể dùng phi lê trong nấu ăn gốc.
-
-Bản đồ người chơi: tháo dỡ vật phẩm không sở hữu → sẽ sụp đổ, không rơi nguyên liệu.
-
-NPC không duy nhất với thiện cảm cao nhưng chưa tặng cúp → có thể tặng.
-
-Nhiệm vụ trên bảng không còn kích hoạt sự kiện đặc biệt.
-
-NPC có sự kiện đặc biệt hiển thị icon gợi ý trên đầu.
-
-Thêm danh mục thức ăn mới “Lunch” (cơm hộp tình yêu, cơm hộp dystopia chuyển vào đây).
-
-Thức ăn “Lunch” không bị chọn trong nhiệm vụ giao đồ ăn.
-
-Một số món ăn có thể ăn dở dang (tooltip hiển thị).
-
-NPC nấu ăn dùng nguyên liệu đúng loại quái (Goblin Meat, Goblin Egg…) thay vì xác/ trứng chung chung.
-
-NPC sẽ không dùng xác người chặt đầu làm nguyên liệu nấu.
-
-NPC ăn thịt người sẽ ưu tiên chọn thịt người.
-
-Đổi cách đặt tên item chưa giám định: không hiển thị tên người (VD: “Cơm hộp của Loytel” → chỉ “Cơm hộp”).
-
-Các điều chỉnh khác liên quan đến: gene “Meat Wall”, detector, summoning NPC, hiệu ứng Acid Body/Spikes, giới hạn burst-fire Mod, màu tuyết, tone màn hình, dịch thuật Trung Quốc, tone giọng NPC Nhật, v.v.
-
-[Sửa lỗi]
-
-Sửa lỗi quặng ngẫu nhiên sinh ra trong block bản đồ người chơi.
-
-Sửa lỗi khi pha chế aphrodisiac/poison áp dụng chúc phúc của item thay vì thuốc.
-
-Sửa lỗi bản đồ người chơi dưới biển không áp dụng hiệu ứng biển sâu.
-
-Sửa lỗi màu mũ (VD: mũ đầu bếp) thay đổi theo nguyên liệu item cầm.
-
-Sửa lỗi “Harvest Life” khiến nhân vật đứng yên nếu không tìm được đường.
-
-Sửa lỗi item nguyên liệu không hợp lệ gây lỗi map.
-
-Sửa lỗi render block giả.
-
-Sửa lỗi auto-sort bỏ qua hộp vận chuyển.
-
-Sửa lỗi nhiệm vụ ngẫu nhiên ở Village of Atonement có xu hướng sai.
-
-Sửa lỗi hiển thị mũ lệch vị trí item cầm.
-
-Sửa lỗi save cũ khiến bãi biển không đi qua được.
-
-Và nhiều sửa lỗi nhỏ khác.
-
-[Gợi ý]
-
-Một số NPC đặc biệt (VD: Cô gái kỳ lạ) sẽ mất chức năng độc quyền nếu chiêu mộ → để dùng lại, cần trục xuất và khôi phục về bản đồ gốc.
-
-Trên Bảng bản đồ, để đổi màu biển → đặt alpha > 0.
-
-Nội thất trên bản đồ người chơi luôn hiển thị, kể cả khi gắn cờ ẩn.
-
-Giá trị vé sưu tập nội thất tỉ lệ theo kỹ năng Thương lượng.
-
 [Ghi chú]
 
-Cuối năm nay, cập nhật sẽ tập trung vào nhiệm vụ phụ và kịch bản Home. Tốc độ update có thể chậm hơn.
+Phát triển sẽ quay lại nhánh Nightly nếu không có vấn đề nghiêm trọng.
 
-Hệ thống kết hôn, mang thai (người ngoài hành tinh), mở rộng hoạt động Home (lớp học, sân chơi) dự kiến ra mắt trong năm nay.
+■ 17/09/2025 – EA 23.200 Ổn định
 
-NPC Raina và Poina đã có chân dung, có thể chiêu mộ trong tương lai.
+(Dịch bởi ChatGPT)
+
+Sau khi có bản cập nhật ổn định, các phiên bản Mod cũ có thể ngừng hoạt động hoặc hoạt động bất thường. Nếu gặp sự cố, hãy thử tắt Mod một lần.
+
+[Điểm nổi bật]
+
+(Nguyện vọng Backer) Thêm chủng tộc “Centaur”.
+
+(Nguyện vọng Backer) Thêm “Larnneire, Người lắng nghe Gió” và “Lomias, Sứ giả từ Vindale”.
+
+(Nguyện vọng Backer) Đưa lại “Verna, Phù thủy Bóng tối” như một khách quý tại Vườn Vĩnh Cửu.
+
+(Nguyện vọng Backer) Thêm phép “Ngọn giáo Đêm Trăng”. Được thêm vào giải thưởng của Miral & Garok.
+
+Cập nhật nhiệm vụ “Đàm phán với Bóng tối.” Thêm nội dung liên quan tại Nhà.
+
+Mở khóa Hang Minotaur.
+
+Sau khi hoàn thành nhiệm vụ “Bí ẩn của Túi Huyền Thoại”, Raina và Poina sẽ xuất hiện tại Specwing.
+
+Khi chọn “Ngủ” trên giường của NPC, giờ sẽ cùng chia sẻ giường thay vì đuổi NPC ra ngoài nếu độ thân mật cao.
+
+Chơi nhạc cụ có phù phép nguyên tố giờ sẽ gây trạng thái bất lợi cho người nghe.
+
+Thêm “Tăng hiệu ứng phù phép vũ khí” vào bonus kỹ năng Hai tay.
+
+Thêm “Giảm phạt chính xác tay phụ” vào bonus kỹ năng Song Kiếm.
+
+Năng lực “Dream Larva” giờ sẽ mở khóa năng lực “Mischief” khi đạt cấp yêu cầu.
+
+[Bổ sung vào Vườn Vĩnh Cửu]
+
+Cải tạo và đổi tên bản đồ “Somewhere” thành “Vườn Vĩnh Cửu.” Nếu “Somewhere” đã được thăm, nó sẽ tái sinh theo thời gian. NPC như Black Angel, Billy và Verna sẽ được giữ lại (có thể dẫn đến nhiều bản sao Verna).
+
+Vườn Vĩnh Cửu tách rời khỏi thời gian, dùng để chứa nội dung “phá vỡ nhập vai” hoặc không khớp mạch truyện, cũng như các NPC khách (nguyện vọng Backer). Sẽ có thêm nhiệm vụ và NPC độc quyền trong tương lai.
+
+Nếu “Somewhere” đã được thăm trước khi Vườn Vĩnh Cửu được tạo, một băng cassette sẽ được gửi về Nhà khi tải dữ liệu (vì bản đồ không tự tái sinh).
+
+Thêm sổ đăng ký khách (sách) vào Vườn Vĩnh Cửu.
+
+[Bổ sung và Thay đổi với Khiên]
+
+Thêm phù phép khiên “Projectile Guard” để giảm sát thương tầm xa.
+
+Thêm phù phép khiên “Indomitable” để ngăn chặn bị hạ gục trong một đòn.
+
+Thêm phù phép khiên “Parry” để đỡ và phản công.
+
+Thêm phù phép khiên “Charger” để cường hóa Rush.
+
+Thêm phù phép khiên “Chivalry” để bảo vệ đồng minh khi cận kề cái chết.
+
+Thêm phù phép khiên “Tyrant of Shields” để tăng cường Shield Bash.
+
+Thêm phù phép khiên “Counter” để cho phép riposte khi né tránh.
+
+Thêm phù phép “Shadowpierce” để vô hiệu hóa đỡ/phản công của kẻ địch.
+
+Các phù phép khiên giờ hiển thị biểu tượng trong tooltip.
+
+Khiên giờ có thể nhận phù phép kích hoạt năng lực.
+
+Tăng hình phạt thất bại khi niệm phép khi trang bị khiên.
+
+Tăng nhẹ tỷ lệ kích hoạt Shield Bash; khi kích hoạt cũng tăng cơ hội khởi động phù phép năng lực của khiên.
+
+Counter/Parry không còn kích hoạt trên cư dân bị treo cổ.
+
+Thêm trạng thái bất lợi “Broken Spirit.” Kích hoạt bởi Indomitable và ngăn tái kích hoạt trong thời gian ngắn.
+
+“Chivalry” và “Meat Shield” không kích hoạt với sát thương trạng thái hoặc NPC bị treo cổ.
+
+Khi kích hoạt Parry hoặc phù phép khiên dạng kích hoạt, kiểm tra thành công giờ dùng kỹ năng liên quan của trang bị (ví dụ: Khiên → kỹ năng Khiên, Vũ khí võ thuật → kỹ năng Võ thuật).
+
+Vũ khí võ thuật giờ có thể nhận cả phù phép vũ khí và phù phép khiên, đồng thời có thể khắc rune.
+
+Tất cả khiên và vũ khí võ thuật hiện có đã được cập nhật với phù phép khiên.
+
+Thêm “Mai Rùa” (rớt hiếm từ Rùa).
+
+Thêm “Khiên Phấn Hoa” (rớt hiếm từ Hoa Ăn Thịt Người).
+
+Thêm “Dao Đỡ” (vũ khí tiêu chuẩn).
+
+NPC có hiển thị khiên trong đồ họa giờ sẽ xuất hiện với khiên đã trang bị.
