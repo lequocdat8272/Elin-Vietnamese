@@ -14,7 +14,7 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
   + Hãy copy File đã giải nén vào file cài đặt game. MK: lequocdat8272
     + Goal: _Lang_Vietnamese nằm trong Package
   + Bạn không cần Replace hay ghi đè gì cả vì là mod.
-  + Vào Game - config - Tiếng Việt - Khởi động lại Game.
+  + Vào Game - Cài đặt - Tiếng Việt - Khởi động lại Game.
 
 File vẫn sẽ luôn được cập nhật trên Github và Game cũng mới Early Access vì vậy sẽ cập nhật thường xuyên.
 
