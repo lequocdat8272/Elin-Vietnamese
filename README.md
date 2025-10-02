@@ -1,7 +1,7 @@
 # Elin-Vietnamese
 Được làm solo từ lequocdat8272 và có hỗ trợ từ lader136.
 
-Đã update và test ở phiên bản mới nhất [<span style="color:red">23.200</span>] - Steam hay Cr*ck đều được.
+Đã update và test ở phiên bản mới nhất [<span style="color:red">23.209</span>] - Steam hay Cr*ck đều được.
 
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn.
 
@@ -25,6 +25,7 @@ lequocdat8272 xin cảm ơn đến tất cả mọi người hỗ trợ đã gi�
 
 [Changelog](./CHANGELOG.md)
 
+Đang chuẩn bị lên Ver 1.0 :D (2 năm nữa ...)
 Cho đến khi mình dịch ở mức hoàn toàn chơi được (Có thể ver lên 1.0) , file Việt Hóa này được sử dụng bản quyền CC BY-NC-SA 4.0:
 
     Elin-Vietnamese  © 2025 by lequocdat8272 is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
