@@ -1,5 +1,8 @@
 # CHANGELOG
 
+2/10/2025 - Ver 0.9.8
+- Đã update cốt truyện bao gồm (23.209 và 23.200)
+
 21/9/2025 - Ver 0.9.7
 - Update 200 ( Chưa soát dialog )
   
