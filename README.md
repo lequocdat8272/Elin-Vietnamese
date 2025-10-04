@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/2135150/header.jpg" width="500"/>
+  <img src="https://github.com/user-attachments/assets/ff8579e8-c9a8-49cd-9dd7-e511dc55daf6" width="360"/>
+</p>
+
 # Elin-Vietnamese
 Được làm solo từ lequocdat8272 và có hỗ trợ từ lader136.
 
