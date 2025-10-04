@@ -15,6 +15,8 @@ CHẮC CHẮN sẽ có sai sót, hãy thông báo với mình trong issues.
 Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ sửa lại sẽ dẫn đến từ khác sai, nếu bạn đọc tên có thể hiểu đại khái hay di vào có hiện lên chú thích tương đối dễ hiểu thì hãy coi như đã việt hóa ổn. Hãy báo mình biết những từ cực kỳ khó hiểu, sai logic và sai nghĩa nặng. Mình sẽ cập nhật nhanh nhất "có thể". Đương nhiên nếu bạn có một từ hay hơn thì cứ báo mình nữa, vì mình không rành về fantasy nên có thể dịch tên riêng hoặc có từ mình lại để nguyên!
 
 - Tutorial/Hướng dẫn :
+-   [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3560772546)
+- Cr*ck:
   + [DOWNLOAD](https://github.com/lequocdat8272/Elin-Vietnamese/releases/tag/v0.9)
   + Hãy copy File đã giải nén vào file cài đặt game. MK: lequocdat8272
     + Goal: _Lang_Vietnamese nằm trong Package
