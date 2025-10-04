@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/2135150/header.jpg" width="500"/>
-  <img src="https://github.com/user-attachments/assets/ff8579e8-c9a8-49cd-9dd7-e511dc55daf6" width="360"/>
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/2135150/header.jpg" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ff8579e8-c9a8-49cd-9dd7-e511dc55daf6" width="285"/>
 </p>
 
 # Elin-Vietnamese
