@@ -1,5 +1,8 @@
 # CHANGELOG
 
+22/10/2025 -Ver 0.9.10
+- Đã update phiên bản 23.222 nyan nyan
+
 2/10/2025 - Ver 0.9.8
 - Đã update cốt truyện bao gồm (23.209 và 23.200)
 
