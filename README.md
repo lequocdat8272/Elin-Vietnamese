@@ -6,7 +6,7 @@
 # Elin-Vietnamese
 Được làm solo từ lequocdat8272 và có hỗ trợ từ lader136.
 
-Đã update và test ở phiên bản mới nhất [<span style="color:red">23.213</span>] - Steam hay Cr*ck đều được.
+Đã update và test ở phiên bản mới nhất [<span style="color:red">23.229</span>] - Steam hay Cr*ck đều được.
 
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn.
 
@@ -18,7 +18,7 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
 -   [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3560772546)
 - Cr*ck:
   + [DOWNLOAD](https://github.com/lequocdat8272/Elin-Vietnamese/releases/tag/v0.9)
-  + Hãy copy File đã giải nén vào file cài đặt game. MK: lequocdat8272
+  + Hãy copy File đã giải nén vào file cài đặt game/Package. MK: lequocdat8272
     + Goal: _Lang_Vietnamese nằm trong Package
   + Bạn không cần Replace hay ghi đè gì cả vì là mod.
   + Vào Game - Cài đặt - Tiếng Việt - Khởi động lại Game.
