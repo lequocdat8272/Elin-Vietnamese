@@ -12,195 +12,177 @@ Chào mừng bạn đến với Elin, và cảm ơn vì đã đồng hành trong
 
 {topic, Elin Update Information}
 
-■ 20/10/2025 EA 23.222 Stable nyan Patch 1
-[Bổ sung và Thay đổi]
+■ 11/2 2025 EA 23.229 Stable Kỷ niệm 1 năm Bản vá 4
 
-Giảm một nửa tỉ lệ xuất hiện của NPC máy móc dưới nước (chúng vẫn có thể hiếm khi xuất hiện theo chủ ý).
+[Thêm vào và Thay đổi]
 
-Thêm đồ họa phủ tuyết.
+Đã đổi vật liệu của Putit In Amber thành “Amber.”
 
-Tạm thời điều chỉnh sát thương của Panzerfaust (có thể sẽ tiếp tục tinh chỉnh trong phiên bản Nightly nếu cần).
+Giới hạn sức mạnh của Champagne Call đối với các thành viên không thuộc nhóm và cư dân (quá mạnh khi được sử dụng bởi các thực thể như Garden’s Keeper).
+
+Thêm hiệu ứng âm thanh cho tiếng gầm của Big Daddy.
 
 [Sửa lỗi]
 
-Sửa lỗi người chơi không sử dụng ná (sling) khi hết đạn trong chế độ tự động chiến đấu.
+Sửa lỗi quà tặng ★Crim Ale của Loytel được gửi vào ngày 30 tháng 10 thay vì ngày 1 tháng 11.
+
+Sửa lỗi một số hiệu ứng cường hóa (enchant) khiên không được hiển thị.
+
+Sửa các lỗi liên quan đến hiển thị nhân vật trong widget thông tin nhóm (party info).
+
+Các sửa lỗi và điều chỉnh nhỏ khác.
+
+[Ghi chú]
+
+Nếu không tìm thấy sự cố lớn nào, quá trình phát triển sẽ chuyển trở lại nhánh Nightly.
+
+■ 11/1 2025 EA 23.229 Stable Kỷ niệm 1 năm Bản vá 3
+
+[Thêm vào và Thay đổi]
+
+Thêm rồng Trắng, Lục, Đỏ và gậy điểm (point sticks) làm giải thưởng casino.
+
+Tay sai (minion) được triệu hồi bởi cư dân không thuộc nhóm giờ cũng có thể bị trục xuất từ menu chuột giữa.
+
+Thêm một cường hóa (enchantment) dựa trên vật liệu "Obsidian" giúp tăng thêm sát thương chống lại các vị thần.
+
+Thêm vật liệu mới “Amber” (chủ yếu dùng để nhuộm).
+
+Bí ngô (Pumpkin) giờ sẽ rớt đồ ngọt khi bị đánh bại hoặc khi các vật phẩm liên quan đến bí ngô bị phá hủy.
+
+[Sửa lỗi]
+
+Sửa lỗi ★Crim Ale bị bán ở trạng thái đã nấu (nội bộ phân loại là thức ăn thay vì đồ uống).
+
+Sửa lỗi các cường hóa (enchantment) diệt quái (slayer) dựa trên vật liệu xuất hiện trên các trang bị không phải vũ khí như áo giáp.
 
 Các sửa lỗi và điều chỉnh nhỏ.
 
 [Ghi chú]
 
-Việc phát triển có thể sẽ chuyển về phiên bản Nightly nếu không tìm thấy vấn đề lớn nào.
+Nếu không tìm thấy sự cố lớn nào, quá trình phát triển sẽ chuyển trở lại nhánh Nightly.
 
-■ 19/10/2025 EA 23.222 Stable nyan
-Đây là bản cập nhật thứ 222 (Nyan-Nyan-Nyan) của Elin sau khi ra mắt Early Access! Sau khi cập nhật phiên bản ổn định, một số mod có thể ngừng hoạt động hoặc hoạt động bất thường. Nếu có điều gì lạ xảy ra, vui lòng thử tắt các mod và kiểm tra lại.
+■ 11/1 2025 EA 23.229 Stable Kỷ niệm 1 năm Bản vá 2
+
+[Thêm vào và Thay đổi]
+
+Điều chỉnh sức mạnh của cường hóa (enchantment) Purity (Trong sạch) dựa trên vật liệu từ kim cương (diamond) và ngọc mắt mèo (opal).
+
+[Ghi chú]
+
+Sẽ phát hành bản dựng Stable này sớm hơn một ngày.
+
+Ngày mai (1/11), một thông báo và một bức tranh minh họa kỷ niệm sẽ được đăng trên Steam. Hãy chú ý theo dõi!
+
+■ 11/1 2025 EA 23.229 Stable Kỷ niệm 1 năm Bản vá 1
+
+[Thêm vào và Thay đổi]
+
+Nới lỏng điều kiện cho các NPC (không phải cư dân và bạn đồng hành) trang bị các vật phẩm có cường hóa (enchantment) tiêu cực khi được trao các trang bị đó.
+
+Cải thiện thêm giao diện người dùng (UI) của cửa sổ chế tạo. Bảng thông tin giờ đã rộng hơn và tự động mở rộng dựa trên độ dài văn bản.
+
+Thêm cường hóa (enchantment) vật liệu diệt xác sống (undead-slaying) cho vật liệu “Bạc” (Silver).
+
+[Sửa lỗi]
+
+Các sửa lỗi và điều chỉnh nhỏ.
+
+[Ghi chú]
+
+Nhiều cường hóa (enchantment) diệt quái (slaying) dựa trên vật liệu hơn được dự kiến thêm vào trong giai đoạn Nightly tiếp theo.
+
+■ 11/1 2025 EA 23.229 Stable Kỷ niệm 1 năm
+
+Phát hành phiên bản Stable sớm hơn dự kiến để kỷ niệm một năm ra mắt Elin. Sau khi cập nhật phiên bản stable, một số mod có thể ngừng hoạt động hoặc hoạt động không bình thường. Nếu có bất cứ điều gì bất thường xảy ra, vui lòng thử tắt mod và kiểm tra lại.
 
 [Nổi bật]
 
-(Wunsch của Backer) Thêm Khu cắm trại Tàn tích Doga.
+Thêm Keeper of the Garden (Người Gác Vườn) vào Garden of Eternity (Khu Vườn Vĩnh Cửu).
 
-(Wunsch của Backer) Thêm nhiệm vụ "Gia vị cuối cùng".
+Thêm Erishe và một chú chó con vào Garden of Eternity và cập nhật sổ đăng ký khách.
 
-(Wunsch của Backer) Thêm lính đánh thuê phóng khoáng Tyche và VTX-09 "VISHNU".
+Mở khóa thêm một cấp bậc guild và thêm các đặc quyền (perk) hạng mới cho cấp tối đa hiện tại của mỗi guild.
 
-(Wunsch của Backer) Thêm vũ khí "★Gậy Chỉ". Hiện có thể nhận từ Miral Garok (phương thức nhận có thể thay đổi).
+Thêm "★Crim Ale" vào kho hàng của cửa hàng Felmera.
 
-Thay thế BGM của Đền Thờ Lặn Lurie bằng phiên bản hòa âm của "Hymn of Wind" bởi Lulwy. Cảm ơn NINO!
+Khi nhiệm vụ trả nợ Loytel đang hoạt động, "★Crim Ale" giờ sẽ được Loytel gửi đến hàng năm vào ngày 1 tháng 11.
 
-Điều chỉnh đặc tính thực phẩm cho nho, dứa, dưa hấu, guapa, palulu, quả cầu vồng, trứng có phôi, và xương rồng.
-
-NPC và quái vật loại máy móc không còn xuất hiện ngoài trời. Điều chỉnh sự phân bố quái vật theo loại hầm ngục.
+Cập nhật artbook trong game.
 
 [Nội dung mới]
 
-Thêm tùy chọn kế thừa (Legacy) "Cho phép NPC biến đổi gen tự sao chép" vào Luật Lệ Thế Giới (World's Law).
+Thêm và thay thế BGM (nhạc nền) cho "Garden of Eternity" và "Làng Nefu." Cảm ơn NINO!
 
-Thêm đặc tính "Phế Phẩm" (Miscreation). Các thất bại (quái vật máy loại Putit) giờ sẽ được gán một đặc tính "Phế Phẩm" với sức mạnh ngẫu nhiên khi được tạo ra. (Công dụng của "Phế Phẩm" sẽ được giới thiệu trong tương lai.) Máy móc có đặc tính "Phế Phẩm" giờ sẽ rớt ra phế liệu hoặc bu lông thay vì vi mạch hoặc pin khi bị đánh bại.
+Thêm feat "Goddesshood" (Tư cách Nữ thần) cho Keeper of the Garden.
 
-Thêm phép thuật mới "Tước Phước Lành" (Strip Blessing).
+Thêm feat "Blood Pact" (Huyết Ước).
 
-Thêm một số kỹ năng NPC mới bao gồm "Tàn Sát" (Gorefest), "Cuồng Phong" (Whirlwind), "Mưa Tên Lửa" (Missile Barrage), và "Lóa Sáng" (Flare).
+Thêm "★Ragnarok" (vũ khí) (tạm thời).
 
-Thêm kỹ năng "Khúc Ca Dũng Cảm" (Song of Courage), được gán cho Barrich.
+Thêm Log (Khúc gỗ) (vũ khí).
 
-Thêm sách đỏ "Bình Minh và Tro Tàn" (Dawn and Ash) đặt tại Làng Mif.
+Thêm Kusarigama (vũ khí).
 
-Thêm sách đỏ "Các Vị Thần Lãng Quên Tập 1" (The Forgotten Gods Volume 1) đặt tại Làng Nef.
+Thêm Tent Door (Cửa Lều) (nội thất).
 
-Thêm vũ khí tầm xa "Panzerfaust".
+Thêm bốn loại Ancient Tank (Bể Chứa Cổ) (nội thất).
 
-Thêm vũ khí tầm xa "Shotgun".
+Thêm Upright Coffin (Quan Tài Dựng) (nội thất).
 
-Thêm vũ khí tầm xa "Súng Carbine Laser" (Laser Carbine).
+Thêm Figure of Sommeliers (Tượng Chuyên gia Rượu) (nội thất).
 
-Thêm vũ khí tầm xa "Ná" (Sling). Đồng thời thêm vào công thức khởi đầu.
+Thêm một biến thể của Stone Coffin (Quan Tài Đá) (nội thất).
 
-Thêm vũ khí ném "Shuriken".
+Thêm mỗi loại một biến thể của Coffin (Quan Tài), Coffin Bed (Giường Quan Tài), và Upright Coffin (Quan Tài Dựng).
 
-Thêm vũ khí ném "Dao Ném" (Throwing Knife).
+Thêm âm thanh xung quanh của suối và ve sầu.
 
-Thêm vũ khí ném "Gậy Chỉ" (Point Stick).
+[Thêm vào và Thay đổi]
 
-Thêm vũ khí cận chiến "Chakram".
+Churyu giờ được bán tại quán cà phê mèo ở Yowyn.
 
-Thêm đạn "Đạn Tên Lửa" (Rocket Round).
+Các NPC không phải là cư dân hoặc bạn đồng hành sẽ không còn trang bị các vật phẩm có cường hóa (enchantment) tiêu cực quá mức khi được trao.
 
-Thêm nội thất "★Đài Tưởng Niệm Vĩnh Cửu" (★Eternal Monument). Đặt trong Vườn Vĩnh Cửu.
+Khi thực hiện một điều ước, nếu nhiều vật phẩm ứng cử có tên giống hệt nhau, một vật phẩm sẽ được chọn ngẫu nhiên.
 
-Thêm nội thất "Đài Tưởng Niệm" (Monument). Đặt trong Vườn Vĩnh Cửu.
+Nhân vật có Ether Resistance (Kháng Ether) ở mức Immunity (Miễn nhiễm) +5 sẽ không còn bị nhiễm Ether Disease (Bệnh Ether) (thử nghiệm).
 
-Thêm nội thất "Quách" (Sarcophagus).
+Thêm một số sách phép triệu hồi vào hàng hóa tại Loytel Mart.
 
-Thêm nội thất "Quan tài" (Coffin).
+Thêm 20 lượt hồi chiêu (cooldown) dành riêng cho NPC đối với khả năng "Kizuami’s Trick."
 
-Thêm nội thất "Giường Quan Tài" (Coffin Bed).
+Thêm họa tiết tuyết rơi cho biển hiệu Curry House (Quán Cà ri); giờ được đặt trên mặt đất thay vì trên mái nhà.
 
-Thêm nội thất "Quầy Hàng Ngoại Lai" (Exotic Stall). (2 loại)
+Không thể đánh cắp vật phẩm từ NPC có cường hóa (enchantment) "Negate Steal" (Chống Trộm).
 
-Thêm nội thất "Quả Đào Khổng Lồ" (Giant Peach).
+Tay sai (minion) thuộc sở hữu của NPC không phải PC (người chơi) hoặc thú cưng của họ giờ sẽ biến mất sau một thời gian nhất định hoặc khi chuyển bản đồ.
 
-Thêm nội thất "Nhà Búp Bê" (Dollhouse).
+Sau khi gia nhập Mage Guild (Hiệp hội Pháp sư), Academy Recommendation Letters (Thư giới thiệu của Học viện) sẽ không còn xuất hiện trong kho hàng của cửa hàng phép thuật.
 
-Thêm nội thất "Tấm Pin Mặt Trời" (Solar Panel).
+Khi sở hữu feat "Basic Knowledge of Magic" (Kiến thức Cơ bản về Phép thuật), các nguyên tố cao hơn như Blood (Huyết) giờ có thể được chọn với đặc quyền (perk) hạng của Mage Guild giúp tăng các lĩnh vực có thể chọn.
 
-Thêm nội thất các quân Mạt chược "Bạch", "Lục", và "Hồng". Đồng thời thêm đồ họa mặt sau và đảo ngược cho quân Thất Vạn.
+Đặt giới hạn trên của điểm cống hiến guild là 100 triệu; điểm cống hiến âm sẽ được đặt lại về 0.
 
-Thêm hai nội thất mô hình lắp ráp nhựa mới.
+Các giá trị số như giá cả được hiển thị trong hội thoại dịch vụ của NPC giờ được định dạng bằng dấu phẩy.
 
-Thêm thực vật "Hướng dương" (Sunflower).
+Điều chỉnh công thức được sử dụng để xác định xem NPC thân thiện có trở thành kẻ thù khi bị khiêu khích (hostile) hay không.
 
-Thêm thực vật "Tulip".
+Đặt số lượng vật phẩm tối đa mà strange little girl (cô bé kỳ lạ) có thể trữ là 50 (để ngăn chặn tràn bộ đệm từ các vật phẩm cố định khi cửa hàng của cô bé phát triển quá lớn).
 
-Thêm thực vật "Ớt" (Pepper).
+Thêm hội thoại tạm thời cho hai Mani bằng xương bằng thịt (vẫn đang được phát triển).
 
-Thêm Khối Dung Nham và điều chỉnh đồ họa sàn dung nham.
+Cải thiện một chút bản đồ Garden of Eternity.
 
-Thêm công thức chế tạo Ớt (thử nghiệm).
+Điều chỉnh các feat cho chủng tộc God (Thần).
 
-Thêm ba quái vật mới.
+Tường lều (Tent walls) giờ có thể thay đổi màu sắc.
 
-Chỉnh sửa đồ họa của cà chua mùa thu hoạch.
+Cửa hàng nội thất không còn bán nhạc cụ; Junk Dealers (Người buôn đồng nát) giờ sẽ hiếm khi bán chúng.
 
-[Bổ sung và Thay đổi]
+Cải thiện một chút giao diện chế tạo. Thêm tính năng cuộn bằng cách kéo (drag scrolling) và giảm các cú nhấp chuột nhầm vào các nút số lượng trong khi cuộn.
 
-NPC được tạo ra từ phiên bản này trở đi sẽ trở thành "Nở Sớm" (Early Bloomers) khi sinh ra từ trứng hoặc được tạo ra với cấp độ được điều chỉnh (chưa có hiệu ứng gameplay). Trong cửa sổ thông tin nhân vật, "Nở Sớm" hoặc "Nở Muộn" (Late Bloomer) giờ sẽ được hiển thị trong phần Gen.
-
-Các NPC như Bé Kraken đã có đặc tính Bé (Baby) giờ sẽ trở thành "Nở Sớm" khi được cho uống sữa.
-
-Đổi Triệu Hồi Bit (Bit Summon) thành ma pháp nguyên tố.
-
-Thêm Lóa Hư Không (Void Flare) vào các kỹ năng của Bahamut.
-
-Điều chỉnh chi phí ô gen cho các kỹ năng mạnh như Mưa Tên Lửa.
-
-Trứng giờ có thể được chọn trong công thức Cơm trộn Hàn Quốc nướng đá (Stone-Grilled Bibimbap).
-
-Tất cả các Thế Bài Hát (Song Stances) giờ sẽ bị hủy khi bị câm lặng.
-
-Tất cả các Thế Bài Hát giờ sẽ giảm MP tối đa thay vì tiêu tốn MP.
-
-NPC chiếm nhiều ô không còn có thể được phát hiện qua thần giao cách cảm.
-
-Cải thiện nhẹ quá trình chuyển đổi BGM.
-
-Bữa ăn Loạn Tưởng (Dystopia Meals) đặt trong Hộp Phân Bón giờ sẽ bị thối rữa.
-
-Em bé giờ sẽ sinh ra ở tuổi 0.
-
-Bản đồ của người dùng giờ sẽ giữ lại và tái tạo một số thông tin văn bản của vật phẩm (như văn bản viết trên biển báo hoặc tên của các hạt giống đã được đặt tên).
-
-Khi Big Daddy bị đánh bại và một Little Sister xuất hiện, Little Sister giờ sẽ nhận được một lượt bất tử.
-
-Thêm cấp độ tối thiểu được đảm bảo cho quái vật được tạo ra bằng cách triệu hồi (sẽ tiếp tục được tinh chỉnh).
-
-Đổi danh mục của Dầu Ô liu thành "Nước sốt" (Sauce).
-
-Thêm một phần thưởng phước lành tạm thời cho Nữ thần Lãng quên Yakasha.
-
-Thay đổi đức tin cố định của A.I.R thành Yakasha.
-
-Khi được bảo vệ khỏi việc phá hủy vật phẩm bởi phước lành của Đá Lò Sưởi (Hearth Stone), tường và các công trình tương tự trong căn cứ sẽ không còn bị phá hủy bởi chất nổ như Panzer hoặc Fram. (Tuy nhiên, khi không được bảo vệ, Bom Tự Sát hoặc Thiên Thạch giờ có thể phá hủy tường.)
-
-Các NPC độc nhất được tạo ngẫu nhiên như Big Daddy giờ sẽ mất thuộc tính toàn cục của chúng khi bị đuổi khỏi căn cứ (để ngăn chặn việc truy cập dữ liệu toàn cục kéo dài).
-
-Hiệu suất cường hóa trên trang bị sao chép không còn dao động ngẫu nhiên. Trang bị sao chép giờ bán với giá thấp hơn.
-
-Câu cá giờ có thể thực hiện ở bất cứ đâu trên bản đồ dưới nước.
-
-Trên bản đồ dưới nước, bất kỳ khu vực nào trong phạm vi của mạch nước phun giờ cũng được tính là suối nước nóng.
-
-NPC có gen tích hợp không còn có thể tự sao chép.
-
-Tỷ lệ kích hoạt tấn công lan (shotgun) giờ phụ thuộc vào cấp độ cường hóa.
-
-Tấn công lan (shotgun) giờ trúng các hình nộm tập luyện (chỉ hình nộm đang được sử dụng mới được tính vào DPS).
-
-Không nhận được kinh nghiệm từ các ô phụ bị trúng bởi tấn công lan (shotgun) hoặc các hiệu ứng tương tự.
-
-Nguyên liệu NPC giờ có thể được chỉ định trực tiếp trong nội bộ cho mỗi NPC.
-
-Thay đổi nguyên liệu của "Thất bại (quái vật)" thành Đồng, và nguyên liệu của chủng tộc "Kim loại" thành Bạch kim.
-
-Khi tung xúc xắc hơn 10 lần, kết quả giờ sẽ sử dụng các giá trị giả ngẫu nhiên gần với giá trị trung bình dự kiến thay vì tung thực tế.
-
-Một số hành động trong túi đồ (như đọc hoặc ăn) giờ bị hạn chế khi bảng nhân vật đang mở (để ngăn chặn sự cố).
-
-NPC không có khả năng Nhìn Thấu Vô Hình (See Invisible) không thể vuốt ve các sinh vật bông xù vô hình.
-
-Các con số sát thương và danh vọng giờ được hiển thị với dấu phẩy ngăn cách.
-
-Thú cưng bị xích sẽ không còn đi xe goòng hoặc xe đẩy.
-
-Danh vọng không còn bị tràn số. Đặt thuế danh vọng tối đa là 1.000.000 Orens (có thể giảm thông qua trốn thuế và các phương tiện tương tự).
-
-Giá trị kỹ năng gen giờ được hiển thị mà không cần nhấn phím [x] (gen đã gắn vào NPC không thể kiểm tra qua [x]).
-
-Đặt HP tối đa là 999.999.999 (thử nghiệm).
-
-Thống nhất tất cả giới hạn sát thương về 99.999.999 (thử nghiệm).
-
-NPC trung lập giờ bị loại khỏi vùng ảnh hưởng của phép "Phá Vỡ Lời Nguyền" (Shatter Hex).
-
-(Bản Nhật) Thay đổi từ "Dì" trong sách đỏ "Dì của tôi" từ 伯母 thành 白母 (hakubo).
+Cập nhật nhỏ cho Chế độ One-Block (Một Ô). Farris giờ bán Tax Boxes (Hòm Thuế) và một số lỗi đã được sửa.
 
 Cập nhật bản dịch tiếng Trung.
 
@@ -208,54 +190,28 @@ Cập nhật đồ họa tuyết.
 
 [Sửa lỗi]
 
-Sửa lỗi trong đó phần thưởng kháng phép từ Phép Ngâm Xướng (Intonation Spells) có thể dao động sau khi tải (đối với các file lưu được tạo ở các phiên bản trước với ngâm xướng đang hoạt động, phần thưởng sẽ vẫn bị giảm cho đến khi ngâm xướng được niệm lại).
+Sửa lỗi không thể thay đổi kiểu nút từ cài đặt Status Info Widget (Widget Thông tin Trạng thái).
 
-Điều chỉnh độ sâu kết xuất cho mũ nón.
+Sửa lỗi một số khả năng của thần (god abilities) xuất hiện trong gen.
 
-Sửa lỗi trong đó các nhân vật bắt đầu vuốt ve một cách điên cuồng từ xa khi đường đến mục tiêu bị chặn.
+Sửa lỗi kỹ năng Nấu nướng (Cooking) của Big Sister (Chị Gái) tăng lên mỗi khi kho hàng của cửa hàng được tải lại.
 
-Sửa lỗi cường hóa "Lời Nguyền Đệ Quy" (Recursive Curse) không áp dụng các chỉ số âm cho trang bị khi nó bị nguyền rủa.
+Sửa lỗi đứng game khi một bạn đồng hành có 0 XP yêu cầu (do mod, v.v.) lên cấp.
 
-Sửa lỗi cho phép nhân bản một số vật phẩm được đánh dấu là không thể nhân bản.
+Sửa lỗi tràn bộ đệm liên quan đến trọng lượng mang tối đa của nhân vật.
 
-Sửa lỗi trong đó động vật vẫn có thể xuất hiện ngay cả khi chính sách "Không có Động vật" được đặt cho căn cứ.
+Sửa lỗi tràn bộ đệm khiến cấp độ Nefia được tạo ra vượt quá giới hạn khi danh tiếng (fame) đạt mức tối đa.
 
-Sửa lỗi nhấp nháy (lỗi) thỉnh thoảng xảy ra trong chiến đấu.
-
-Sửa lỗi thiếu đồ họa cho các NPC nhồi bông (tượng) lớn khi được cầm. Cũng sửa lỗi lệch bóng cho một số NPC nhồi bông khi được đặt.
-
-Sửa lỗi bóng của thú nhồi bông xuất hiện ngay cả khi đã bị tắt trong chỉnh sửa ô của Chế độ Xây dựng.
-
-Sửa lỗi tự động đổ đồ sẽ đặt vật phẩm vào các thùng chứa chưa được đặt trên bản đồ.
-
-Sửa một số vấn đề nhỏ về tính nhất quán của câu chuyện (như tuổi của Xavi và các đoạn hội thoại liên quan đến dòng thời gian).
-
-Sửa lỗi AI ngừng sử dụng ma pháp nguyên tố nếu mục tiêu có miễn nhiễm, ngay cả khi sở hữu đặc tính Chủng Tộc Cổ Lão (Elder Race).
-
-Sửa lỗi nhấp chuột phải khi mua các vật phẩm như Huy Chương Nhỏ hoặc Bóng Bắt Giữ Nhỏ sẽ mua cả chồng.
-
-Sửa lỗi quái vật có thể xuất hiện trên các đối tượng không thể đi qua (ví dụ: cây) trong quá trình tạo bản đồ hầm ngục.
-
-Sửa lỗi tràn số khi tung xúc xắc.
-
-Sửa lỗi khi cố gắng tải các ID BGM không tồn tại (ví dụ: do mod).
+Sửa một số quy trình liên quan đến tràn bộ đệm khác.
 
 Các sửa lỗi và điều chỉnh nhỏ khác.
 
 [Ghi chú]
 
-Một số yêu cầu có thể đã bị hoãn hoặc bị quên do thời gian, vì vậy vui lòng gửi lại các yêu cầu cũ sau một thời gian.
+Keeper of the Garden (Người Gác Vườn) đeo mặt nạ mèo.
 
-"Thần Linh Mờ Nhạt" (Fading Gods) xuất hiện trong các sách đỏ giờ thay thế cho khái niệm cũ về "Thần Tiêu Cực (Hỗn Mang)" (Negative (Chaotic) Gods). Các biểu đạt hiện có sẽ được cập nhật dần dần.
+Erishe và các nhân vật khác được thêm vào Garden of Eternity có thể sẽ không thể chiêu mộ được trong một thời gian. Một số NPC độc nhất có thể yêu cầu nộp vật phẩm cụ thể thay vì kiểm tra điểm lôi cuốn (charisma) để gia nhập (ví dụ: Conery có thể yêu cầu giao 10 lọ Thuốc mọc tóc - Hair Growth Tonics).
 
-Công thức chế tạo Ớt là tạm thời. Mọi phản hồi về sự cân bằng của việc chế tạo gia vị đều được hoan nghênh.
+Cửa hàng đổi điểm cống hiến guild có thể sẽ là một ý tưởng thú vị để thêm vào trong tương lai.
 
-Việc bổ sung quái vật loại máy móc hiện đã hoàn tất phần lớn; các loại quái vật khác sẽ được thêm vào trong các bản cập nhật tương lai.
-
-Kỹ năng "Cuồng Phong" (Whirlwind) thực hiện một cuộc tấn công không phân biệt xung quanh người dùng.
-
-Shuriken cuối cùng sẽ bao gồm các loại quay trở lại tay. Trong tương lai, có thể sẽ có thể thêm cường hóa "quay về" cho bất kỳ vật phẩm hoặc nội thất nào bằng các công cụ như cờ lê.
-
-Nhiệm vụ cà ri có thể sẽ có phần tiếp theo trong các bản cập nhật tương lai.
-
-Phiên bản ổn định tiếp theo nhằm mục đích hoàn thành nhiệm vụ "Vào Trong Bóng Tối" (Into the Darkness).
+Ma cà rồng (Vampire) được dự kiến triển khai trong phiên bản Stable tiếp theo.
