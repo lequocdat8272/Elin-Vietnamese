@@ -1,0 +1,9 @@
+3,#merge+A
+10,D+ của +ALIAS
+60,D+ của +$god
+120,D+ dành cho +$god
+120,D+ của +$god
+8,D+ của +$parent
+12,D+ dành cho +$parent
+12,D+ của +$parent
+1,#merge+$adv

@@ -1,0 +1,38 @@
+general-2,Điều khiển cơ bản
+general-1,Bài Học của Fiama
+general-3,Tips Thám Hiểm
+general-FAQ,FAQ
+game-,$Guide 【Lối Chơi】
+game-attribute,Thuộc Tính
+game-condition,Điều Kiện
+game-party_ability,Khả Năng
+game-item,Vật Phẩm và Trang Bị
+game-identify,Vật phẩm không xác định
+game-tool,Công cụ khác nhau
+game-craft,Chế Tạo và Chế Biến
+game-recipe,Công Thức
+game_base-,$Guide 【Căn Cứ】
+game_base-livestock,Người Dân và Chăn Nuôi
+game_base-policy,Chính Sách và Nhà
+game_base-elec,Điện
+game_base-civility,Văn Minh
+game-,$Guide 【Khả Năng】
+game-autocombat,Auto
+game-item_search,Tìm kiếm vật phẩm
+game-autodump,Auto-Dump
+game-mark_important,Đánh dấu
+game-equip_set,Bộ trang bị
+game-auto_bed,Auto sử dụng giường
+game-advanced_menu,Menu nâng cao
+system-1,$Guide 【Hệ Thống】
+system-backup,Khôi phục bản sao lưu
+custom-1,$Custom Contents
+custom-map,Custom Map
+custom-replace,Replacing Textures
+custom-terms2,User Content Terms of Use
+custom-terms,Uploader Terms of Use
+other-,$Credits
+credits-2,Người phát triển
+credits-1,Tài nguyên
+other-fanwork,Fan Fictions and Streaming
+other-gallery,Thông tin về ảnh

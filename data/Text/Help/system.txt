@@ -1,5 +1,0 @@
-$backup
-{topic,Khôi Phục Dữ Liệu}
-Mỗi khi phiên bản game được cập nhật, một bản sao lưu sẽ tự động được tạo. Ngoài ra, bạn cũng có thể sao lưu thủ công dữ liệu lưu từ màn hình tải game.
-
-Khi chọn "Khôi phục" ở màn hình tải, danh sách các thế giới đã sao lưu sẽ được hiển thị. Xin lưu ý rằng nếu bạn tải một thế giới và sau đó lưu lại trong game, thế giới hiện tại sẽ bị ghi đè, chứ không phải bản sao lưu.

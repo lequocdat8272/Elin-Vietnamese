@@ -1,9 +1,0 @@
-3,#merge+A
-10,D+ of +ALIAS
-60,D+ of +$god
-120,D+ for +$god
-120,$god+'s +D
-8,D+ of +$parent
-12,D+ for +$parent
-12,$parent+'s +D
-1,#merge+$adv

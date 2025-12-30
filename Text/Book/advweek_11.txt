@@ -1,0 +1,43 @@
+Tuần san Nhà thám hiểm #11: Thi triển Phép theo Nhóm,Phóng viên thường trú Lumiest Jaystar,10,1
+
+<i>Chào mừng đến với Tuần san Nhà thám hiểm, nơi chúng tôi đề cập đến những chủ đề thân thương với trái tim dũng cảm của các bạn.</i>
+
+
+Tuần này, chúng tôi đang ở Hội Pháp sư để tìm hiểu xem phép thuật ảnh hưởng thế nào đến đồng minh. Vì các nhà thám hiểm thường lập tổ đội để khám phá Nefia, việc hoạt động như một phần của nhóm là điều bắt buộc, và phép thuật cũng không ngoại lệ.
+
+{p}
+<b>Kiểm soát Phép thuật</b>
+
+Khi nói đến phép thuật tấn công, bạn hẳn không muốn đánh trúng bạn bè bằng những tia hay cầu phép của mình. Đây là lúc kỹ năng Kiểm soát Phép thuật phát huy tác dụng: nó ngăn các phép diện rộng gây sát thương cho đồng minh. Với đủ điểm Kiểm soát Phép thuật, bạn có thể thi triển những phép hùng mạnh như Động đất mà không làm hại bạn bè.
+
+Những người dùng phép có đặc quyền "Phép thuật Chính xác" hầu như tránh đánh trúng đồng minh, đồng thời chỉ số Kiểm soát Phép thuật của họ được tính gấp đôi. Đây là một đặc quyền tuyệt vời nếu bạn thích những vụ nổ lớn! Tương tự như Kiểm soát Phép thuật, bất kỳ đồng minh nào cũng được hưởng lợi từ đặc quyền Phép thuật Chính xác miễn là bạn sở hữu nó.
+{p}
+Một hiểu lầm phổ biến giữa các nhà thám hiểm là đặc quyền "Phép thuật Lịch thiệp" (magic manners) sẽ ngăn phép trúng đồng minh. Sai rồi, nó ngăn vật phẩm vô tình bị phá hủy bởi lửa hoặc băng chứ không ảnh hưởng đến sát thương gây ra cho đồng minh.
+
+Kiểm soát Phép thuật có thể được huấn luyện tại Hội Pháp sư, mặc dù bạn phải là thành viên mới được tham gia lớp học.
+
+
+<b>Chọn Mục tiêu Phép thuật</b>
+
+Phép thuật tấn công chỉ là một nửa vấn đề. Phép thuật phòng thủ cũng tinh tế không kém trong một nhóm thám hiểm, biết thi triển phép gì lên ai có thể tạo ra sự khác biệt lớn. Phép phòng thủ và hỗ trợ có nhiều dạng:
+{p}
+<b>Phép tự thân.</b> Những phép này bắt nguồn từ người niệm và được ký hiệu bằng dấu màu xanh dương trên biểu tượng phép; không thể chọn mục tiêu cụ thể. Một ví dụ là các phép Ngâm xướng (intonations).
+
+Lưu ý rằng điều này không hoàn toàn có nghĩa là phép chỉ tác dụng lên người niệm: các phép như Hồi sinh là phép tự thân nhưng vẫn ảnh hưởng đến đồng minh; nó chỉ đơn giản có nghĩa là không thể chọn mục tiêu.
+
+<b>Phép đồng minh.</b> Đồng minh có thể là mục tiêu của các phép này, được ký hiệu bằng dấu màu xanh lá trên biểu tượng phép. Có thể chọn mục tiêu bằng cách nhấn giữ chuột giữa vào biểu tượng để chuẩn bị, sau đó nhấp chuột phải vào mục tiêu.
+
+Phép đồng minh cũng có thể được <color=green>thi triển theo nhóm bằng cách nhấn giữ chuột phải vào biểu tượng phép</color>. Làm vậy sẽ thi triển phép lên tất cả mục tiêu hợp lệ và tiêu tốn số lượng tích trữ và MP cần thiết, nhưng chỉ mất một lượt hành động.
+
+{p}
+Việc này rất hữu ích để nhanh chóng cường hóa tất cả đồng minh trước khi vào Nefia, hoặc hồi máu cho cả nhóm cùng lúc. Lưu ý là thi triển nhóm chỉ áp dụng cho đồng minh chứ không phải lính triệu hồi, những kẻ này phải được chọn mục tiêu riêng lẻ.
+
+<b>Phép cưỡi thú.</b> Những phép này được ghi rõ "hiệu ứng cũng áp dụng cho thú cưỡi" trong chú giải công cụ. Khi niệm lên bản thân, hiệu ứng của các phép này cũng lan sang thú cưỡi và vật ký sinh của người niệm mà không tốn thêm chi phí.
+
+Hầu hết là phép chữa trị, nhưng có vài ngoại lệ như Tàng hình.
+{p}
+Dù bạn là pháp sư ném cầu lửa hay mục sư hồi máu từ phía sau, việc biết phép thuật hoạt động thế nào trên bạn bè là rất quan trọng.
+
+***
+
+<i>- Trong số tiếp theo, chúng tôi sẽ quay lại Hội Pháp sư để trải nghiệm thực tế về chế tác cổ ngữ!</i>

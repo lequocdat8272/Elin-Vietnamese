@@ -1,0 +1,66 @@
+Câu Chuyện Trang Trại,Unknown
+
+<i>(Trông giống như văn bản nội bộ của công ty nào đó)</i>
+
+Do kinh doanh trang trại của tôi đã mở rộng khắp Zanan, giờ viết cẩm nang này dễ hơn là trực tiếp hướng dẫn các quản lý mới. Hãy đọc kỹ! Nếu chi nhánh của các bạn không sinh lời, các bạn sẽ phải trả lời trực tiếp với tôi!
+
+{p}
+<b>Cơ Sở Hạ Tầng</b>
+
+Trước khi bắt đầu, các bạn cần chuẩn bị đất. Xây chuồng sáng sủa và đặt biển trang trại để gia súc ở trong nhà — tường dày sẽ bảo vệ chúng khỏi quái vật lang thang. Nếu muốn thú nuôi ra ngoài, hãy rào chắn xa mép đất và đảm bảo có chỗ trú ẩn vào ban đêm.
+
+Nếu có admin points, hãy để nhân viên trực canh rào chắn. Nhớ rằng gia súc chết hoặc không vui sẽ không cho ra sản phẩm, nên việc giữ chúng sống và khỏe mạnh là quan trọng.
+
+Nếu muốn, bạn có thể cho thú ngủ trên đống cỏ khô, nhưng không bắt buộc.
+
+{p}
+<b>Cho Ăn</b>
+
+Gia súc cần một lượng cỏ mỗi ngày; không có cỏ, không sản phẩm. Bạn có thể thu hoạch cỏ hoang, nhưng tốt nhất tự trồng — cỏ cấp cao tăng sản lượng, nuôi được nhiều thú hơn.
+
+Gia súc không ăn trực tiếp từ cây; phải thu hoạch và cho vào thùng chung. Bảng quản lý nhà sẽ tổng hợp tồn kho cỏ và lượng tiêu thụ hàng ngày.
+
+Bạn có thể cho thú ăn món nấu chín như phần thưởng, nhưng không thay thế được cỏ.
+
+{p}
+<b>Mua Gia Súc</b>
+
+Giờ, quyết định nuôi loại gì. Sản phẩm gia súc gồm: trứng, sữa, thịt, lông. Chọn loại phù hợp với mục tiêu sản xuất: người mới nên thử snow putits, sản xuất cả bốn loại.
+
+Sản lượng sữa và trứng phụ thuộc vào loài — nuôi khủng long nghe hoành tráng nhưng không thực tế. Nói chung, loài đáy chuỗi thức ăn → sinh sản tốt hơn — đây là lý do snow putit khiêm tốn rất lý tưởng. Một số ranch khắp Zanan sản xuất hàng đặc sản như vảy rồng hay thú chiến cho quân đội, nhưng hiếm và được trợ giá bởi triều đình.
+{p}
+Gia súc khởi đầu có thể mua từ huấn luyện viên động vật, hoặc bắt thú hoang bằng monster ball hay làm quen bằng chải lông. Dù cách nào, đăng ký thú đã thuần dưỡng vào danh sách cư dân là xong.
+
+{p}
+<b>Hoạt Động Thường Ngày</b>
+
+Gia súc sinh trứng và sữa lúc 5 giờ sáng mỗi ngày; để nhân viên thu hoạch vào thùng chung. Trứng cần tủ lạnh để tránh hỏng, nhưng sữa không cần.
+
+Thú có lông cần cạo khi lông dày; có thể làm sớm, nhưng hiệu quả thấp hơn. Kéo cứng sẽ nhanh hơn, và thuốc bổ kích thích mọc lông tăng năng suất.
+
+Chải lông đều đặn giữ thú vui vẻ, đặc biệt khi quái vật quấy phá.
+
+{p}
+<b>Mở Rộng</b>
+
+Khi trang trại ổn định, đã đến lúc mở rộng. Trứng có xác suất thụ tinh nhỏ nở thành thú mới. Trang trại hiện đại dùng máy ấp điện để tăng tốc, nhưng đặt trứng lên chuồng (không thả) là giải pháp rẻ mà tốn thời gian. Nếu gần suối nước nóng, ngâm trứng thụ tinh sẽ giống như dùng máy ấp sau một thời gian chờ.
+
+Bạn có thể cho thú con uống sữa để lớn nhanh và giúp nhân viên có kinh nghiệm thuần hóa.
+{p}
+Nhưng đừng mở rộng quá khả năng. Gia súc dư thừa có thể giết bằng dao Sbutcher để lấy thịt và lông (nếu có) — kỹ năng giải phẫu tốt cho kết quả tối ưu. Hoặc bán trực tiếp cho khách bằng cách đánh dấu thú để bán.
+
+Tôi mong báo cáo lợi nhuận năm trên bàn tôi sau Juremas tiếp theo.
+
+{p}
+<i>Phụ Lục: Một Số Loài Gia Súc và Loại Lông</i>
+
+Rabbit, snow putit: cashmere
+Gold snow putit: vàng
+Fish: vảy
+Dinosaurs: da
+Pigs, Sheep: wool
+Beetle: lụa
+Spider: lụa tơ nhện
+Dragons, drakes: vảy rồng
+Skeletons: xương
+Ents: gỗ

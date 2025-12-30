@@ -1,0 +1,62 @@
+$1
+
+
+
+$map
+{topic, Custom Maps là gì?}
+Bản đồ tùy chỉnh là các bản đồ do người chơi tạo ra và công bố. Bằng cách sử dụng các vật phẩm như Moon Gate, bạn có thể tham quan các bản đồ tùy chỉnh được tải lên bởi những người chơi khác.
+
+Hiện tại, tính năng Bản đồ tùy chỉnh đang trong giai đoạn thử nghiệm, vì vậy bạn có thể thấy nhiều thay đổi và bổ sung trong tương lai. Hãy lưu ý rằng các bản đồ từ các phiên bản game khác nhau có thể không tương thích với nhau.
+
+{topic, Đăng tải Custom Maps}
+Sử dụng "heart stone" trên một bản đồ mà bạn sở hữu sẽ mở ra công cụ tải lên bản đồ ngay trong game. Bằng cách đồng ý với các Điều khoản sử dụng và chọn Tải Lên, bạn có thể đưa bản đồ hiện tại của mình đến với tất cả người chơi trực tuyến. Nếu chọn Lưu Cục Bộ, bản đồ sẽ được lưu trong thư mục Elin/User/Map.
+
+Các bản đồ đã tải lên sẽ được người chơi khác ghé thăm ngẫu nhiên thông qua "Moon gate". Nếu bản đồ của bạn có In-Map Replacement (Mấy cái đồ vật mà bạn tự tạo và bỏ vô map), chúng cũng sẽ được tải lên cùng lúc, đảm bảo hiển thị khi người chơi khác ghé thăm.
+
+{topic, Cấu hình tải lên}
+* Hiện tại, người chơi không thể xóa các bản đồ đã tải lên (tính năng này dự kiến sẽ có trong bản cập nhật tương lai).
+
+* Các bản đồ sẽ được xóa tự động, bắt đầu từ bản tải lên cũ nhất.
+
+* Nếu bạn tải lên một bản đồ có cùng ID với bản đồ đã tồn tại trên bộ tải lên, bản đồ hiện tại sẽ được cập nhật và ngày tải lên sẽ được làm mới.
+
+* Kích thước bản đồ bạn có thể tải lên có giới hạn tối đa.
+
+
+$replace
+{topic, Texture Viewer}
+Bằng cách sử dụng Texture Viewer trong game, bạn có thể dễ dàng thay thế hình ảnh. Mở Texture Viewer từ công cụ trong menu hệ thống, nhấp vào hình ảnh bạn muốn thay thế và chọn "Tạo bản thay thế" (Create Replacement). Hình ảnh thay thế sẽ được tạo trong thư mục Elin/User/Texture Replace.
+
+Các hình ảnh đã thay thế sẽ được hiển thị với nền màu xanh lá, và bạn có thể mở ứng dụng liên kết với hình ảnh bằng cách nhấp "Mở" (Open). Bạn cũng có thể xóa hình ảnh thay thế bằng cách chọn "Xóa" (Delete).
+
+{topic, In-Map Replacements}
+Từ Texture Viewer, bạn cũng có thể tạo “In-Map Replacement”. Đây là các hình ảnh thay thế chỉ áp dụng cho bản đồ mà bạn đang ở, và chúng được ưu tiên hơn các hình ảnh thay thế thông thường hoặc những hình ảnh bị thay bởi mod. Lưu ý rằng In-Map Replacement chỉ có hiệu lực trong dữ liệu lưu của thế giới mà bạn đang chơi.
+
+Khi bạn tải lên một bản đồ có hình ảnh In-Map Replacement, chúng cũng sẽ được tải lên và hiển thị cho những người chơi khác.
+
+{topic, Kéo thả }
+Bạn có thể thêm các hình ảnh thay thế do người chơi khác tạo vào trò chơi bằng cách kéo và thả trực tiếp các tệp lên màn hình trò chơi. Nếu muốn thêm thủ công, hãy đặt các tệp hình ảnh vào thư mục Elin/User/Texture Replace.
+
+
+$terms
+{topic,In-game Uploader - Terms of Use}
+Dưới đây, “người dùng” ám chỉ những cá nhân sử dụng công cụ tải lên trong trò chơi, trong khi “nội dung do người dùng tạo” ám chỉ các bản đồ, mod hoặc nội dung khác được người dùng tạo và chia sẻ thông qua công cụ tải lên.
+
+1. Tất cả nội dung do người dùng tạo có thể bị xóa mà không thông báo nếu chứa nội dung vi phạm trật tự công cộng và đạo đức, mang tính ác ý, hoặc lệch quá nhiều so với bối cảnh thế giới trong game.
+
+2. Người dùng tải lên nội dung do mình tạo hoàn toàn chịu trách nhiệm về việc phát hành cũng như mọi hậu quả phát sinh từ việc bên thứ ba tải nội dung đó qua công cụ tải lên. Nếu nội dung tải lên chứa chương trình độc hại (như virus hoặc malware), vi phạm trật tự công cộng và đạo đức, hoặc bao gồm các yếu tố gây hại làm tổn hại đến bên thứ ba, Lafrontier hoặc noa, người dùng đó sẽ chịu toàn bộ trách nhiệm bồi thường. Lafrontier và noa có quyền xóa nội dung đó mà không cần thông báo và thực hiện các biện pháp pháp lý nếu cần.
+
+Hãy lưu ý những điểm này và thỏa sức sáng tạo! Bằng cách tuân thủ quy định và sử dụng lương tri, chúng ta có thể xây dựng một cộng đồng vui vẻ và an toàn, nơi mọi người chơi đều có thể chia sẻ và tận hưởng trải nghiệm game tuyệt vời.
+
+Nếu bạn chọn sử dụng công cụ tải lên trong trò chơi, vui lòng đồng ý với các điều khoản trên.
+
+$terms2
+{topic,User-Generated Content - Terms of Use}
+
+Thuật ngữ “Nội dung do Người dùng Tạo” (sau đây gọi tắt là “Nội dung”) bao gồm các bản đồ do người dùng tạo được tải qua Moongate trong trò chơi, các mod được phát hành trên Steam Workshop, và các nội dung tương tự do bên thứ ba tạo ra, không liên quan đến Lafrontier. Những cá nhân sử dụng Nội dung này được gọi là “Người dùng”.
+
+1. Người dùng hoàn toàn chịu trách nhiệm khi sử dụng Nội dung do Người dùng Tạo. Lafrontier và noa không chịu bất kỳ trách nhiệm nào về thiệt hại, mất dữ liệu, lỗi hệ thống hoặc các vấn đề khác phát sinh từ việc sử dụng Nội dung này.
+
+2. Nội dung do Người dùng Tạo không được đảm bảo chính thức về tính hoạt động và có thể không chạy đúng như dự kiến tùy vào phiên bản game hoặc môi trường hệ thống. Ngoài ra, việc cài đặt hoặc gỡ bỏ mod có thể gây hỏng dữ liệu game hoặc sự cố về chức năng. Lưu ý rằng Nội dung do Người dùng Tạo thường không được hỗ trợ chính thức.
+
+Nếu bạn chọn sử dụng Nội dung do Người dùng Tạo, vui lòng đồng ý với các điều khoản trên.

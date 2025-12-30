@@ -1,0 +1,47 @@
+Tuần san Nhà thám hiểm #6: Cưỡi thú,Phóng viên thường trú Yowyn Celia,10,1
+
+<i>Chào mừng đến với Tuần san Nhà thám hiểm, nơi chúng tôi đề cập đến những chủ đề thân thương với trái tim dũng cảm của các bạn.</i>
+
+
+Trong số này, tôi đang đưa tin từ một trong số ít các buổi đấu giá ngựa diễn ra hàng năm tại Yowyn! Đặc biệt, tôi sẽ phỏng vấn Trưởng chuồng Varis, người đã nuôi những chú ngựa Yowyn nổi tiếng suốt hai mươi năm nay, để tìm hiểu lý do tại sao chúng lại được săn đón đến vậy!
+{p}
+<color=brown>Celia: Cảm ơn ông, Trưởng chuồng. Hôm nay đông người quá nhỉ!</color>
+
+Varis: Không có chi, thưa cô. Chà, hoàng gia đã đặt trước hầu hết ngựa Yowyn, sau đó đến lượt giới quý tộc chọn lựa. Chúng tôi không còn đủ ngựa để công chúng có thể thường xuyên tận hưởng lợi ích của việc cưỡi một con ngựa tốt, nên bất kỳ buổi đấu giá nào cũng thu hút rất nhiều nhà thám hiểm.
+
+
+<color=brown>Celia: Ông có thể cho chúng tôi biết một số lợi ích đó là gì không?</color>
+
+Varis: Hừm. Rõ ràng là cô sẽ di chuyển nhanh hơn, lên tới mức tốc độ của thú cưỡi. Ngoài ra, các đòn tấn công nhắm vào cô đôi khi sẽ trúng vào thú cưỡi thay vì cô. Nếu cô cưỡi một sinh vật biết bay, cô cũng sẽ bay theo nó.
+{p}
+Varis: Quan trọng nhất, việc này giúp thú cưỡi của cô sống sót: nếu thú cưỡi gục ngã trong trận chiến, nó sẽ chỉ bị bất tỉnh một lúc thôi. Cô sẽ mất các lợi ích khi cưỡi, nhưng ít nhất cô sẽ không bị mất hẳn một đồng minh.
+
+
+<color=brown>Celia: Và bất kỳ nhà thám hiểm nào cũng biết giá trị của tốc độ trong chiến đấu.</color>
+
+Varis: (Cười) Đúng vậy, thưa cô. Tuy nhiên, cưỡi một thú cưỡi chậm hơn mình sẽ làm vướng chân cô đấy, may mắn thay, ngựa Yowyn là loài nhanh nhất khắp Tyris, nên ngay cả một tiên nhân cũng có thể hưởng lợi.
+{p}
+Varis: Nhưng không phải cứ nhảy lên lưng ngựa là phi đến Palmia trong một ngày được đâu: cô cần kỹ năng Cưỡi thú để điều khiển thú cưỡi, và con thú cần đủ sức mạnh để chở cô. Thú cưỡi càng nhanh thì càng đòi hỏi cao ở cả hai yếu tố đó. Có những sinh vật như ngựa Yowyn của chúng tôi được lai tạo để dễ cưỡi, giúp giảm bớt các yêu cầu; ngược lại, có những loài thú rất tệ trong việc làm thú cưỡi và không nên cưỡi trong bất kỳ trường hợp nào.
+
+
+<color=brown>Celia: Nghe có vẻ phức tạp quá! Tôi biết là mình sẽ đau toàn thân nếu phải cưỡi ngựa đến Palmia ngay lúc này!</color>
+
+Varis: Để thành thạo việc cưỡi thú cần có thời gian, nhưng cô phải leo lên lưng ngựa và kiên trì chịu đựng. Lúc đầu cô sẽ lúng túng, đánh trượt mục tiêu và thi triển phép thất bại, nhưng những hình phạt này sẽ dần biến mất khi cả hai học cách phối hợp với nhau. Quả thực, một nhà thám hiểm cưỡi thú có thể rất đáng gờm, khi cả thú và người cùng sát cánh chiến đấu.
+{p}
+<color=brown>Celia: Ồ! Thú đang cưỡi cũng có thể chiến đấu sao?</color>
+
+Varis: Có chứ, thú cưỡi vẫn chiến đấu miễn là cô đứng yên; nếu cô di chuyển, nó sẽ dùng lượt của mình để đi theo. Tất nhiên, nó cũng chịu những hình phạt tấn công giống như cô, nhưng cả hai sẽ dần khắc phục được nhờ kinh nghiệm.
+
+Một điều đáng lưu ý nữa là cách phép thuật tác động lên thú cưỡi: những phép có dòng "cũng áp dụng cho thú cưỡi" có thể mang lại lợi ích cho thú cưỡi của cô mà không cần thi triển dưới dạng phép nhóm. Mặt trái là các phép dạng mũi tên sẽ trúng cả hai cùng lúc, gây sát thương gấp đôi.
+{p}
+<color=brown>Celia: Nếu thú cưỡi tham gia chiến đấu, thì chúng cũng nên được trang bị, ông sẽ trang bị cho ngựa của mình thế nào, thưa Trưởng chuồng?</color>
+
+Varis: Hừm. Tốc độ là trên hết, nên tôi sẽ đảm bảo thú cưỡi được ban phước bởi Lulwy. Sau đó, tôi sẽ tìm cách trang bị nhẫn tốc độ cho nó nếu có thể, mấy thứ này đắt đỏ, nhưng đáng để đầu tư. Tôi nghe nói có những nhà thám hiểm vô lương tâm đã cấy đủ loại đột biến cho thú cưỡi để khiến chúng nhanh hơn nữa, nhưng mà... tôi thực sự không muốn nghĩ quá sâu về chuyện đó.
+{p}
+<color=brown>Celia: Tôi hiểu rồi. Lượng thông tin này quả là nhiều thật, ông Varis ạ, nhưng nó đã làm sáng tỏ lý do tại sao kỹ năng cưỡi thú lại quan trọng đối với ngày càng nhiều nhà thám hiểm. Có vẻ như buổi đấu giá sắp bắt đầu rồi, nên tôi sẽ kết thúc cuộc phỏng vấn tại đây.</color>
+
+Varis: Rất hân hạnh, thưa cô.
+
+***
+
+<i>- Trong số tuần tới, chúng tôi sẽ quay lại với cuộc phỏng vấn tiếp theo cùng Trưởng chuồng của Yowyn về ký sinh, một chủ đề liên quan mật thiết đến cưỡi thú!</i>

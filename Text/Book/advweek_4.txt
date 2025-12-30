@@ -1,0 +1,48 @@
+Tuần san Nhà thám hiểm #4: Các Trạng thái,Mẹ Therese,10,1
+
+<i>Chào mừng đến với Tuần san Nhà thám hiểm, nơi chúng tôi đề cập đến những chủ đề thân thương với trái tim dũng cảm của các bạn.
+
+Tuần này, chúng tôi đã mời Mẹ Therese từ Giáo hội Jure để viết về cách phòng ngừa và chữa trị các trạng thái nguyên tố.</i>
+
+
+Là một phần trong hoạt động phục vụ cộng đồng hàng tháng của chúng tôi, Giáo hội Jure đang tiến hành tiếp cận các nhà thám hiểm. Dù cánh cửa của chúng tôi luôn rộng mở với người ốm đau và bị thương, chúng tôi vẫn hy vọng rằng các con luôn khỏe mạnh và không cần đến sự phục vụ của chúng tôi.
+{p}
+<b>Các Trạng thái</b>
+
+Cần phải lướt qua điều này một chút, vì nhiều nhà thám hiểm nhầm lẫn giữa trạng thái nguyên tố và lời nguyền (hexes). Các trạng thái là những hiệu ứng gắn liền với các nguyên tố nhất định, và được áp dụng khi ai đó chịu sát thương của nguyên tố nói trên. Mặt khác, lời nguyền là những hiệu ứng gây ra bởi các phép thuật đặc thù. Sự phân biệt này rất quan trọng vì các trạng thái và lời nguyền đòi hỏi những phương pháp phòng ngừa và điều trị khác nhau.
+
+Mức độ nghiêm trọng của trạng thái bắt nguồn từ sức mạnh nguyên tố của đòn tấn công, tỷ lệ thuận với sát thương của nó và được điều chỉnh bởi nguồn gốc. Ví dụ, các phép chạm gây ra trạng thái dễ dàng hơn so với phép kiếm.
+{p}
+Nếu không được điều trị, các trạng thái sẽ trở nên tồi tệ hơn do các đòn tấn công nguyên tố bồi thêm, có khả năng gây ra hậu quả thảm khốc. Quá nhiều nhà thám hiểm mới vào nghề đã mất mạng vì những con mắt bay liên tục làm họ tê liệt, khiến họ trở nên bất lực.
+
+
+<b>Phòng ngừa</b>
+
+Có một câu nói phổ biến trong Giáo hội Jure là phòng bệnh hơn chữa bệnh, và điều này cũng đúng với các trạng thái. Việc không bị dính trạng thái ngay từ đầu đồng nghĩa với việc tiết kiệm thời gian quý báu trong chiến đấu khi từng khoảnh khắc đều quan trọng, đặc biệt là đối với các trạng thái ngăn cản con hành động.
+{p}
+Tuyến phòng thủ đầu tiên chống lại các trạng thái là các cường hóa trang bị giúp vô hiệu hóa trực tiếp các trạng thái như trúng độc và tê liệt. Việc sở hữu một trong những cường hóa này cho mỗi trạng thái là rất quan trọng, nhưng cường hóa thêm nữa cũng không mang lại lợi ích gì, nên các nhà thám hiểm thường ví việc này như giải một câu đố.
+
+Lớp bảo vệ tiếp theo đến từ kháng nguyên tố: sát thương của đòn tấn công càng thấp thì sức mạnh nguyên tố càng giảm. Trở nên miễn nhiễm với một nguyên tố cũng sẽ bảo vệ con khỏi trạng thái liên quan đến nó; điều này rất hữu ích với các trạng thái như mờ mắt, vốn không có cường hóa vô hiệu hóa nào.
+
+Thứ ba, một số phép thuật sẽ vô hiệu hóa các trạng thái cụ thể. Ví dụ, Mắt mèo sẽ ngăn chặn mù lòa. Hãy sử dụng những thứ này để lấp đầy những lỗ hổng mà trang bị của con chưa bao phủ.
+{p}
+Cuối cùng, khi mọi cách khác đều thất bại, các thuộc tính của con có thể mang lại một mức độ kháng cự đối với một số trạng thái. Ví dụ, mù lòa bị kháng lại bởi Nhận thức. Giống như mọi người khác, các nhà thám hiểm cũng được hưởng lợi từ lời dạy của Nữ thần Jure: làm việc chăm chỉ, ăn uống điều độ, và từ đó xây dựng khả năng kháng cự bẩm sinh đối với các trạng thái có hại.
+
+
+<b>Chữa trị</b>
+
+Ngay cả khi con đã dính trạng thái, đừng hoảng sợ. Con vẫn có thể cứu vãn tình hình.
+
+Thi triển một phép thuật giúp vô hiệu hóa trạng thái sẽ chữa khỏi nó ngay lập tức; ví dụ, thi triển Anh hùng (Hero) sẽ chữa khỏi sự hỗn loạn ngay lập tức.
+{p}
+Bất kỳ nguồn hồi phục nào cũng sẽ làm giảm cường độ của trạng thái, dần dần loại bỏ nó. Tuy nhiên, nếu con không cần hồi máu (HP), việc sử dụng phục hồi thể xác hoặc tinh thần một cách thích hợp sẽ hiệu quả hơn nhiều trong việc chữa trị các trạng thái.
+
+Một số trạng thái nhất định có thể được loại bỏ bằng những cách đặc biệt. Ví dụ, chịu sát thương không phải tinh thần sẽ đánh thức người đang ngủ, trong khi ướt sẽ khắc chế trạng thái cháy. Thảo dược đỏ và xanh sẽ chữa khỏi xuất huyết và trúng độc.
+
+Vì một số trạng thái ngăn cản con hành động, việc có bạn bè bên cạnh để giúp đỡ trong tình huống xấu luôn là điều tốt.
+{p}
+Cảm ơn các con đã kiên nhẫn lắng nghe ta. Ta sẽ cầu nguyện cho tất cả những ai đang đọc bài viết này luôn ở trong ân sủng của Nữ thần Jure.
+
+***
+
+<i>- Trong số tuần tới, chúng ta sẽ xem việc ứng dụng thực tế một hiệu ứng trạng thái đơn giản có thể giúp ích cho các nhà thám hiểm như thế nào!</i>

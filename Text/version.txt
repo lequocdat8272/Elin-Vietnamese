@@ -1,0 +1,134 @@
+{if,cn}
+{topic, 欢迎游玩Elin！}
+欢迎游玩Elin，并且十分感谢您参与抢先体验(EA)！我会重视每位玩家的意见，并用于改善游戏内容体验。
+{endif}
+{if,!cn}
+{topic, Welcome to Elin!}
+Welcome to Elin, and thank you for participating in the Early Access(EA)! We plan to gather as many player feedback as possible and reflect it in the game.
+{endif}
+{link,Discord - Elin Community、Questions、General Discussion,https://discord.gg/elona}
+{link,Ylvapedia - Elin Wiki、Walkthrough、Update Log,https://ylvapedia.wiki/wiki/Main_Page}
+{link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
+
+{topic, Elin Update Information}
+■ 12/24 2025 EA 23.252 Stable Patch 2 (Được dịch bởi ChatGPT)
+
+[Sửa lỗi]
+
+Sửa lỗi Ashland bị nhân đôi sau khi tiến triển nhiệm vụ “Đến một vùng đất mới” (To a New Land) tới một điểm nhất định.
+
+Thêm một vài tiền tố ngẫu nhiên mới cho các bản đồ ngẫu nhiên.
+
+(Phiên bản tiếng Nhật) Đổi danh hiệu (epithet) của các vật phẩm phép màu (miracle items) làm từ kim cương từ “Unchanging” (Bất biến) thành “Everlasting” (Vĩnh cửu) để tránh trùng lặp với một loại vật liệu mới.
+
+(Phiên bản tiếng Nhật & Anh) Cải thiện tên và danh hiệu cho các vật liệu mới.
+
+[Ghi chú]
+
+Nếu Ashland đã bị nhân đôi, hãy nhập “Fix_RemoveAshland” thông qua Hệ thống > Khác > Bảng điều khiển (Console) để Ashland thừa rời đi. Việc có hai người xuất hiện cùng lúc sẽ không gây ra vấn đề nghiêm trọng nào.
+
+■ 12/23 2025 EA 23.252 Stable Patch 1 (Được dịch bởi ChatGPT)
+
+[Thay đổi]
+
+Vô hiệu hóa “Bật/Tắt Dốc” (Toggle Slope) bằng tổ hợp phím Alt+Shift trong Chế độ Xây dựng. (Trong Chế độ Xây dựng, độ dốc có thể được bật tắt từ biểu tượng ở góc dưới bên phải).
+
+Giảm tỷ lệ ASMR là của Jure từ 90% xuống 50%. (Tạm thời, vì ASMR từ các NPC khác rất khó kiếm).
+
+(Cập nhật bên ngoài trò chơi) Thêm danh mục “Biểu mẫu gửi” (Submission Form) vào “Phòng Phát Triển” (Dev Room) trên trang web chính thức.
+
+[Ghi chú]
+
+Mừng lễ Juremas!
+
+Cảm ơn các bạn vì rất nhiều bài gửi ASMR. Nội dung ASMR sẽ được thêm dần giữa các bản cập nhật như những phần thưởng bổ sung nhỏ, vì vậy hãy kiên nhẫn nhé. Việc gửi ASMR sẽ mở vô thời hạn. Một khi số lượng các mục ASMR trong game tăng lên, các phương thức thu thập chuyên dụng sẽ được lên kế hoạch.
+
+Nếu không có vấn đề lớn nào phát sinh, quá trình phát triển sẽ chuyển trở lại nhánh Nightly.
+
+■ 12/22 2025 EA 23.252 Stable (Được dịch bởi ChatGPT)
+
+Sau khi cập nhật lên bản ổn định (stable), các Mod từ các phiên bản trước có thể không còn hoạt động chính xác hoặc có thể hoạt động bất thường. Nếu thấy có gì không ổn, vui lòng thử tắt Mod và kiểm tra lại.
+
+[Điểm nổi bật]
+
+Hoàn thành Nhiệm vụ tại Gia (Home Quest) “Tiến vào Bóng tối” (Into Darkness).
+
+Nâng cấp Lễ hội Đêm Thánh. Thêm nội thất “Máy phát ASMR” (ASMR Player). Trong thời gian diễn ra Lễ hội Đêm Thánh, ASMR của Jure giờ sẽ phát trong nhà thờ tại Noyel.
+
+[Nội dung mới]
+
+Thêm 18 loại Bóng Juremas.
+
+Thêm 2 loại dây treo.
+
+Thêm trang phục mùa đông cho Fiama và Ash.
+
+Thêm mũ cho trang phục mùa đông của Loytel.
+
+Thêm ASMR của Horome.
+
+Thêm ASMR của Opatos.
+
+Thêm ASMR của Demitas.
+
+Thêm văn bản mô tả (flavor text) cho nhiều vật phẩm.
+
+Thêm vũ khí “★Staff of Insanity” (Gậy Điên Loạn).
+
+Thêm 1 NPC mới.
+
+[Bổ sung và Thay đổi]
+
+Trang trí thêm cho Lễ hội Đêm Thánh tại Noyel. Cũng thêm các chủ tiệm lễ hội.
+
+Khi đặt nội thất trong Chế độ Mái (phím Alt), đã kích hoạt Đặt Tự do (phím Shift). Đặt Tự do giờ cũng khả dụng cho nội thất chiếm nhiều ô.
+
+Cư dân sẽ không còn tự tạo ra và ăn thức ăn khi đói nữa.
+
+Đồng hành sẽ không còn lấy vật phẩm mà nhân vật chơi (PC) đang cầm, ngay cả khi vật phẩm được cất trong các thùng chứa dùng chung.
+
+Khi một đồng hành được trang bị thiết bị ban cho một kỹ năng đặc thù (feat), đồng hành đó không thể sử dụng gen chứa kỹ năng đó trong Máy tổng hợp gen nữa.
+
+Hiệu ứng của kỹ năng “Fox Ward” (Hộ Vệ Cáo) giờ áp dụng cho toàn bộ phe phái.
+
+Cải thiện hành vi khi đặt nội thất lên trên nội thất đang đặt giữa không trung. Cũng sửa lỗi vị trí đánh dấu (highlight) khi đặt có thể khác với vị trí đặt thực tế.
+
+Nội thất loại trôi nổi (cờ lễ hội, dây phơi đồ, v.v.) không còn bị ảnh hưởng bởi chiều cao của các nội thất đã đặt khác.
+
+Cải thiện hành vi khi đặt nội thất trong khi giữ phím CTRL.
+
+Hiệu ứng vật phẩm không còn được hiển thị khi vật phẩm bị vứt xuống đất (chưa được đặt).
+
+Thêm các biển hiệu quán ăn vô hình vào Aquli Teora, Willow, Mysilia, Derphy, Lumiest, Traveler's Anchorage (Vịnh Lữ Khách), Noyel, Specwing và Doga Ruins.
+
+Tăng giá của vũ khí “★Point Stick” (Gậy chỉ).
+
+Đã tạo một kho lưu trữ Elin riêng tư trên GitHub. Cảm ơn DK!
+
+Cập nhật đồ họa tuyết.
+
+Cập nhật bản dịch tiếng Trung.
+
+[Sửa lỗi]
+
+Sửa lỗi các Nghệ sĩ Học việc (Apprentice Artists) sử dụng trang phục mùa đông Quý tộc.
+
+Sửa lỗi hiển thị khi sao chép các khối loại dốc bằng Khối Giả (Fake Blocks).
+
+Sửa lỗi NPC không có kỹ năng “Mana Body” (Thân thể Mana) có thể có thanh HP màu xanh lam.
+
+Sửa lỗi Chậm (Slow) và Nhanh (Haste) không thể ghi đè lên nhau một cách chính xác.
+
+Sửa lỗi vũ khí tầm xa không phải duy nhất (non-unique) bị cố định ở chất lượng bình thường khi được tái tạo.
+
+Fiama và Ash giờ sẽ được tạo mới nếu họ không tồn tại trong game vì bất kỳ lý do nào (như can thiệp của Mod) trong giai đoạn cuối của nhiệm vụ “Một vùng đất mới” (A New Land).
+
+Các sửa lỗi và điều chỉnh nhỏ khác.
+
+[Ghi chú]
+
+Hành vi đặt nội thất đã thay đổi một chút. Trên các bản đồ đặc biệt sử dụng nhiều việc đặt giữa không trung hoặc đặt bằng CTRL, vị trí nội thất có thể bị dịch chuyển. Xin lỗi nếu điều này ảnh hưởng đến bản đồ của bạn. Các bản đồ cố định đã được kiểm tra kỹ nhất có thể, nhưng chúng tôi rất cảm kích nếu nhận được phản hồi nếu bạn nhận thấy nội thất bị đặt sai vị trí.
+
+NPC mới dự kiến sẽ có một số chức năng đặc biệt, tương tự như Kettle hoặc Demitas.
+
+Kiểm soát mã nguồn trước đây chưa được sử dụng, nhưng kho lưu trữ Elin đã được tạo thành công trên GitHub gần đây. Sắp tới, có thể sẽ chia sẻ các tác vụ phát triển, chẳng hạn như cải tiến tính năng liên quan đến Mod, với những người khác.

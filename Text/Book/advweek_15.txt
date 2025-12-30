@@ -1,0 +1,58 @@
+Tuần san Nhà thám hiểm #15: Các Phong cách Trang bị,Trung sĩ Kzar,10,1
+
+<i>Chào mừng đến với Tuần san Nhà thám hiểm, nơi chúng tôi đề cập đến những chủ đề thân thương với trái tim dũng cảm của các bạn.</i>
+
+
+Này, mấy nhóc. Hans nhờ tôi khuyên bảo mấy đứa mạo hiểm giả trẻ tuổi về chuyện trang bị. Không chỉ là việc mấy đứa có cái gì, mà cách dùng nó ra sao cũng quyết định số phận của mấy đứa trên chiến trường.
+
+Chà, việc sử dụng trang bị rất linh hoạt. Mấy đứa có thể cầm kiếm ngắn bằng hai tay, hoặc song thủ hai cây búa, thường thì không lý tưởng lắm đâu, nhưng nếu cứ khăng khăng muốn thế thì cũng được. Ta là ai mà ngăn cản mấy đứa chứ?
+
+Vậy, bắt đầu nào.
+
+{p}
+<b>Phong cách Vũ khí</b>
+
+Thứ mấy đứa cầm trên tay quyết định phong cách vũ khí, theo thứ tự ưu tiên: song thủ, khiên và hai tay. Ví dụ, nếu trang bị của mấy đứa đủ điều kiện cho cả phong cách song thủ và khiên, thì cái trước sẽ được ưu tiên.
+
+Tay không không có phong cách vũ khí; cần có vũ khí võ thuật để sử dụng phong cách vũ khí kết hợp với võ thuật.
+{p}
+<b>Hai Tay</b>
+
+Phong cách đầu tiên chúng tôi dạy tân binh, hai tay là khi tất cả các tay đều trống ngoại trừ một tay. Lỡ là một dạng hỗn mang chỉ có một tay hả? Cầm bất kỳ vũ khí nào cũng được. Ba tay trở lên ư? Chỉ được cầm một thứ thôi.
+
+Phong cách hai tay mang lại độ chính xác và hệ số nhân sát thương lớn, đổi lại chỉ được cầm vũ khí ở một tay. Đây là phong cách tốt cho mấy tay mơ đánh đâu trượt đó, hoặc những cựu binh chỉ quan tâm đến món vũ khí yêu thích của mình. Điểm cộng độ chính xác sẽ bù đắp những bất lợi từ các vũ khí lớn, nặng như búa, khiến chúng đáng tin cậy hơn nhiều.
+
+Những người thành thạo phong cách hai tay có thể tăng cường hiệu quả cường hóa vũ khí lên đến 50%; chắc chắn là phong cách dành cho kiểu nhà thám hiểm thích đặt tên cho thanh kiếm của mình.
+{p}
+<b>Khiên</b>
+
+Một phong cách phòng thủ có được bằng cách trang bị khiên. Những người thành thạo dùng khiên sẽ nhận ít hơn 10% sát thương vật lý và có thể thực hiện những cú nện khiên gây sát thương, làm choáng và làm mờ mắt kẻ thù, đổi lại là bị phạt độ chính xác và khả năng thi triển phép. Lưu ý là trang bị nhiều khiên không cho phép nện nhiều lần hơn đâu.
+
+Vì bản chất phòng thủ, phong cách dùng khiên được sử dụng tốt nhất bởi những người trấn giữ tiền tuyến, trong khi đồng minh tấn công từ phía sau.
+
+{p}
+<b>Song Thủ</b>
+
+Một phong cách có được khi cầm nhiều vũ khí. Được cho là phong cách đặc trưng của một kiếm sư Elea huyền thoại, và chịu trách nhiệm cho cái chết của nhiều tay mơ cố bắt chước hắn. Cho phép tấn công nhiều lần với cái giá là bị phạt độ chính xác, tăng dần theo mỗi vũ khí thêm vào. Kỹ năng cao hơn sẽ làm giảm nhưng không loại bỏ hoàn toàn các hình phạt này.
+
+Tránh xa phong cách này trừ khi mấy đứa biết mình đang làm gì. Đám trẻ luôn quên rằng tay kiếm sư Elea kia không bao giờ chiến đấu công bằng, toàn chọn mấy con quái vật chậm chạp né đòn kém, làm mù và làm mờ mắt kẻ thù, cầm những thanh đoản kiếm nhẹ và chính xác, đại loại thế. Gã đó thông minh; còn lũ trẻ bắt chước hắn thì không hẳn.
+
+{p}
+<b>Phong cách Giáp</b>
+
+Đã xong phần tấn công, hãy chuyển sang các phong cách phòng thủ: giáp nhẹ và giáp nặng. Cái trước là dưới 30s, cái sau là trên mức đó; không có mảnh giáp nhẹ hay nặng riêng lẻ nào cả, chỉ có tổng trọng lượng trang bị là quan trọng.
+
+Giáp nhẹ dựa vào sự khéo léo, với trang bị chú trọng DV (Né tránh); giáp nặng dựa vào sức bền, với trang bị chú trọng PV (Phòng thủ). Mặc dù không có những hạn chế nghiêm ngặt, nhưng sự phân chia chung giữa né tránh và hấp thụ sát thương là rất rõ ràng.
+
+Có lẽ điều quan trọng nhất là giáp nặng gây cản trở thi triển phép, làm giảm và giới hạn tỷ lệ thi triển thành công, điều mà cần phải huấn luyện đặc biệt mới khắc phục được.
+
+{p}
+<b>Kết luận</b>
+
+Lý tưởng nhất là nên thành thạo mọi thứ, trên đời có đủ loại kẻ thù, và quá phụ thuộc vào một phong cách là tự rước họa vào thân. Một người lính giỏi nên giữ vài loại vũ khí hoặc thậm chí là các bộ trang bị cho những tình huống khác nhau, cũng giống như một pháp sư biết nhiều loại phép thuật vậy.
+
+Tuy nhiên, nói một cách thực tế thì khả năng học hỏi và sức mang vác của một người là có hạn, vì vậy nhiều người chọn dựa vào đồng minh để che chắn điểm yếu, hoặc sử dụng các công cụ như bình thuốc và gậy phép để làm mềm các mục tiêu cứng đầu. Cứ thoải mái sử dụng phong cách trang bị mà mấy đứa thích... nhưng luôn phải có phương án dự phòng.
+
+***
+
+<i>- Trong số tuần tới, Trung sĩ Kzar sẽ trở lại để giải thích về vũ khí tầm xa!</i>

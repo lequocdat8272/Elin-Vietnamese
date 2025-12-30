@@ -1,0 +1,40 @@
+Tuần san Nhà thám hiểm #8: Quản lý Cửa hàng,Bà Shu,10,1
+
+<i>Chào mừng đến với Tuần san Nhà thám hiểm, nơi bà giải đáp thắc mắc về tiền nong cho mấy đứa nhỏ.</i>
+
+Thư hôm nay là của một nhóc ở Mysilia hỏi rằng: <color=blue>"Bà Shu ơi, giá của mấy chủ tiệm trả cho chiến lợi phẩm của cháu tệ quá! Cháu đang tính tự mở tiệm, có đáng không ạ?"</color>
+
+Chà, bà có tin cho cháu đây. Mấy chủ tiệm đó chán đời lắm. Không phải lỗi của họ, ai cũng phải kiếm sống mà, nhưng cháu chỉ nhận được một mẩu nhỏ so với giá trị thực của món đồ thôi. Bất kể cháu bán cái gì, giá cả cũng sẽ bèo bọt cả.
+{p}
+Giao hàng chiến lợi phẩm cũng là một cách, mấy tay giao hàng trả giá hời hơn và còn tặng thêm thỏi vàng nữa. Nhưng thùng giao hàng chỉ to đến thế thôi, và chẳng có chuyện mặc cả đâu.
+
+Về câu hỏi của cháu, nhóc ạ: tự mở tiệm. Cũng tốn công đấy, phải dựng mặt tiền, thông qua vài chính sách, giữ hàng trong kho. Nhưng cháu sẽ là người nắm quyền, tự định giá, và giới hạn doanh thu duy nhất là cháu lừa được bao nhiêu kẻ ngốc vào tròng. Không phải ai cũng thích vụ này, nhưng nếu cháu khoái ý tưởng đó, Bà Shu có vài lời khuyên cho cháu đây.
+{p}
+<b>Cơ bản</b>
+
+Đầu tiên là phải có đất. Tìm một chỗ đẹp mã vào; tiệm của bà nằm trên một cánh đồng tuyết với tàn tích cổ đại đấy. Cháu <b>chẳng  cần</b> phải xây dựng nhiều nhặn gì, cứ bán đồ từ xe ngựa cũng được, nhưng có người lại thích mặt tiền đẹp đẽ. Thứ cháu <b>thực sự</b> cần là thẻ bán hàng: chế tạo nó tại bàn làm biển báo ấy.
+
+Việc cháu làm với cái thẻ đó, nhóc ạ, là dán nó lên hàng hóa. Mở cửa kinh doanh, và người ta sẽ vào mua; nếu cháu có một cái thùng đặt gần biển báo kho hàng chứa thêm đồ giống hệt, hàng sẽ tự động được bổ sung. Gắn thẻ lên một cái thùng đầy ắp sẽ đánh dấu bán mọi thứ trong đó, rất tiện nếu cháu thuộc dạng lười biếng như cháu gái của bà.
+{p}
+Cháu thậm chí chẳng cần có mặt ở tiệm để bán hàng, dân ở Bắc Tyris đủ thật thà để lấy thứ họ muốn và để lại đúng số tiền. Chuyện đó đời nào mà làm được ở mấy chỗ như Yerl hay Eulderna  cháu không biết mình sướng thế nào khi ở đây đâu, nhóc con.
+
+
+<b>Kiếm tiền</b>
+
+Nhưng chưa hết đâu. Có tiệm rồi, giờ việc của cháu là lôi kéo <b>tất cả</b> khách hàng và vắt kiệt từng đồng Oren khốn khổ khỏi túi họ. Nghĩa là, nhóc ạ, cháu phải tấn công từ nhiều phía.
+
+Giá cả: đưa ra vài chính sách để tăng giá trị hàng hóa, mấy thứ như giấy phép cửa hàng tạp hóa hay nhà hàng ấy. Bà không thích cửa hàng chặt chém cho lắm, cảm giác tầm nhìn hơi hạn hẹp.
+{p}
+Số lượng: càng nhiều kẻ ngốc, càng bán được nhiều. Nếu cháu chọn chỗ ngon như bà, thì khởi đầu tốt đấy. Chi vàng thỏi để quảng bá, và làm cái vụ an toàn du lịch để họ thấy thoải mái mà đến. Và nhớ đảm bảo họ không bị quái vật ăn thịt nhé, khách chết thì mua bán gì được!
+
+Sự giàu có: cái này quan trọng nè nhóc. Khách chỉ mua những gì họ đủ tiền trả; nếu cái gì cũng đắt quá thì chẳng bán được đâu. Cháu muốn người giàu vào tiệm mình, nên chính sách "thiên đường của người nổi tiếng" sẽ thu hút họ. Giới nhà giàu thích du lịch mấy chỗ nguy hiểm, nên cứ đặt tiệm ở nơi hẻo lánh chút.
+{p}
+Nhưng mà... nghe bà này. Nghe có vẻ điên rồ, nhóc ạ, nhưng cứ làm đi. Bắt đầu triệu hồi quỷ lên đất của cháu. Việc đó sẽ làm quái vật lang thang mạnh lên, nhưng cũng thu hút mấy kẻ giàu có hơn. Đừng hỏi tại sao, nó là thế đấy. Cháu có thể thiết lập canh gác biên giới nếu thấy lo; nó sẽ giữ mấy con quái tệ nhất tránh xa mà không làm phiền khách hàng.
+
+Đó là tất cả lời khuyên Bà Shu dành cho cháu, đơn giản đến mức ngay cả đứa cháu gái hình bò của bà cũng hiểu được.
+{p}
+À thực ra còn một điều nữa: khi khách mua đồ, họ sẽ muốn thử hàng mới ngay tại chỗ. Bà không thắc mắc về mấy người có sở thích với dung dịch chống axit, nhưng bà kiên quyết cấm tiệt việc thả thiên thạch xuống tiệm của bà. Bà chắc cháu cũng thấy thế thôi, nhóc ạ, nên hãy cẩn thận với những gì cháu bày lên kệ nhé.
+
+***
+
+<i>- Trong số tuần tới, chúng tôi sẽ quay lại Yowyn để xem xét cơn sốt nuôi ong gần đây!</i>
