@@ -6,7 +6,7 @@
 # Elin-Vietnamese
 Được làm solo từ lequocdat8272 và có hỗ trợ từ lader136.
 
-Đã update và test ở phiên bản mới nhất [<span style="color:red">23.229</span>] - Steam hay Cr*ck đều được.
+Đã update và test ở phiên bản mới nhất [<span style="color:red">23.252</span>] - Steam hay Cr*ck đều được.
 
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn.
 
@@ -17,7 +17,7 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
 - Tutorial/Hướng dẫn :
 -   [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3560772546)
 - Cr*ck:
-  + [DOWNLOAD](https://github.com/lequocdat8272/Elin-Vietnamese/releases/tag/v0.9)
+  + [DOWNLOAD](https://github.com/lequocdat8272/Elin-Vietnamese/releases/tag/v1.0)
   + Hãy copy File đã giải nén vào file cài đặt game/Package. MK: lequocdat8272
     + Goal: _Lang_Vietnamese nằm trong Package
   + Bạn không cần Replace hay ghi đè gì cả vì là mod.
@@ -25,14 +25,11 @@ Lưu ý góp ý: Game sử dụng random rất nhiều vì vậy nhiều từ s�
 
 File vẫn sẽ luôn được cập nhật trên Github và Game cũng mới Early Access vì vậy sẽ cập nhật thường xuyên.
 
-Patch Việt hóa có thể được tự do chia sẻ (KHÔNG PHẢI DỊCH TIẾP) miến bạn giữ nguyên trạng thái của file. VD: mật khảu giải nén, Số lượng file,...
-Còn nếu bạn muốn tiếp tục dịch cần được ghi rõ cre đầy đủ và PHI THƯƠNG MẠI.
+Patch Việt hóa có thể được tự do chia sẻ miễn bạn ghi credit đầy đủ.
+Còn nếu bạn muốn tiếp tục dịch cần liên hệ mình và PHI THƯƠNG MẠI. Bất kỳ ai phải trả tiền để sử dụng bản mod thì bạn đã bị scam.
 
 lequocdat8272 xin cảm ơn đến tất cả mọi người hỗ trợ đã giúp hoàn thiện bản dịch hơn.
 
 [Changelog](./CHANGELOG.md)
-
-Đang chuẩn bị lên Ver 1.0 :D (2 năm nữa ...)
-Cho đến khi mình dịch ở mức hoàn toàn chơi được (Có thể ver lên 1.0) , file Việt Hóa này được sử dụng bản quyền CC BY-NC-SA 4.0:
 
     Elin-Vietnamese  © 2025 by lequocdat8272 is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
