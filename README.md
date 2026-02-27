@@ -3,10 +3,13 @@
   <img src="https://github.com/user-attachments/assets/ff8579e8-c9a8-49cd-9dd7-e511dc55daf6" width="285"/>
 </p>
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lequocdat8272.Elin-Vietnamese)
+![GitHub All Releases](https://img.shields.io/github/downloads/lequocdat8272/Elin-Vietnamese/total?)
+
 # Elin-Vietnamese
 Được làm solo từ lequocdat8272 và có hỗ trợ từ lader136.
 
-Đã update và test ở phiên bản mới nhất [<span style="color:red">23.252</span>] - Steam hay Cr*ck đều được.
+Đã update và test ở phiên bản mới nhất [<span style="color:red">23.267</span>] - Steam hay Cr*ck đều được.
 
 Lưu ý: Noa hoàn toàn cho phép bản phái sinh và mod, sử dụng Việt Hóa hay không là ở quyết định của bạn.
 
