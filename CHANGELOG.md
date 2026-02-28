@@ -1,5 +1,11 @@
 # CHANGELOG
 
+28/2/2026 - Ver 1.267
+- Đã update phiên bản 267
+
+30/12/2025 - Ver 1.0
+- Đã update phiên bản 23.252
+
 22/10/2025 -Ver 0.9.10
 - Đã update phiên bản 23.222 nyan nyan
 
