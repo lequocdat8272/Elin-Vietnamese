@@ -11,124 +11,139 @@ Welcome to Elin, and thank you for participating in the Early Access(EA)! We pla
 {link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
 
 {topic, Elin Update Information}
-■ 12/24 2025 EA 23.252 Stable Patch 2 (Được dịch bởi ChatGPT)
-
+■ 06/02/2026 EA 23.267 Stable Patch 1
 [Sửa lỗi]
 
-Sửa lỗi Ashland bị nhân đôi sau khi tiến triển nhiệm vụ “Đến một vùng đất mới” (To a New Land) tới một điểm nhất định.
+Sửa các lỗi xảy ra khi tải một số bản Mod.
 
-Thêm một vài tiền tố ngẫu nhiên mới cho các bản đồ ngẫu nhiên.
-
-(Phiên bản tiếng Nhật) Đổi danh hiệu (epithet) của các vật phẩm phép màu (miracle items) làm từ kim cương từ “Unchanging” (Bất biến) thành “Everlasting” (Vĩnh cửu) để tránh trùng lặp với một loại vật liệu mới.
-
-(Phiên bản tiếng Nhật & Anh) Cải thiện tên và danh hiệu cho các vật liệu mới.
-
-[Ghi chú]
-
-Nếu Ashland đã bị nhân đôi, hãy nhập “Fix_RemoveAshland” thông qua Hệ thống > Khác > Bảng điều khiển (Console) để Ashland thừa rời đi. Việc có hai người xuất hiện cùng lúc sẽ không gây ra vấn đề nghiêm trọng nào.
-
-■ 12/23 2025 EA 23.252 Stable Patch 1 (Được dịch bởi ChatGPT)
-
-[Thay đổi]
-
-Vô hiệu hóa “Bật/Tắt Dốc” (Toggle Slope) bằng tổ hợp phím Alt+Shift trong Chế độ Xây dựng. (Trong Chế độ Xây dựng, độ dốc có thể được bật tắt từ biểu tượng ở góc dưới bên phải).
-
-Giảm tỷ lệ ASMR là của Jure từ 90% xuống 50%. (Tạm thời, vì ASMR từ các NPC khác rất khó kiếm).
-
-(Cập nhật bên ngoài trò chơi) Thêm danh mục “Biểu mẫu gửi” (Submission Form) vào “Phòng Phát Triển” (Dev Room) trên trang web chính thức.
-
-[Ghi chú]
-
-Mừng lễ Juremas!
-
-Cảm ơn các bạn vì rất nhiều bài gửi ASMR. Nội dung ASMR sẽ được thêm dần giữa các bản cập nhật như những phần thưởng bổ sung nhỏ, vì vậy hãy kiên nhẫn nhé. Việc gửi ASMR sẽ mở vô thời hạn. Một khi số lượng các mục ASMR trong game tăng lên, các phương thức thu thập chuyên dụng sẽ được lên kế hoạch.
-
-Nếu không có vấn đề lớn nào phát sinh, quá trình phát triển sẽ chuyển trở lại nhánh Nightly.
-
-■ 12/22 2025 EA 23.252 Stable (Được dịch bởi ChatGPT)
-
-Sau khi cập nhật lên bản ổn định (stable), các Mod từ các phiên bản trước có thể không còn hoạt động chính xác hoặc có thể hoạt động bất thường. Nếu thấy có gì không ổn, vui lòng thử tắt Mod và kiểm tra lại.
-
-[Điểm nổi bật]
-
-Hoàn thành Nhiệm vụ tại Gia (Home Quest) “Tiến vào Bóng tối” (Into Darkness).
-
-Nâng cấp Lễ hội Đêm Thánh. Thêm nội thất “Máy phát ASMR” (ASMR Player). Trong thời gian diễn ra Lễ hội Đêm Thánh, ASMR của Jure giờ sẽ phát trong nhà thờ tại Noyel.
+■ 06/02/2026 EA 23.267 Stable
+Sau khi cập nhật phiên bản Stable, các Mod từ phiên bản trước có thể ngừng hoạt động hoặc hoạt động bất thường. Nếu bạn thấy có hiện tượng lạ, vui lòng thử tắt Mod và kiểm tra lại.
 
 [Nội dung mới]
+(Nguyện vọng của Backer [Người donate cho dự án]) Thêm ma pháp “Telekinesis” (Viễn di lực).
 
-Thêm 18 loại Bóng Juremas.
+Cập nhật bộ sưu tập tranh (Art Gallery) trong game.
 
-Thêm 2 loại dây treo.
+Thêm trang phục mùa đông cho Verna.
 
-Thêm trang phục mùa đông cho Fiama và Ash.
+Thêm trang phục mùa đông cho Mesherada.
 
-Thêm mũ cho trang phục mùa đông của Loytel.
+Thêm trang phục mùa đông cho Kiria.
 
-Thêm ASMR của Horome.
+Thêm trang phục mùa đông cho Em gái Báo Tuyết (Younger Snow Leopard Sister).
 
-Thêm ASMR của Opatos.
+Thêm chân dung (Portrait) cho Duponne.
 
-Thêm ASMR của Demitas.
+Thêm đặc điểm (Feat) “Beheading Instinct” (Bản năng trảm thủ). Cấp cho Vorpal Bunny, Murder Ball, Ancient Mantis Shrimp và một số loài khác.
 
-Thêm văn bản mô tả (flavor text) cho nhiều vật phẩm.
+Thêm đặc điểm (Feat) “Mimic Ecology” (Sinh thái học Mimic). Cấp cho các loài Mimic.
 
-Thêm vũ khí “★Staff of Insanity” (Gậy Điên Loạn).
+Thêm trạng thái “Mental Wall” (Tường tâm trí). Áp dụng khi bị đánh văng bởi Telekinesis (để ngăn tình trạng bị kẹt/khóa mục tiêu).
 
-Thêm 1 NPC mới.
+Thêm nội thất “1-Man”. Đồng thời thêm vào phần thưởng casino.
 
-[Bổ sung và Thay đổi]
+Thêm nội thất “Bồn cầu”.
 
-Trang trí thêm cho Lễ hội Đêm Thánh tại Noyel. Cũng thêm các chủ tiệm lễ hội.
+Thêm 13 loại nội thất “Tượng khổng lồ”.
 
-Khi đặt nội thất trong Chế độ Mái (phím Alt), đã kích hoạt Đặt Tự do (phím Shift). Đặt Tự do giờ cũng khả dụng cho nội thất chiếm nhiều ô.
+Thêm 20 loại nội thất “Plamo” (Mô hình lắp ráp).
 
-Cư dân sẽ không còn tự tạo ra và ăn thức ăn khi đói nữa.
+Thêm 27 loại nội thất “Chim”. Điều chỉnh vị trí của một số đồ họa hiện có.
 
-Đồng hành sẽ không còn lấy vật phẩm mà nhân vật chơi (PC) đang cầm, ngay cả khi vật phẩm được cất trong các thùng chứa dùng chung.
+Thêm 2 loại sàn đá.
 
-Khi một đồng hành được trang bị thiết bị ban cho một kỹ năng đặc thù (feat), đồng hành đó không thể sử dụng gen chứa kỹ năng đó trong Máy tổng hợp gen nữa.
+Thêm 3 loại quái vật mới.
 
-Hiệu ứng của kỹ năng “Fox Ward” (Hộ Vệ Cáo) giờ áp dụng cho toàn bộ phe phái.
+Thêm 1 loại quái vật hiếm (Rare).
 
-Cải thiện hành vi khi đặt nội thất lên trên nội thất đang đặt giữa không trung. Cũng sửa lỗi vị trí đánh dấu (highlight) khi đặt có thể khác với vị trí đặt thực tế.
+[Thêm mới và Thay đổi]
+Thú cưng đang được Cưỡi hoặc Ký sinh sẽ không thể bị xẻ thịt (Butcher). Ngoài ra, hộp thoại xẻ thịt giờ sẽ hiển thị tên mục tiêu (để tránh xẻ thịt nhầm).
 
-Nội thất loại trôi nổi (cờ lễ hội, dây phơi đồ, v.v.) không còn bị ảnh hưởng bởi chiều cao của các nội thất đã đặt khác.
+Đồng đội cùng câu cá sẽ không nhặt các vật phẩm khác ngoài cá nếu chúng quá nặng.
 
-Cải thiện hành vi khi đặt nội thất trong khi giữ phím CTRL.
+Khi sử dụng Máy gia công nòng súng (Gun Barrel Processor) hoặc Đá mài (Grindstone), giờ đây có thể chọn vật phẩm trong túi đồ của đồng đội.
 
-Hiệu ứng vật phẩm không còn được hiển thị khi vật phẩm bị vứt xuống đất (chưa được đặt).
+Điều chỉnh cỡ chữ và bố cục trong trang thông tin nhân vật (Character Sheet) để văn bản không bị đè lên nhau ngay cả khi các thuộc tính chính cực cao.
 
-Thêm các biển hiệu quán ăn vô hình vào Aquli Teora, Willow, Mysilia, Derphy, Lumiest, Traveler's Anchorage (Vịnh Lữ Khách), Noyel, Specwing và Doga Ruins.
+Vật phẩm do cư dân hoặc đồng đội giữ giờ đây có thể đánh dấu là “Quan trọng” (Important). Các vật phẩm này sẽ không bị vứt bỏ hoặc tự động đưa vào thùng chứa dùng chung.
 
-Tăng giá của vũ khí “★Point Stick” (Gậy chỉ).
+Khi một nhà thám hiểm đầu hàng trong trận đấu tập (Sparring), họ sẽ không bị tấn công thêm nữa.
 
-Đã tạo một kho lưu trữ Elin riêng tư trên GitHub. Cảm ơn DK!
+Nấu bánh quy thất bại giờ sẽ tạo ra “Bánh quy phiền toái” (Annoying Cookies).
 
-Cập nhật đồ họa tuyết.
+Khi chuyển đổi bộ trang bị, các trang bị đã đặt trên thanh phím tắt (Hotbar) sẽ được loại trừ khỏi danh sách chuyển đổi.
+
+Điều chỉnh ưu tiên sắp xếp phụ theo tên vật phẩm. Khi sắp xếp, các vật phẩm như "Báo thám hiểm hàng tuần" sẽ được thứ tự từ số phát hành thấp nhất.
+
+Vị trí biểu tượng trạng thái và bong bóng thoại giờ được điều chỉnh riêng cho từng nhân vật. Đồng thời điều chỉnh vị trí biểu tượng trạng thái cho Tam giác long (Triceratops), Cá mập cơ khí (Mechanical Shark), v.v.
+
+Bộ sưu tập tranh trong game giờ được tải từ thư mục bên ngoài (do việc nhúng trực tiếp làm dung lượng game quá lớn). Ảnh thu nhỏ (Thumbnail) giờ sẽ được tạo tự động.
+
+Hỗ trợ định dạng jpeg khi tải ảnh bên ngoài cho Mod và các nội dung tương tự.
+
+Khi bị ảnh hưởng bởi trạng thái xấu, chúc phúc, nguyền rủa, v.v., chú thích (tooltip) khi di chuột qua biểu tượng sẽ hiển thị rõ loại trạng thái đó.
+
+Khi đồng đội đang được cưỡi hoặc ký sinh rơi vào trạng thái "buộc phải chết" do sát thương đặc biệt (tự sát, nở trứng, v.v.), họ sẽ bị giảm HP về 0 và rơi vào trạng thái bất tỉnh (thay vì chết hẳn).
+
+Điều chỉnh điều kiện kích hoạt Trảm thủ (Beheading). Đối với Boss và Unique, ngưỡng HP để kích hoạt sẽ thấp hơn.
+
+Tăng cường hiệu quả của ma pháp “Flare”.
+
+Điều chỉnh chỉ số cộng thêm của trạng thái “Mimic”. Mimic sẽ bị giải trừ nếu bị trúng vật phẩm ném hoặc bị quất bằng Roi trứng (Egg Whip).
+
+Khi vào trạng thái “Mimic”, nếu trong túi đồ có vật phẩm đánh dấu là “Quan trọng”, những vật phẩm đó sẽ được ưu tiên để biến hình.
+
+Đồng đội ở trạng thái “Mimic” giờ có thể bị nhắm mục tiêu và tương tác như bình thường.
+
+Điều chỉnh tỉ lệ xuất hiện của NPC “Mimic” (giảm xuống).
+
+Điều chỉnh đặc điểm “Beast of Possibility” của NPC “Demilich” từ -2 thành -1.
+
+Điều chỉnh phần thưởng tốc độ của NPC “Sao biển” (Starfish) từ -100 thành -70.
+
+Điều chỉnh các NPC cá lớn như “Cá khổng lồ”, “Lươn điện”, “Cá mập”, “Cá mập cơ khí” và “Em gái Cá mập”, chủ yếu là tăng HP (trước đây chúng yếu hơn so với ngoại hình).
+
+Thêm đặc tính không mục nát cho nội thất “(Plamo) Chim”.
+
+Thay đổi vật liệu mặc định của nội thất “Tượng Lulwy” thành cẩm thạch. Đồng thời thêm nội bộ tượng Ehekatl và tinh chỉnh tượng Jure.
+
+Thay đổi đồ họa cho nội thất “Bánh cưới”.
 
 Cập nhật bản dịch tiếng Trung.
 
+[Liên quan đến Án tử (Death Sentence)]
+Sứ giả cái chết (Messengers of Death) và Thần chết (Reapers) giờ sẽ đi theo người chơi khi vào trong lều.
+
+Cầu nguyện thần linh giờ sẽ xóa bỏ Án tử.
+
+Án tử sẽ bị xóa khi rời khỏi bản đồ hiện tại hoặc tiêu diệt kẻ đã tuyên án.
+
+Khi mục tiêu là kẻ địch mạnh, Án tử sẽ không gây chết ngay lập tức mà gây sát thương dựa trên phần trăm HP tối đa.
+
+Khi bị dính Án tử, chế độ tự động chiến đấu sẽ bị ngắt khi số lượt còn lại từ 3 trở xuống.
+
+Một số hiệu ứng "buộc phải chết" giờ sẽ giết cả thú cưng đang cưỡi hoặc ký sinh (hiện tại chỉ áp dụng cho Án tử).
+
+Cái chết êm dịu qua Tiêm thánh (Heavenly Injection) và Án tử giờ được xử lý là hai hiệu ứng riêng biệt.
+
+Thêm hiệu ứng hoạt ảnh cho Án tử.
+
 [Sửa lỗi]
+Sửa lỗi thư mục dịch thuật "Game" không tự động tạo khi tạo Mod dịch thuật.
 
-Sửa lỗi các Nghệ sĩ Học việc (Apprentice Artists) sử dụng trang phục mùa đông Quý tộc.
+Sửa lỗi các vật phẩm không thể bán lại xuất hiện trong danh sách sách cho mượn của NPC “Seeker”.
 
-Sửa lỗi hiển thị khi sao chép các khối loại dốc bằng Khối Giả (Fake Blocks).
+Điều chỉnh đồ họa của Hắc kỵ sĩ nữ (trước đây không có màu đen).
 
-Sửa lỗi NPC không có kỹ năng “Mana Body” (Thân thể Mana) có thể có thanh HP màu xanh lam.
+Sửa lỗi liên quan đến cấp độ quái vật khi triệu hồi.
 
-Sửa lỗi Chậm (Slow) và Nhanh (Haste) không thể ghi đè lên nhau một cách chính xác.
+Sửa lỗi bị giảm tốc độ dưới nước khi đang đi trên mặt nước đóng băng.
 
-Sửa lỗi vũ khí tầm xa không phải duy nhất (non-unique) bị cố định ở chất lượng bình thường khi được tái tạo.
-
-Fiama và Ash giờ sẽ được tạo mới nếu họ không tồn tại trong game vì bất kỳ lý do nào (như can thiệp của Mod) trong giai đoạn cuối của nhiệm vụ “Một vùng đất mới” (A New Land).
+Sửa lỗi tràn số (overflow) liên quan đến bùa chú tăng cường ma pháp.
 
 Các sửa lỗi và điều chỉnh nhỏ khác.
 
 [Ghi chú]
+Hình nền cho widget màn hình cạnh đã bị loại bỏ do việc đưa các file Art Gallery ra thư mục ngoài.
 
-Hành vi đặt nội thất đã thay đổi một chút. Trên các bản đồ đặc biệt sử dụng nhiều việc đặt giữa không trung hoặc đặt bằng CTRL, vị trí nội thất có thể bị dịch chuyển. Xin lỗi nếu điều này ảnh hưởng đến bản đồ của bạn. Các bản đồ cố định đã được kiểm tra kỹ nhất có thể, nhưng chúng tôi rất cảm kích nếu nhận được phản hồi nếu bạn nhận thấy nội thất bị đặt sai vị trí.
-
-NPC mới dự kiến sẽ có một số chức năng đặc biệt, tương tự như Kettle hoặc Demitas.
-
-Kiểm soát mã nguồn trước đây chưa được sử dụng, nhưng kho lưu trữ Elin đã được tạo thành công trên GitHub gần đây. Sắp tới, có thể sẽ chia sẻ các tác vụ phát triển, chẳng hạn như cải tiến tính năng liên quan đến Mod, với những người khác.
+Bản cập nhật này tập trung chủ yếu vào việc thêm vật phẩm và nội dung mới.
