@@ -1,5 +1,22 @@
 # CHANGELOG
 
+2/3/2026:
+Text:
+- version
+- Book/fox_tribe
+- Book/deity_strife
+- Book/deity_moonshadow
+- Book/deity_trickery
+Game:
+- List
+- General
+- Game
+- Chara
+- Thing
+- Race
+- Element
+- Religion
+
 28/2/2026 - Ver 1.267
 - Đã update phiên bản 267
 
