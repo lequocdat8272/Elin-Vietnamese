@@ -1,0 +1,51 @@
+Tuần san Nhà thám hiểm #18: Lập Tổ đội,Trung sĩ Kzar,10,1
+
+<i>Chào mừng đến với Tuần san Nhà thám hiểm, nơi chúng tôi đề cập đến những chủ đề gần gũi và thiết thực với những trái tim dũng cảm của các bạn.</i>
+
+
+Này các nhóc, chủ đề hôm nay là các tổ đội thám hiểm, nên ta sẽ đi thẳng vào vấn đề nhé. Việc thành lập một tổ đội cân bằng sẽ cải thiện đáng kể hiệu quả của các nhóc, vì các thành viên trong đội có thể hỗ trợ lẫn nhau ; chúng ta cũng sử dụng những chiến thuật đội hình này trong lực lượng đặc nhiệm.
+
+{p}
+<b>Vai trò</b>
+
+Những nhà thám hiểm tập sự thường chỉ mong có đông người là vui rồi, nhưng khi danh tiếng và các mối đe dọa cùng tăng lên, việc chọn lọc thành phần tổ đội trở nên cần thiết. Ai cũng muốn gây sát thương, nhưng chẳng ai chịu làm người chữa trị cả.
+
+Tổ đội thám hiểm của các nhóc cần:
+
+* Chịu đòn. Điều này có nghĩa là thu hút và hứng chịu các đòn tấn công mà không bị gục ngã. Để thu hút kẻ địch, kỹ năng khiêu khích là đủ cho giai đoạn đầu; về sau, các trang bị hỗ trợ và đặc tính (feats) sẽ trở nên sẵn có. Vấn đề thứ hai được giải quyết bằng cách cải thiện khả năng phòng thủ và kháng phép, gia tăng lượng máu tối đa thông qua chỉ số sinh mệnh và sức bền, cùng với các trang bị cung cấp những kỹ năng tương ứng.
+{p}
+
+* Chữa trị. Tốt nhất là có một người hồi máu chuyên tâm vào việc chăm sóc vết thương. Lý tưởng nhất là người sở hữu phép thuật chữa lành mạnh mẽ và có bản năng hồi máu. Hồi máu theo thời gian cũng rất hữu ích, nhưng đó không nên là phép thuật duy nhất mà người chữa trị của các nhóc có ; nó thiếu đi sự linh hoạt và sức mạnh của một phép hồi máu trực tiếp. Hồi sinh đồng đội đã gục ngã cũng là một kỹ năng rất đáng giá cần có.
+
+* Gây sát thương. Đây là vai trò phổ biến nhất ; câu nói "Ta đã hạ gục con rồng" chắc chắn sẽ thu hút sự chú ý hơn nhiều so với "Ta đã ăn đòn trong lúc gã kia hạ gục con rồng" hay "Ta đã bơm máu cho gã hạ gục con rồng". Tổ đội của các nhóc nên có sự kết hợp giữa sát thương vật lý và phép thuật để sẵn sàng đối phó với bất cứ thứ gì mà Nefia ném vào các nhóc ; sát thương nguyên tố thường đi kèm với các hiệu ứng trạng thái, vì vậy hãy cân nhắc để những người này kiêm luôn việc gây bất lợi cho kẻ địch.
+{p}
+* Buff và debuff. Thường bị đánh giá thấp, nhưng các phép buff và debuff có thể biến một kẻ địch nguy hiểm thành dễ đối phó. Hãy điều chỉnh chúng cho phù hợp với tổ đội của mình, chiến binh và xạ thủ hưởng lợi nhiều từ trạng thái suy yếu (weakness) và tai ương (bane), trong khi một nhóm thiên về phép thuật lại chuộng ác mộng (nightmare) và sẹo nguyên tố (elemental scar) hơn. Các phép buff thì mang tính bao quát hơn, vì ai cũng có thể hưởng lợi từ việc được tăng thêm phòng thủ.
+
+
+Một người có thể đảm nhiệm nhiều vai trò, các nhóc có thể có một người chuyên hồi máu nhưng vẫn rảnh tay gây chút sát thương khi không cần chữa trị. Chỉ cần đảm bảo mọi khía cạnh cốt lõi đều được bao quát, tổ đội của các nhóc sẽ ổn thôi.
+{p}
+<b>Quản lý</b>
+
+Quay lại thời của ta, việc tập hợp một tiểu đội đòi hỏi phải chạy đôn chạy đáo khắp nơi, nhưng giờ đây chức năng danh sách mới này khiến việc lập tổ đội thám hiểm trở nên quá dễ dàng. Nó có thể tập hợp mọi người lại dù họ đang ở các thành phố khác nhau và giúp việc giải tán đội trở nên gọn gàng hơn khi xong việc ; những nhà thám hiểm hợp tính nhau có thể tự đăng ký thành một nhóm để dễ dàng tái hợp sau này.
+
+Các nhóc có thể nhận bảng danh sách hoặc sổ danh sách từ bất kỳ thanh tra biên giới nào. Ta thừa nhận là nó tiện lợi, nhưng một cựu binh như ta không khỏi cảm thấy có sự mất mát về yếu tố tình người so với việc mời mặt đối mặt. Ta đoán điều đó là không thể tránh khỏi với sự trỗi dậy của Tân Vương Quốc…
+
+{p}
+<b>Đội hình</b>
+
+Vì các nhóc đang đọc cuốn sách này, ta sẽ mặc định các nhóc là trưởng nhóm, người dẫn đầu xuyên qua các Nefia trong khi những người khác theo sát phía sau. Luôn là như vậy, nếu là người đứng tuyến sau, các nhóc có thể lùi lại ngay khi bắt đầu giao chiến với kẻ địch.
+
+Hãy bám sát nhau; tốc độ của cả nhóm phụ thuộc vào thành viên chậm nhất. Hãy bảo đồng đội bám sát và dùng lệnh kéo họ lại để giữ nhịp độ di chuyển cùng các nhóc. Trong trường hợp khẩn cấp như có ai đó đạp phải bẫy dịch chuyển, phép dịch chuyển nhóm sẽ tập hợp và định vị lại tổ đội của các nhóc.
+
+Các Nefia thường khá chật hẹp, với những hành lang và nút thắt cản trở việc triển khai vị trí đội hình hiệu quả. Những nhóm thám hiểm nhỏ thường lợi dụng địa hình này để cân bằng tỷ lệ sống sót trước bầy đàn kẻ địch, nhưng chúng lại là vấn đề đối với các tổ đội lớn. Hãy tạo không gian để di chuyển bằng cách đào hoặc phá sập các bức tường.
+{p}
+Quá nhiều người đứng tuyến đầu sẽ ngáng đường nhau. Hãy trang bị cho mọi người một vũ khí đánh xa để họ có thể làm <b>điều gì đó</b> trong mọi tình huống. Nắm rõ khoảng cách chiến đấu ưa thích của từng người và phân công vai trò cho phù hợp. Kẻ nào đứng không thì cũng chẳng khác gì người chết.
+
+
+<b>Tóm tắt</b>
+
+Con người cũng giống như trang bị: sở hữu thôi là chưa đủ, các nhóc cần biết cách sử dụng họ sao cho đúng. Một tổ đội được tổ chức tốt sẽ vượt qua những thử thách khó nhằn hơn rất nhiều so với một đám ô hợp chỉ hy vọng áp đảo Nefia bằng số lượng.
+
+***
+
+<i>- Trong số tiếp theo, chúng ta sẽ xem xét một mối đe dọa xã hội khác: ma cà rồng!</i>

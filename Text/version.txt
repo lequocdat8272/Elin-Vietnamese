@@ -11,139 +11,182 @@ Welcome to Elin, and thank you for participating in the Early Access(EA)! We pla
 {link,Dev Room(Official) - Elin Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
 
 {topic, Elin Update Information}
-■ 06/02/2026 EA 23.267 Stable Patch 1
-[Sửa lỗi]
+■ 4/11/2026 EA 23.295 Stable
 
-Sửa các lỗi xảy ra khi tải một số bản Mod.
+Sau khi cập nhật lên phiên bản ổn định (stable), các bản Mod từ những phiên bản trước có thể sẽ ngừng hoạt động hoặc hoạt động bất thường. Nếu bạn nhận thấy có lỗi xảy ra, vui lòng thử vô hiệu hóa các Mod và kiểm tra lại.
 
-■ 06/02/2026 EA 23.267 Stable
-Sau khi cập nhật phiên bản Stable, các Mod từ phiên bản trước có thể ngừng hoạt động hoặc hoạt động bất thường. Nếu bạn thấy có hiện tượng lạ, vui lòng thử tắt Mod và kiểm tra lại.
+[Điểm nổi bật]
+
+Thương nhân lữ hành (Traveling Merchants) giờ đây thỉnh thoảng sẽ xuất hiện trên bản đồ thế giới. Kho đồ của họ sẽ thay đổi tùy thuộc vào loại thương nhân. Thương nhân lữ hành cũng chắc chắn sẽ xuất hiện tại các bản đồ lễ hội của từng mùa.
+
+Sát thủ bóng ma (Phantom killer) giờ đây có tỷ lệ hiếm xuất hiện khi các thị trấn được tạo mới lại (regenerated).
+
+Giờ đây bạn có thể ngụy trang bản thân thành một em bé. Khi ở trong hình dạng em bé, tùy chọn hội thoại "Mẹ ơi!" ("Mommy!") sẽ xuất hiện khi trò chuyện với các NPC.
+
+Bạn giờ đây có thể trở thành một người mẹ (mommy) khi nói chuyện với các NPC em bé hoặc các NPC đang trong trạng thái em bé.
+
+Thêm các chủng tộc Thú nhân (beastfolk) như Ratkin và Ravian.
+
+Khi bạn sở hữu Giấy phép Mạo hiểm giả Cấp cao (Advanced Adventurer License), cấp độ kẻ địch trong các cuộc chạm trán (encounter) trên bản đồ thế giới giờ sẽ mở rộng theo độ Danh tiếng của bạn.
+
+Tăng sức mạnh (Buff) cho phước lành của Yevan: Ngọn lửa Xung đột (Flames of Strife).
+
+Mở rộng và cải thiện các tính năng liên quan đến mod, đồng thời sửa các lỗi hiện có.
 
 [Nội dung mới]
-(Nguyện vọng của Backer [Người donate cho dự án]) Thêm ma pháp “Telekinesis” (Viễn di lực).
 
-Cập nhật bộ sưu tập tranh (Art Gallery) trong game.
+Thêm chủng tộc "Ratkin".
 
-Thêm trang phục mùa đông cho Verna.
+Thêm chủng tộc "Ravian".
 
-Thêm trang phục mùa đông cho Mesherada.
+Thêm chủng tộc "Người sói" (Werewolf).
 
-Thêm trang phục mùa đông cho Kiria.
+Thêm đặc tính (feat) "Khuôn mặt giả" (False Face).
 
-Thêm trang phục mùa đông cho Em gái Báo Tuyết (Younger Snow Leopard Sister).
+Thêm đặc tính "Bản năng Sát thủ" (Killing Instinct). Được cấp cho một số NPC.
 
-Thêm chân dung (Portrait) cho Duponne.
+Thêm đặc tính "Nhà truyền giáo của Tình yêu" (Missionary of Love).
 
-Thêm đặc điểm (Feat) “Beheading Instinct” (Bản năng trảm thủ). Cấp cho Vorpal Bunny, Murder Ball, Ancient Mantis Shrimp và một số loài khác.
+Thêm đặc tính "Sinh vật Đáng buồn" (Sad Creature).
 
-Thêm đặc điểm (Feat) “Mimic Ecology” (Sinh thái học Mimic). Cấp cho các loài Mimic.
+Thêm kỹ năng (ability) "Lớp vỏ Con người" (Human Guise).
 
-Thêm trạng thái “Mental Wall” (Tường tâm trí). Áp dụng khi bị đánh văng bởi Telekinesis (để ngăn tình trạng bị kẹt/khóa mục tiêu).
+Thêm trạng thái (status) "Lớp vỏ Con người". Đồng thời thực hiện nhiều điều chỉnh cho trạng thái "Bắt chước" (Mimic).
 
-Thêm nội thất “1-Man”. Đồng thời thêm vào phần thưởng casino.
+Thêm Sách Đỏ "Tạp chí Mạo hiểm giả Tuần san Số 18: Quản lý Tổ đội" (Adventurer's Weekly Issue 18: Party Management).
 
-Thêm nội thất “Bồn cầu”.
+Thêm Sách Đỏ "Tạp chí Mạo hiểm giả Tuần san Số 19: Ma cà rồng" (Vampires). Đã thêm vào kho hàng của Moyer.
 
-Thêm 13 loại nội thất “Tượng khổng lồ”.
+Thêm Sách Đỏ "Tạp chí Mạo hiểm giả Tuần san Số 20: Tái chế" (Recycling). Đã thêm vào kho hàng của Moyer.
 
-Thêm 20 loại nội thất “Plamo” (Mô hình lắp ráp).
+Thêm vật phẩm "Sổ Danh sách" (Roster Ledger). Đã thêm vào kho hàng của Loytel. Đồng thời điều chỉnh lại giá các mặt hàng của Loytel.
 
-Thêm 27 loại nội thất “Chim”. Điều chỉnh vị trí của một số đồ họa hiện có.
+Thêm vật phẩm "Sữa mẹ" (Mother Milk) (đang thử nghiệm).
 
-Thêm 2 loại sàn đá.
+Thêm vật phẩm "Bình thuốc Thoái hóa" (Potion of Degeneration). Hiện đang được bán bởi Rodwyn.
 
-Thêm 3 loại quái vật mới.
+Thêm đồ nội thất "Tượng Jure (Khổng lồ)" (Jure Statue (Colossus)).
 
-Thêm 1 loại quái vật hiếm (Rare).
+Thêm 3 loại đồ nội thất "Loa" (Speaker).
 
-[Thêm mới và Thay đổi]
-Thú cưng đang được Cưỡi hoặc Ký sinh sẽ không thể bị xẻ thịt (Butcher). Ngoài ra, hộp thoại xẻ thịt giờ sẽ hiển thị tên mục tiêu (để tránh xẻ thịt nhầm).
+Thêm đồ nội thất "Bục Sân khấu" (Stage Platform).
 
-Đồng đội cùng câu cá sẽ không nhặt các vật phẩm khác ngoài cá nếu chúng quá nặng.
+Thêm đồ nội thất "Cửa Người ngoài hành tinh" (Alien Door). Đã thêm công thức chế tạo.
 
-Khi sử dụng Máy gia công nòng súng (Gun Barrel Processor) hoặc Đá mài (Grindstone), giờ đây có thể chọn vật phẩm trong túi đồ của đồng đội.
+Thêm 2 loại đồ nội thất "Trang trí Kẹo" (Candy Decoration).
 
-Điều chỉnh cỡ chữ và bố cục trong trang thông tin nhân vật (Character Sheet) để văn bản không bị đè lên nhau ngay cả khi các thuộc tính chính cực cao.
+Thêm 2 loại đồ nội thất "Đèn chiếu điểm" (Spotlight).
 
-Vật phẩm do cư dân hoặc đồng đội giữ giờ đây có thể đánh dấu là “Quan trọng” (Important). Các vật phẩm này sẽ không bị vứt bỏ hoặc tự động đưa vào thùng chứa dùng chung.
+Thêm nhạc cụ "Harmonica". Đã thêm công thức chế tạo.
 
-Khi một nhà thám hiểm đầu hàng trong trận đấu tập (Sparring), họ sẽ không bị tấn công thêm nữa.
+Thêm các bản nhạc biểu diễn độc quyền cho "Harmonica".
 
-Nấu bánh quy thất bại giờ sẽ tạo ra “Bánh quy phiền toái” (Annoying Cookies).
+Thêm các biến thể cho ô gạch (tile) "Khối Người ngoài hành tinh" (Alien Block).
 
-Khi chuyển đổi bộ trang bị, các trang bị đã đặt trên thanh phím tắt (Hotbar) sẽ được loại trừ khỏi danh sách chuyển đổi.
+Thêm ô gạch "Khối Người ngoài hành tinh (Khác với loại trên)" (Alien Block (Different from the Above)).
 
-Điều chỉnh ưu tiên sắp xếp phụ theo tên vật phẩm. Khi sắp xếp, các vật phẩm như "Báo thám hiểm hàng tuần" sẽ được thứ tự từ số phát hành thấp nhất.
+Thêm 3 loại ô gạch "Tường Người ngoài hành tinh" (Alien Wall).
 
-Vị trí biểu tượng trạng thái và bong bóng thoại giờ được điều chỉnh riêng cho từng nhân vật. Đồng thời điều chỉnh vị trí biểu tượng trạng thái cho Tam giác long (Triceratops), Cá mập cơ khí (Mechanical Shark), v.v.
+Thêm 3 loại ô gạch "Cột Người ngoài hành tinh" (Alien Pillar).
 
-Bộ sưu tập tranh trong game giờ được tải từ thư mục bên ngoài (do việc nhúng trực tiếp làm dung lượng game quá lớn). Ảnh thu nhỏ (Thumbnail) giờ sẽ được tạo tự động.
+Thêm 3 loại ô gạch "Sàn Người ngoài hành tinh" (Alien Floor). Thêm âm thanh bước chân nhão nhoét.
 
-Hỗ trợ định dạng jpeg khi tải ảnh bên ngoài cho Mod và các nội dung tương tự.
+Thêm 2 loại ô gạch "Sàn Sân khấu" (Stage Floor).
 
-Khi bị ảnh hưởng bởi trạng thái xấu, chúc phúc, nguyền rủa, v.v., chú thích (tooltip) khi di chuột qua biểu tượng sẽ hiển thị rõ loại trạng thái đó.
+Thêm 4 NPC.
 
-Khi đồng đội đang được cưỡi hoặc ký sinh rơi vào trạng thái "buộc phải chết" do sát thương đặc biệt (tự sát, nở trứng, v.v.), họ sẽ bị giảm HP về 0 và rơi vào trạng thái bất tỉnh (thay vì chết hẳn).
+Thêm 2 quái vật.
 
-Điều chỉnh điều kiện kích hoạt Trảm thủ (Beheading). Đối với Boss và Unique, ngưỡng HP để kích hoạt sẽ thấp hơn.
+[Bổ sung và Thay đổi]
 
-Tăng cường hiệu quả của ma pháp “Flare”.
+Đặt cấp độ tối đa cho phước lành "Flames of Strife" (Ngọn lửa Xung đột) của Yevan là 5. Hiệu ứng của nó đã được đổi thành tăng sát thương vật lý và tăng giới hạn (cap) sát thương vật lý. Bảng thông tin (tooltip) giờ đây cũng hiển thị rõ ràng hơn các hiệu ứng hiện tại.
 
-Điều chỉnh chỉ số cộng thêm của trạng thái “Mimic”. Mimic sẽ bị giải trừ nếu bị trúng vật phẩm ném hoặc bị quất bằng Roi trứng (Egg Whip).
+Khi "Flames of Strife" đạt cấp 1 trở lên, hiệu ứng tiêu hao SP của nó giờ sẽ tăng dần.
 
-Khi vào trạng thái “Mimic”, nếu trong túi đồ có vật phẩm đánh dấu là “Quan trọng”, những vật phẩm đó sẽ được ưu tiên để biến hình.
+Khi "Flames of Strife" đạt cấp 2 trở lên, nó có thể lây lan sang đồng minh.
 
-Đồng đội ở trạng thái “Mimic” giờ có thể bị nhắm mục tiêu và tương tác như bình thường.
+Khi "Flames of Strife" đạt cấp 3 trở lên, chỉ số kháng chảy máu sẽ tăng dần.
 
-Điều chỉnh tỉ lệ xuất hiện của NPC “Mimic” (giảm xuống).
+Các NPC trung lập giờ đây có thể xuất hiện ngẫu nhiên trên các bản đồ ngoài trời ven đường.
 
-Điều chỉnh đặc điểm “Beast of Possibility” của NPC “Demilich” từ -2 thành -1.
+Thêm mức giới hạn cho tiềm năng (potential) nhận được từ các hành động succubus (succubus play) và đóng vai em bé (baby play), vì nếu lạm dụng baby play lên các NPC như Garden Master có thể khiến điểm này tăng tối đa ngay lập tức.
 
-Điều chỉnh phần thưởng tốc độ của NPC “Sao biển” (Starfish) từ -100 thành -70.
+Bạn sẽ không còn nhận được điểm kinh nghiệm tiềm năng nếu chết trong lúc succubus play hoặc baby play.
 
-Điều chỉnh các NPC cá lớn như “Cá khổng lồ”, “Lươn điện”, “Cá mập”, “Cá mập cơ khí” và “Em gái Cá mập”, chủ yếu là tăng HP (trước đây chúng yếu hơn so với ngoại hình).
+Khi thờ phụng Horome, bất kỳ ai cũng có thể trở thành "mama" của bạn. Ngoài ra, những tín đồ của Horome sẽ không còn biến thành "Sinh vật Đáng buồn" (Sad Creature) dù họ có lặp lại baby play nhiều lần.
 
-Thêm đặc tính không mục nát cho nội thất “(Plamo) Chim”.
+Các NPC được tạo trên bản đồ thế giới giờ sẽ hiển thị tên là "???" (đang thử nghiệm, vì NPC thực sự chỉ được tạo ra khi chạm trán).
 
-Thay đổi vật liệu mặc định của nội thất “Tượng Lulwy” thành cẩm thạch. Đồng thời thêm nội bộ tượng Ehekatl và tinh chỉnh tượng Jure.
+Các quái vật độc nhất (Unique monsters) và những NPC tương tự sẽ không còn xuất hiện ngẫu nhiên trên bản đồ thế giới.
 
-Thay đổi đồ họa cho nội thất “Bánh cưới”.
+Nếu một NPC được tạo ra trong một cuộc chạm trán sở hữu đặc tính Em bé (Baby feat), NPC đó sẽ không bị tự động điều chỉnh chỉ số theo cấp độ danh tiếng của người chơi trong một số trường hợp nhất định.
+
+Liên tục chọn "Ta sẽ tấn công ngươi" ("I'm going to attack you") khi nói chuyện với thương nhân lữ hành giờ sẽ làm giảm karma (nghiệp) thay vì tăng lên.
+
+Điều chỉnh nhẹ các chỉ số Sức mạnh (Strength) của một số chủng tộc không thể điều khiển (non-playable races).
+
+Các NPC không còn mua hoặc bán trên các bản đồ của người chơi (user maps).
+
+Thêm "Nấu ăn" (Cooking) làm kỹ năng khởi đầu cho chủng tộc "Juere".
+
+Thêm "Đuôi sói" (Wolf Tail) làm vật phẩm rớt hiếm cho các NPC thuộc chủng tộc "Người sói".
+
+Thêm đặc tính "Sinh vật Đáng buồn" (Sad Creature) cho NPC "Raphael".
+
+Điều chỉnh lại giá các mặt hàng của Người canh gác Khu vườn (Keeper of the Garden).
+
+Thêm "Đám mây" (Cloud) vào kho hàng của Người canh gác Khu vườn và thay đổi số lượng tồn kho của mỗi vật phẩm thành 99.
+
+Thêm các tượng thần khổng lồ (god colossi) khác nhau vào kho hàng của Người canh gác Khu vườn.
+
+Vật phẩm "Lò ấp trứng" (Incubator) giờ đây cũng có thể được sử dụng bên trong lều (tents).
+
+Các biển báo trang trí (Decorative signs) giờ cũng có thể được sử dụng bên trong lều và người chơi có thể thay đổi thiết kế của chúng.
+
+Các loại biển hiệu như biển báo phòng ăn giờ cũng có chức năng tương tự khi ở bên trong lều.
+
+Trong bảng "Thông tin Trạng thái" (Status Info), hướng hiển thị của văn bản và biểu tượng giờ sẽ thay đổi tùy thuộc vào vị trí xoay (pivot position).
+
+(Phiên bản tiếng Anh) Đổi tên "resident list" (danh sách cư dân) thành "resident ledger" (sổ cư dân).
 
 Cập nhật bản dịch tiếng Trung.
 
-[Liên quan đến Án tử (Death Sentence)]
-Sứ giả cái chết (Messengers of Death) và Thần chết (Reapers) giờ sẽ đi theo người chơi khi vào trong lều.
+[Liên quan đến Mod] (Cảm ơn DK)
 
-Cầu nguyện thần linh giờ sẽ xóa bỏ Án tử.
+Mở rộng các chức năng mod liên quan đến kết cấu (textures) và hình ảnh (sprites).
 
-Án tử sẽ bị xóa khi rời khỏi bản đồ hiện tại hoặc tiêu diệt kẻ đã tuyên án.
+Thêm hỗ trợ kết cấu tuyết cho các giao diện tùy chỉnh (custom skins).
 
-Khi mục tiêu là kẻ địch mạnh, Án tử sẽ không gây chết ngay lập tức mà gây sát thương dựa trên phần trăm HP tối đa.
+Thêm hỗ trợ hoạt ảnh (animation) cho các sprite tùy chỉnh.
 
-Khi bị dính Án tử, chế độ tự động chiến đấu sẽ bị ngắt khi số lượt còn lại từ 3 trở xuống.
+Sửa lỗi liên quan đến hành vi khi tải mod lên trong lúc chơi bằng tài khoản Steam Family.
 
-Một số hiệu ứng "buộc phải chết" giờ sẽ giết cả thú cưng đang cưỡi hoặc ký sinh (hiện tại chỉ áp dụng cho Án tử).
+Sửa lỗi thỉnh thoảng không thể lấy được tên các mod đã theo dõi (subscribed) từ nền tảng Steam.
 
-Cái chết êm dịu qua Tiêm thánh (Heavenly Injection) và Án tử giờ được xử lý là hai hiệu ứng riêng biệt.
+Sửa các lỗi liên quan đến mod ngôn ngữ.
 
-Thêm hiệu ứng hoạt ảnh cho Án tử.
+Thêm các tính năng và sửa những lỗi nhỏ khác liên quan đến mod.
 
 [Sửa lỗi]
-Sửa lỗi thư mục dịch thuật "Game" không tự động tạo khi tạo Mod dịch thuật.
 
-Sửa lỗi các vật phẩm không thể bán lại xuất hiện trong danh sách sách cho mượn của NPC “Seeker”.
+Sửa lỗi các hiệu ứng đòn đánh hút thể lực (stamina drain) và hút năng lượng (mana drain) không được áp dụng vào các đòn tấn công tay không (unarmed attacks).
 
-Điều chỉnh đồ họa của Hắc kỵ sĩ nữ (trước đây không có màu đen).
+Sửa lỗi một số vật phẩm, như hộp cơm làm bằng tình yêu thương (lovingly made lunchbox), không thể được đặt xuống mặt đất.
 
-Sửa lỗi liên quan đến cấp độ quái vật khi triệu hồi.
+Sửa lỗi mục tiêu của Dịch chuyển đồ vật (Telekinesis) sẽ bị thay đổi nếu hộp thoại cảnh báo thiếu mana xuất hiện khi đang dùng kỹ năng này.
 
-Sửa lỗi bị giảm tốc độ dưới nước khi đang đi trên mặt nước đóng băng.
+Sửa lỗi hiệu ứng của Còi Đình chiến (Ceasefire Whistle) có thể bị mất tác dụng khi đi ngủ.
 
-Sửa lỗi tràn số (overflow) liên quan đến bùa chú tăng cường ma pháp.
+Sửa lại một số câu thoại trong phần cốt truyện khi Kettle được mô tả là "nhìn thấy mọi thứ bằng mắt" dù thực tế ông ấy bị mù. Đồng thời sửa vài lỗi chính tả trong thời báo Palmia Times.
+
+Sửa nhiều lỗi tràn luồng xử lý (processing overflows).
 
 Các sửa lỗi và điều chỉnh nhỏ khác.
 
-[Ghi chú]
-Hình nền cho widget màn hình cạnh đã bị loại bỏ do việc đưa các file Art Gallery ra thư mục ngoài.
+[Lưu ý]
 
-Bản cập nhật này tập trung chủ yếu vào việc thêm vật phẩm và nội dung mới.
+Việc karma (nghiệp) tăng lên khi chọn "Ta sẽ tấn công ngươi" với thương nhân lữ hành từng là chủ ý của nhà phát triển, vì đó được xem là hành vi lịch sự hơn so với việc xông vào đánh lén mà không báo trước.
+
+Đối với Sát thủ bóng ma, sẽ có thêm nhiều cơ chế (gimmicks) và tính năng liên quan được thêm vào trong bản phát hành ổn định tiếp theo.
+
+Các kỹ năng và thuộc tính của những chủng tộc thú nhân mới được thêm vào dự kiến sẽ vẫn tiếp tục được điều chỉnh cân bằng trong thời gian tới.
