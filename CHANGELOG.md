@@ -1,5 +1,9 @@
 # CHANGELOG
 
+23/4/2026:
+- Đã update phiên bản 295
+Tiếp tục push lên github sau một thời gian mình lười :>
+
 2/3/2026:
 Text:
 - version
